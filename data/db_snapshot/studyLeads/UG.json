@@ -1,0 +1,305 @@
+{
+  "country": "أوغندا",
+  "leads": [
+    {
+      "action": "email_intro",
+      "actionReason": "Publishes a generic email and phone; dedicated bakery-ingredients distributor with no visible cream/chocolate supplier. Ask who supplies whipping cream today.",
+      "city": "Kampala (Kikuubo, Nambuusi Arcade)",
+      "company": "INNIC Enterprises Ltd",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": "http://innicuganda.com/",
+        "emailSourceUrl": "http://innicuganda.com/",
+        "generalPhone": "+256 773 894 992",
+        "genericEmail": "innic.ug@gmail.com"
+      },
+      "evidence": "Own site: \"Your Trusted Baking & Food Ingredients Partner\"; sells bakery flavours, colours, Muzuri icing sugar, preservatives, skimmed milk powder, ice-cream powders. No whipping-cream or chocolate brand listed. No public evidence of an exclusive arrangement found.",
+      "fit": "Whipping cream powder, fillings, glazes, cake mixes, compound chocolate — fills gaps in a range that today is flavours, colours, icing sugar, milk powder and ice-cream powders.",
+      "language": "en",
+      "priority": "A",
+      "sources": [
+        "http://innicuganda.com/"
+      ],
+      "type": "Bakery & food ingredients distributor",
+      "website": "http://innicuganda.com/"
+    },
+    {
+      "action": "email_intro",
+      "actionReason": "Strong cold-chain distributor to bakeries/foodservice with published email. Pitch ranges Rich's doesn't cover.",
+      "city": "Kampala (Bukasa Rd, Muyenga)",
+      "company": "Kookee Enterprises Ltd",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": "https://kookee.co.ug/contact/",
+        "emailSourceUrl": "https://kookee.co.ug/contact/",
+        "generalPhone": "+256 414 581012",
+        "genericEmail": "info@kookee.co.ug"
+      },
+      "evidence": "Homepage lists Rich's Bettercrème among brands; imports Emborg, Kellogg's; Volza shows ~30 whipped-cream import shipments 2023–2025. LOCK-IN FLAG: distributes Rich's (bigger competitor) — do not lead with whipping cream.",
+      "fit": "Fillings, glazes, waffle/crepe sauces, spreads, ice-cream toppings; whipping cream only as second-line/price option.",
+      "language": "en",
+      "priority": "A",
+      "sources": [
+        "https://kookee.co.ug/",
+        "https://kookee.co.ug/about/",
+        "https://kookee.co.ug/contact/",
+        "https://www.volza.com/p/whipped-cream/buyers/buyers-in-uganda/"
+      ],
+      "type": "FMCG importer/distributor + ice-cream maker (Kooksy)",
+      "website": "https://kookee.co.ug/"
+    },
+    {
+      "action": "email_intro",
+      "actionReason": "Published sales email; large local bakery that also sells bakery inputs.",
+      "city": "Kampala (Ring Rd, Nalukolongo)",
+      "company": "Ntake Bakery & Co Ltd",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": "https://www.ntakegroup.co/",
+        "emailSourceUrl": "https://www.ntakegroup.co/",
+        "generalPhone": "+256 200 912 404",
+        "genericEmail": "Sales@ntakegroup.com"
+      },
+      "evidence": "Own site: bread, cakes, pastries plus flour, margarine and bakers' fat. Makes its own fats — do not pitch fats. No public tie to a competitor found.",
+      "fit": "Cake mixes, fruit/bake-stable fillings, glazes, whipping cream for cakes; possibly redistribution to small bakers.",
+      "language": "en",
+      "priority": "A",
+      "sources": [
+        "https://www.ntakegroup.co/",
+        "https://www.monitor.co.ug/uganda/special-reports/supermarkets-kicking-local-bakeries-out-of-business-1557174"
+      ],
+      "type": "Industrial bakery & food manufacturer",
+      "website": "https://www.ntakegroup.co/"
+    },
+    {
+      "action": "call",
+      "actionReason": "No contact on an own website found; phone appears only in the KCCA city directory. Call the head office / approach procurement via LinkedIn company page.",
+      "city": "Kampala",
+      "company": "Café Javas Ltd (Mandela Group)",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Multi-outlet chain in Uganda and Nairobi (8 outlets in 2018, likely more now); listed by Export Genius as a direct importer of cooking cream. No public tie to a competitor found.",
+      "fit": "Whipping cream (liquid/powder), waffle/crepe sauces, chocolate sauces, fillings for desserts.",
+      "language": "en",
+      "priority": "A",
+      "sources": [
+        "https://independent.co.ug/now-cafe-javas-in-nairobi",
+        "https://www.exportgenius.in/uganda-importers-of-cooking-cream",
+        "https://visitkampala.kcca.go.ug/business_details/cafe-javas"
+      ],
+      "type": "Café & restaurant chain (cakes, desserts)",
+      "website": null
+    },
+    {
+      "action": "call",
+      "actionReason": "No official website or published contact found; reach via outlet visit, the Egyptian commercial office in Kampala, or trade fair.",
+      "city": "Kampala",
+      "company": "Hot Loaf Bakery",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Monitor (2014): 12 outlets, 30,000+ loaves/day, cakes, cookies, pastries. Data old; no public tie to a competitor found.",
+      "fit": "Cake mixes, fillings, glazes, whipping cream.",
+      "language": "en",
+      "priority": "B",
+      "sources": [
+        "https://www.monitor.co.ug/uganda/business/prosper/28-years-of-hot-loaves--1574382"
+      ],
+      "type": "Large bakery chain",
+      "website": null
+    },
+    {
+      "action": "call",
+      "actionReason": "No own-site contact; phone only in KCCA directory. Visit Namuwongo branch.",
+      "city": "Kampala (Namuwongo Rd)",
+      "company": "BROOD Bakery & Café",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "KCCA directory: sourdough, European pastries, croissants; wholesale and retail. Supplies bread to Café Javas. Possible common ownership with Hot Loaf (Monitor 2015) — unverified.",
+      "fit": "Fillings, glazes, compound/couverture chocolate, whipping cream.",
+      "language": "en",
+      "priority": "B",
+      "sources": [
+        "https://visitkampala.kcca.go.ug/business_details/brood",
+        "https://www.howwemadeitinafrica.com/entrepreneur-watch-baking-bread-the-dutch-way-in-uganda/",
+        "https://www.monitor.co.ug/uganda/business/commodities/javas-brood-enter-confectionary-deal-1627344"
+      ],
+      "type": "Artisan bakery-café chain with wholesale supply",
+      "website": null
+    },
+    {
+      "action": "form",
+      "actionReason": "No published contact available; use website/LinkedIn company page once site is back, or meet at Agri Food Uganda.",
+      "city": "Kampala",
+      "company": "Hariss International Ltd (Riham)",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Launched Riham confectionery line (~2022). Website under maintenance at research time. No public tie to a competitor found.",
+      "fit": "Compound chocolate, cream and fruit fillings for biscuits/confectionery (industrial packs).",
+      "language": "en",
+      "priority": "B",
+      "sources": [
+        "https://www.foodbusinessmea.com/uganda-based-hariss-international-introduces-confectionery-line-under-riham-brand/",
+        "https://www.fuzu.com/uganda/company/hariss-international"
+      ],
+      "type": "Food & beverage manufacturer (biscuits, confectionery)",
+      "website": "https://harissint.com/"
+    },
+    {
+      "action": "call",
+      "actionReason": "No official website/contact found; approach via Egyptian commercial office or trade fair.",
+      "city": "Kampala (Ntinda Industrial Area)",
+      "company": "Britania Allied Industries Ltd",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "URA Taxman profile: makes biscuits, confectionery, juices and sauces; Euromonitor names Britania among Uganda snacks players. No public tie to a competitor found.",
+      "fit": "Compound chocolate coatings, fillings, spreads for biscuits.",
+      "language": "en",
+      "priority": "B",
+      "sources": [
+        "https://thetaxman.ura.go.ug/?p=6031",
+        "https://www.euromonitor.com/snacks-in-uganda/report"
+      ],
+      "type": "Biscuits & confectionery manufacturer",
+      "website": null
+    },
+    {
+      "action": "form",
+      "actionReason": "No published buyer contact; approach MAF supplier portal / existing GCC Carrefour contacts.",
+      "city": "Kampala (7 outlets)",
+      "company": "Carrefour Uganda (Majid Al Futtaim)",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Opened 2019, took over ex-Shoprite sites; revenue Shs157.8bn in 2025, still loss-making. Buying may be centralised at MAF Dubai — Dr. Baker's GCC relationships may help.",
+      "fit": "Retail packs: spreads, cake mixes, jelly/powder desserts, whipping cream powder sachets; possibly private label.",
+      "language": "en",
+      "priority": "B",
+      "sources": [
+        "https://www.monitor.co.ug/uganda/business/markets/carrefour-sales-grow-to-shs157b-but-losses-persist-5594100",
+        "https://allafrica.com/stories/202512170667.html"
+      ],
+      "type": "Supermarket chain",
+      "website": null
+    },
+    {
+      "action": "call",
+      "actionReason": "Contact only in third-party directory; better reached through a local distributor (INNIC/Kookee).",
+      "city": "Kampala (Lubowa, Kitende, Naalya, Martin Rd)",
+      "company": "Quality Supermarkets",
+      "confidence": "low",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Wikipedia/KCCA directory list several Kampala stores; in-store bakery not confirmed.",
+      "fit": "Retail packs: spreads, dessert powders, cake mixes.",
+      "language": "en",
+      "priority": "C",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Quality_Supermarkets",
+        "https://visitkampala.kcca.go.ug/business_details/quality-supermarkets"
+      ],
+      "type": "Supermarket chain",
+      "website": null
+    },
+    {
+      "action": "call",
+      "actionReason": "Contact only in third-party directory; reach via distributor.",
+      "city": "Kampala (4 stores)",
+      "company": "Capital Shoppers",
+      "confidence": "low",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Wikipedia/KCCA: 4 Kampala stores. No bakery confirmed.",
+      "fit": "Retail packs: spreads, dessert powders, cake mixes.",
+      "language": "en",
+      "priority": "C",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Capital_Shoppers",
+        "https://visitkampala.kcca.go.ug/business_details/capital-shoppers"
+      ],
+      "type": "Supermarket chain",
+      "website": null
+    },
+    {
+      "action": "whatsapp_after_reply",
+      "actionReason": "Publishes phone and contact page, no email. Use contact form first, then WhatsApp after reply.",
+      "city": "Kampala",
+      "company": "AS Cakes Bakery",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": "https://ascakesbakery.com/contact-us",
+        "emailSourceUrl": null,
+        "generalPhone": "+256 700 425844",
+        "genericEmail": null
+      },
+      "evidence": "Own site sells flavours, colours, fruit soaker and runs baking classes.",
+      "fit": "Small packs of whipping powder, fillings, glazes, decorations — for resale and use in classes (brand building with home bakers).",
+      "language": "en",
+      "priority": "C",
+      "sources": [
+        "https://ascakesbakery.com/"
+      ],
+      "type": "Cake maker, baking school & ingredient retailer",
+      "website": "https://ascakesbakery.com/"
+    },
+    {
+      "action": "call",
+      "actionReason": "No published contact; visit the shop or reach via a distributor.",
+      "city": "Kampala (Makindye)",
+      "company": "Executive Cakes & Cake Supplies",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Listing on theaisle.africa: sells baking ingredients and decorating supplies.",
+      "fit": "Retail/small packs of decorations, glazes, whipping powder.",
+      "language": "en",
+      "priority": "C",
+      "sources": [
+        "https://www.theaisle.africa/listing/executive-cakes-cake-supplies-uganda/"
+      ],
+      "type": "Cake maker & cake-supplies shop",
+      "website": null
+    }
+  ],
+  "updatedAt": "2026-10-14T12:05:59Z"
+}

@@ -1,0 +1,323 @@
+{
+  "country": "البحرين",
+  "leads": [
+    {
+      "action": "email_intro",
+      "actionReason": "Dedicated bakery-ingredients distributor with a published generic email; the most direct channel fit.",
+      "city": "Manama",
+      "company": "Advanced Bakery Solutions (HHM Group)",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": "https://www.hhm-group.com/divisions/food/",
+        "emailSourceUrl": "https://www.hhm-group.com/divisions/food/",
+        "generalPhone": "+973 17727500",
+        "genericEmail": "info@advancedbakerysolutions.com"
+      },
+      "evidence": "HHM Group food page: ABS supplies bakery and confectionery ingredients from represented manufacturers to bakeries, patisseries, hotels, restaurants and catering. Principal brands not published; ask who they represent (sister company Fine Foods carries Elle & Vire/Pritchitts/Valrhona).",
+      "fit": "Full range: whipping cream, compound chocolate, fillings, glazes, cake mixes for bakeries, patisseries, hotels and caterers.",
+      "language": "en",
+      "priority": "A",
+      "sources": [
+        "https://www.hhm-group.com/divisions/food/"
+      ],
+      "type": "Bakery & pastry ingredients importer/distributor",
+      "website": "https://www.hhm-group.com/divisions/food/"
+    },
+    {
+      "action": "email_intro",
+      "actionReason": "Industrial user of fillings at volume; send spec sheets for bake-stable fillings and offer samples.",
+      "city": "Hamala",
+      "company": "Amalfi Foods",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": "https://amalfifoods.com/amalfi-foods-contacts/",
+        "emailSourceUrl": "https://amalfifoods.com/amalfi-foods-contacts/",
+        "generalPhone": "+973 77814888",
+        "genericEmail": "info@amalfifoods.com"
+      },
+      "evidence": "Gulfood 2026 exhibitor and Ghitha portfolio company (33% owned) making long-shelf-life pancakes, 'Fluffy' filled pancake sandwich, waffles and croissants exported across the GCC. No public competitor tie found.",
+      "fit": "Bake-stable and cream fillings, chocolate/hazelnut spreads, waffle sauces for filled pancakes and croissants; GCC supply from Madinah.",
+      "language": "en",
+      "priority": "A",
+      "sources": [
+        "https://www.gulfood.com/exhibitors/amalfi-foods",
+        "https://www.ghitha.bh/amalfi-foods",
+        "https://amalfifoods.com/amalfi-foods-contacts/"
+      ],
+      "type": "Industrial bakery manufacturer (pancakes, waffles, croissants)",
+      "website": "https://amalfifoods.com"
+    },
+    {
+      "action": "email_intro",
+      "actionReason": "Mailbox is customer-care, so follow up by phone to reach purchasing; supply via a local distributor.",
+      "city": "Gudaibiya, Manama (11 branches)",
+      "company": "Tariq Pastries W.L.L.",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": "https://www.tariqpastries.com/page-25.html",
+        "emailSourceUrl": "https://www.tariqpastries.com/page-25.html",
+        "generalPhone": "+973 17545289",
+        "genericEmail": "customercare@tariqpastries.com"
+      },
+      "evidence": "Own site: first oriental sweets maker in Bahrain (1982), 11 branches, daily baking of cakes, croissants, chocolates and maamoul. No public supplier tie found.",
+      "fit": "Whipping cream, compound chocolate, fillings, glazes and cake mixes for cakes, baklawa and chocolates.",
+      "language": "ar",
+      "priority": "A",
+      "sources": [
+        "https://www.tariqpastries.com",
+        "https://www.tariqpastries.com/page-25.html"
+      ],
+      "type": "Sweets & cake chain",
+      "website": "https://www.tariqpastries.com"
+    },
+    {
+      "action": "email_intro",
+      "actionReason": "Largest HORECA reach; already carries premium European competitors, so lead with price and Saudi-made supply.",
+      "city": "Manama",
+      "company": "Fine Foods (HHM Group)",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": "https://www.finefoodsco.com/inquire-now/",
+        "emailSourceUrl": "https://www.finefoodsco.com/contact-us/",
+        "generalPhone": "+973 17727300",
+        "genericEmail": "info@finefoodsbah.com"
+      },
+      "evidence": "6,000+ HORECA lines. FLAG: own brands page lists Elle & Vire, Pritchitts (cream/toppings), Valrhona and Dobla (chocolate). Pitch as a second, value tier, not a replacement.",
+      "fit": "Value/halal-GCC tier of whipping cream, fillings, glazes and sauces for hotel and catering kitchens.",
+      "language": "en",
+      "priority": "B",
+      "sources": [
+        "https://www.finefoodsco.com/brands/",
+        "https://www.finefoodsco.com/contact-us/"
+      ],
+      "type": "Food-service importer/distributor (hotels, airlines, caterers)",
+      "website": "https://www.finefoodsco.com"
+    },
+    {
+      "action": "email_intro",
+      "actionReason": "Names bakeries as customers and has cold-chain capacity.",
+      "city": "Ma'ameer",
+      "company": "Nass Foods (Nass Corporation B.S.C.)",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": "https://www.nasscorporation.com/nass-foods/",
+        "emailSourceUrl": "https://www.nasscorporation.com/nass-foods/",
+        "generalPhone": "+973 17703101",
+        "genericEmail": "info@nassfoods.com"
+      },
+      "evidence": "Own site: supplies hotels, airlines, caterers, bakeries, supermarkets and wholesale; ice cream and confectionery distribution. No bakery-ingredient competitor tie found.",
+      "fit": "Liquid whipping cream (cold chain), fillings, sauces for bakeries and caterers.",
+      "language": "en",
+      "priority": "B",
+      "sources": [
+        "https://www.nasscorporation.com/nass-foods/"
+      ],
+      "type": "Frozen/chilled/dry food importer and HORECA distributor",
+      "website": "https://www.nasscorporation.com/nass-foods/"
+    },
+    {
+      "action": "email_intro",
+      "actionReason": "Food-service channel exists, but competitor lock-in on whipping topping.",
+      "city": "Manama",
+      "company": "A. Lateef Khalid Alaujan & Sons (Alaujan Food Services)",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.alaujan.com.bh/contact-us/",
+        "emailSourceUrl": "https://www.alaujan.com.bh/group-directory/",
+        "generalPhone": "+973 17223527",
+        "genericEmail": "info@alaujan.com.bh"
+      },
+      "evidence": "Divisions include Alaujan Food Services and Alaujan's Mondelez. FLAG: distributes Dream Whip, Cadbury and Anchor (per 2021 profile), direct overlap in whipping powder/cream.",
+      "fit": "Fillings, glazes, waffle sauces and jelly; avoid leading with whipping powder.",
+      "language": "en",
+      "priority": "B",
+      "sources": [
+        "https://www.alaujan.com.bh/alaujan-food-services/",
+        "https://www.bahrainthismonth.com/digitaleditions/april-2021/26"
+      ],
+      "type": "FMCG and food-service distributor",
+      "website": "https://www.alaujan.com.bh"
+    },
+    {
+      "action": "email_intro",
+      "actionReason": "Strong retail reach; skip cream, pitch non-dairy lines.",
+      "city": "Manama",
+      "company": "Trafco Group B.S.C.",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": "https://www.trafco.com/contact_us.php",
+        "emailSourceUrl": "https://www.trafco.com/contact_us.php",
+        "generalPhone": "+973 17729000",
+        "genericEmail": "info@trafco.com"
+      },
+      "evidence": "Own site: Sadia, Rainbow, Tata/Tetley, Zamil Food for retail, institutional and catering; reported to serve 85% of Bahrain retail outlets. FLAG: affiliates Awal Dairy and Kuwait Bahrain Dairy (cream overlap).",
+      "fit": "Retail and institutional distribution of spreads, cake mixes and jelly.",
+      "language": "en",
+      "priority": "B",
+      "sources": [
+        "https://www.trafco.com/",
+        "https://www.trafco.com/contact_us.php"
+      ],
+      "type": "Listed food importer/distributor",
+      "website": "https://www.trafco.com"
+    },
+    {
+      "action": "email_intro",
+      "actionReason": "Large wholesaler; pitch spreads/sauces to FMCG and fillings to the food-production unit.",
+      "city": "Sitra",
+      "company": "BMMI B.S.C.",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": "https://www.bmmigroup.com/contact-us/",
+        "emailSourceUrl": "https://www.bmmigroup.com/contact-us/office-directory/",
+        "generalPhone": "+973 17739200",
+        "genericEmail": "fmcgsupport@bmmi.com.bh"
+      },
+      "evidence": "FMCG page: one of top three wholesalers (~20% share), distributes Mars, Foster Clark's, American Garden. FLAG: Foster Clark's competes in jelly and dessert powders.",
+      "fit": "Retail spreads and sauces; food-production unit as user of fillings and cream.",
+      "language": "en",
+      "priority": "B",
+      "sources": [
+        "https://www.bmmigroup.com/divisions/fmcg/",
+        "https://www.bmmigroup.com/contact-us/office-directory/"
+      ],
+      "type": "Top-3 FMCG wholesaler + food production unit",
+      "website": "https://www.bmmigroup.com"
+    },
+    {
+      "action": "email_intro",
+      "actionReason": "Mid-sized distributor with a food-service channel.",
+      "city": "Sitra",
+      "company": "Middle East Food Trading Co. (Mefood)",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://mefood.net/contacts/",
+        "emailSourceUrl": "https://mefood.net/contacts/",
+        "generalPhone": "+973 17738008",
+        "genericEmail": "mefood@mefood.net"
+      },
+      "evidence": "Own site: imports a wide range of halal foodstuff across retail, food service and wholesale. Brand portfolio not readable; competitor tie unknown.",
+      "fit": "Whipping powder, mixes, jelly and sauces into food service and wholesale.",
+      "language": "en",
+      "priority": "B",
+      "sources": [
+        "https://mefood.net/",
+        "https://mefood.net/contacts/"
+      ],
+      "type": "Halal food importer/distributor (retail, food service, wholesale)",
+      "website": "https://mefood.net"
+    },
+    {
+      "action": "email_intro",
+      "actionReason": "Direct user, smaller volumes; route supply through a local distributor.",
+      "city": "8 branches (East Riffa, Hamad Town, Arad, Saar…)",
+      "company": "Real Taste Bakery Sweets & Nuts",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": "https://realtastegroupbh.com/",
+        "generalPhone": "+973 66391418",
+        "genericEmail": "bakery@realtastegroup.com"
+      },
+      "evidence": "Own site sells Arabic sweets, cakes, pastries and frozen items across 8 branches. No supplier tie found.",
+      "fit": "Cream, compound chocolate, fillings and cake mixes.",
+      "language": "ar",
+      "priority": "B",
+      "sources": [
+        "https://realtastegroupbh.com/"
+      ],
+      "type": "Bakery & sweets chain",
+      "website": "https://realtastegroupbh.com/"
+    },
+    {
+      "action": "call",
+      "actionReason": "No published email and site down; call to confirm the company is active.",
+      "city": "Maqabah",
+      "company": "NB Modern Ingredients Bakery",
+      "confidence": "low",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": "+973 17692526",
+        "genericEmail": null
+      },
+      "evidence": "Directory listing only (2021): importers and distributors of food ingredients for the pastry and bakery industry. Website unreachable when tested.",
+      "fit": "Full bakery-ingredients range, if still active.",
+      "language": "ar",
+      "priority": "B",
+      "sources": [
+        "https://www.foodcodirectory.com/2021/09/nb-modern-ingredients-bakery-bahrain.html"
+      ],
+      "type": "Pastry & bakery ingredients importer/distributor",
+      "website": "http://www.modbake.com"
+    },
+    {
+      "action": "email_intro",
+      "actionReason": "Secondary retail channel.",
+      "city": "Manama",
+      "company": "Universal Enterprises",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://unienter.com/contact-us/",
+        "emailSourceUrl": "https://www.unienter.com/",
+        "generalPhone": "+973 17290303",
+        "genericEmail": "unienter@batelco.com.bh"
+      },
+      "evidence": "Own site shows a Food division (consumer goods, Universal Food Centre, warehousing). No competitor tie found.",
+      "fit": "Retail spreads, jelly and dessert powders.",
+      "language": "en",
+      "priority": "C",
+      "sources": [
+        "https://www.unienter.com/"
+      ],
+      "type": "Food & consumer goods distributor",
+      "website": "https://unienter.com"
+    },
+    {
+      "action": "email_intro",
+      "actionReason": "Secondary retail channel.",
+      "city": "Ma'ameer",
+      "company": "P. Haridas Sons Co. W.L.L.",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://haridasp.com/contact/",
+        "emailSourceUrl": "https://www.haridasp.com/",
+        "generalPhone": "+973 17708189",
+        "genericEmail": "phs434@haridasp.com"
+      },
+      "evidence": "Own site lists Goody, Best Food, Gandour, Blue Diamond. No competitor tie found.",
+      "fit": "Retail spreads, jelly and dessert powders.",
+      "language": "en",
+      "priority": "C",
+      "sources": [
+        "https://www.haridasp.com/"
+      ],
+      "type": "FMCG food importer/distributor",
+      "website": "https://haridasp.com"
+    },
+    {
+      "action": "form",
+      "actionReason": "No generic email; use the website form.",
+      "city": "Salmabad",
+      "company": "Kazerooni Brothers B.S.C.",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": "https://www.kazbro.com/contactus",
+        "emailSourceUrl": null,
+        "generalPhone": "+973 17784278",
+        "genericEmail": null
+      },
+      "evidence": "Own site and Gulfood 2026 listing: supplies hypermarkets, wholesalers, food manufacturers, HORECA; rice, spices, nuts, flour. No competitor tie found.",
+      "fit": "Powders and mixes into its HORECA and food-manufacturer channel.",
+      "language": "en",
+      "priority": "C",
+      "sources": [
+        "https://www.kazbro.com/",
+        "https://www.gulfood.com/exhibitors/kazerooni-brothers-bsc"
+      ],
+      "type": "Dry-food importer/wholesaler (since 1905)",
+      "website": "http://www.kazbro.com"
+    }
+  ],
+  "updatedAt": "2026-10-15T03:00:00Z"
+}

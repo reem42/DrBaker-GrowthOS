@@ -1,0 +1,119 @@
+{
+"country_ar":"الكويت","country_en":"Kuwait","asOf":"2026-10-13",
+"competitors":[
+{"name":"Almarai","origin":"Saudi Arabia","type":"regional","products":"Whipping cream 1L, cooking cream, analogue cream 170g, sour cream","positioning_ar":"الأقوى في كريمة الخفق والطبخ بالتجزئة؛ سعر 1 لتر 1.865 د.ك. نافسه بالسعر والأداء في الخفق للمخابز.","threat":"high","url":"https://www.talabat.com/ar/kuwait/grocery/693279/lulu-hypermarket-salmiya-tgo/dairy-eggs/cream?aid=70"},
+{"name":"Nadec","origin":"Saudi Arabia","type":"regional","products":"Long life whipping cream 500ml/1L, cooking cream, fresh cream","positioning_ar":"كريمة خفق طويلة الأجل أرخص قليلاً من Almarai (1 لتر 1.790 د.ك)؛ منافس مباشر لـ UHT whipping.","threat":"high","url":"https://gcc.luluhypermarket.com/ar-kw/nadec-long-life-whipping-cream-500-ml/p/1833932/"},
+{"name":"Puck (Arla Foods)","origin":"Denmark","type":"multinational","products":"Cooking cream 200ml/500ml/1L, thick cream, sterilized cream","positioning_ar":"قوي في كريمة الطبخ؛ 1 لتر 1.630 د.ك. لا يظهر منتج خفق واضح في القائمة.","threat":"medium","url":"https://www.talabat.com/ar/kuwait/grocery/693279/lulu-hypermarket-salmiya-tgo/dairy-eggs/cream?aid=70&page=2"},
+{"name":"KDD (Kuwait Danish Dairy)","origin":"Kuwait","type":"local","products":"Liquid cream, cooking cream, thick cream","positioning_ar":"محلي بسعر أعلى (كريمة سائلة 1 لتر 2.395 د.ك)؛ لا يركز على الخفق المخبزي.","threat":"medium","url":"https://www.talabat.com/ar/kuwait/grocery/693279/lulu-hypermarket-salmiya-tgo/dairy-eggs/cream?aid=70"},
+{"name":"KDCow","origin":"Kuwait","type":"local","products":"Thick cream, fresh cream, yogurt","positioning_ar":"علامة ألبان محلية للمستهلك؛ تهديد منخفض لمنتجات المخابز.","threat":"low","url":"https://www.talabat.com/ar/kuwait/grocery/693279/lulu-hypermarket-salmiya-tgo/dairy-eggs/cream?aid=70&page=2"},
+{"name":"Douce Amie","origin":"غير مؤكد","type":"importer","products":"Whipping cream 1L","positioning_ar":"أرخص كريمة خفق 1 لتر في القائمة (1.100 د.ك)؛ ضغط سعري على الفئة الاقتصادية.","threat":"medium","url":"https://www.talabat.com/ar/kuwait/grocery/693279/lulu-hypermarket-salmiya-tgo/dairy-eggs/cream?aid=70"},
+{"name":"Nutella (Ferrero)","origin":"Italy","type":"multinational","products":"Hazelnut cocoa spread 30g-1kg","positioning_ar":"المرجع في الدهانات؛ 750g بـ 2.325 د.ك. ننافس بنسخة chunky وسعر أقل.","threat":"high","url":"https://www.talabat.com/ar/kuwait/grocery/716734/city-hypermarket-dasma/breakfast-food/spreads?aid=22"},
+{"name":"Hazella","origin":"غير مؤكد","type":"importer","products":"Chocolate spread 350g/700g, hazelnut spread 700g","positioning_ar":"بديل اقتصادي لـ Nutella؛ السعر المرصود مخفض بشدة لذا غير مؤكد.","threat":"medium","url":"https://www.talabat.com/ar/kuwait/grocery/662328/top-offer-salmiya/breakfast-food/spreads?aid=97"},
+{"name":"Loacker","origin":"Italy","type":"multinational","products":"Napolitaner hazelnut spread 290g","positioning_ar":"فئة بريميوم (1.925 د.ك لـ 290g)؛ مرجع لتسعير الـ hazelnut الفاخر.","threat":"low","url":"https://www.talabat.com/ar/kuwait/grocery/716734/city-hypermarket-dasma/breakfast-food/spreads?aid=22"},
+{"name":"Hero","origin":"Switzerland","type":"multinational","products":"Fruit jams 340-350g","positioning_ar":"المعيار في المربى المعبأ؛ 350g بـ 0.785 د.ك للفراولة.","threat":"medium","url":"https://www.talabat.com/kuwait/grocery/722879/wafra-coop/breakfast-food/jams?aid=2058"},
+{"name":"Diamond","origin":"غير مؤكد","type":"importer","products":"Fruit jams 454g/680g","positioning_ar":"مربى اقتصادي بتشكيلة واسعة (454g بـ 0.880 د.ك)؛ ضغط على مربى التجزئة.","threat":"medium","url":"https://www.talabat.com/kuwait/grocery/722879/wafra-coop/breakfast-food/jams?aid=2058"},
+{"name":"Bonne Maman","origin":"France","type":"multinational","products":"Preserves 370g","positioning_ar":"بريميوم (370g فراولة 2.780 د.ك)؛ لا يهم قطاع الحشوات الصناعية.","threat":"low","url":"https://www.talabat.com/kuwait/grocery/676798/mega-martardiyah/breakfast-food/honey-jams?aid=94"}
+],
+"prices":[
+{"category_ar":"كريمة خفق","product":"Whipping Cream","brand":"Almarai","pack":"1 L","price_local":1.865,"currency":"KWD","price_usd":6.10,"per_kg_usd":6.10,"channel":"retail","date":"2026-10-13","url":"https://www.talabat.com/ar/kuwait/grocery/693279/lulu-hypermarket-salmiya-tgo/dairy-eggs/cream?aid=70","confidence":"medium"},
+{"category_ar":"كريمة خفق","product":"Whipping Cream","brand":"Nadec","pack":"1 L","price_local":1.790,"currency":"KWD","price_usd":5.85,"per_kg_usd":5.85,"channel":"retail","date":"2026-10-13","url":"https://www.talabat.com/ar/kuwait/grocery/693279/lulu-hypermarket-salmiya-tgo/dairy-eggs/cream?aid=70&page=2","confidence":"medium"},
+{"category_ar":"كريمة خفق","product":"Long Life Whipping Cream","brand":"Nadec","pack":"500 ml","price_local":1.000,"currency":"KWD","price_usd":3.27,"per_kg_usd":6.54,"channel":"retail","date":"2026-10-13","url":"https://gcc.luluhypermarket.com/ar-kw/nadec-long-life-whipping-cream-500-ml/p/1833932/","confidence":"high"},
+{"category_ar":"كريمة خفق","product":"Whipping Cream","brand":"Douce Amie","pack":"1 L","price_local":1.100,"currency":"KWD","price_usd":3.60,"per_kg_usd":3.60,"channel":"retail","date":"2026-10-13","url":"https://www.talabat.com/ar/kuwait/grocery/693279/lulu-hypermarket-salmiya-tgo/dairy-eggs/cream?aid=70","confidence":"medium"},
+{"category_ar":"كريمة طبخ","product":"Cooking Cream","brand":"Puck","pack":"1 L","price_local":1.630,"currency":"KWD","price_usd":5.33,"per_kg_usd":5.33,"channel":"retail","date":"2026-10-13","url":"https://www.talabat.com/ar/kuwait/grocery/693279/lulu-hypermarket-salmiya-tgo/dairy-eggs/cream?aid=70&page=2","confidence":"medium"},
+{"category_ar":"كريمة سائلة","product":"Liquid Cream","brand":"KDD","pack":"1 L","price_local":2.395,"currency":"KWD","price_usd":7.83,"per_kg_usd":7.83,"channel":"retail","date":"2026-10-13","url":"https://www.talabat.com/ar/kuwait/grocery/693279/lulu-hypermarket-salmiya-tgo/dairy-eggs/cream?aid=70","confidence":"medium"},
+{"category_ar":"دهان شوكولاتة وبندق","product":"Hazelnut Chocolate Spread","brand":"Nutella","pack":"750 g","price_local":2.325,"currency":"KWD","price_usd":7.60,"per_kg_usd":10.14,"channel":"retail","date":"2026-10-13","url":"https://www.talabat.com/ar/kuwait/grocery/716734/city-hypermarket-dasma/breakfast-food/spreads?aid=22","confidence":"medium"},
+{"category_ar":"دهان شوكولاتة وبندق","product":"Hazelnut Chocolate Spread","brand":"Nutella","pack":"400 g","price_local":1.430,"currency":"KWD","price_usd":4.68,"per_kg_usd":11.69,"channel":"retail","date":"2026-10-13","url":"https://www.talabat.com/ar/kuwait/grocery/716734/city-hypermarket-dasma/breakfast-food/spreads?aid=22","confidence":"medium"},
+{"category_ar":"دهان شوكولاتة وبندق","product":"Napolitaner Hazelnut Spread","brand":"Loacker","pack":"290 g","price_local":1.925,"currency":"KWD","price_usd":6.30,"per_kg_usd":21.71,"channel":"retail","date":"2026-10-13","url":"https://www.talabat.com/ar/kuwait/grocery/716734/city-hypermarket-dasma/breakfast-food/spreads?aid=22","confidence":"medium"},
+{"category_ar":"دهان شوكولاتة وبندق","product":"Hazelnut Spread","brand":"Hazella","pack":"700 g","price_local":2.555,"currency":"KWD","price_usd":8.36,"per_kg_usd":11.94,"channel":"retail","date":"2026-10-13","url":"https://www.talabat.com/ar/kuwait/grocery/662328/top-offer-salmiya/breakfast-food/spreads?aid=97","confidence":"low"},
+{"category_ar":"مربى","product":"Strawberry Jam","brand":"Hero","pack":"350 g","price_local":0.785,"currency":"KWD","price_usd":2.57,"per_kg_usd":7.33,"channel":"retail","date":"2026-10-13","url":"https://www.talabat.com/kuwait/grocery/722879/wafra-coop/breakfast-food/jams?aid=2058","confidence":"medium"},
+{"category_ar":"مربى","product":"Strawberry Jam 45% Natural Fruit","brand":"Halwani","pack":"400 g","price_local":0.595,"currency":"KWD","price_usd":1.95,"per_kg_usd":4.86,"channel":"retail","date":"2026-10-13","url":"https://www.talabat.com/kuwait/grocery/722879/wafra-coop/breakfast-food/jams?aid=2058","confidence":"medium"},
+{"category_ar":"مربى","product":"Strawberry Jam","brand":"Diamond","pack":"680 g","price_local":1.210,"currency":"KWD","price_usd":3.96,"per_kg_usd":5.82,"channel":"retail","date":"2026-10-13","url":"https://www.talabat.com/kuwait/grocery/722879/wafra-coop/breakfast-food/jams?aid=2058","confidence":"medium"},
+{"category_ar":"مربى","product":"Strawberry Jam","brand":"Al Alali","pack":"400 g","price_local":0.960,"currency":"KWD","price_usd":3.14,"per_kg_usd":7.85,"channel":"retail","date":"2026-10-13","url":"https://www.talabat.com/kuwait/grocery/676798/mega-martardiyah/breakfast-food/honey-jams?aid=94","confidence":"medium"},
+{"category_ar":"مربى","product":"Strawberry Preserve","brand":"Bonne Maman","pack":"370 g","price_local":2.780,"currency":"KWD","price_usd":9.09,"per_kg_usd":24.57,"channel":"retail","date":"2026-10-13","url":"https://www.talabat.com/kuwait/grocery/676798/mega-martardiyah/breakfast-food/honey-jams?aid=94","confidence":"medium"}
+],
+"priceSummary_ar":"كريمة الخفق بالتجزئة في الكويت بين 3.6 و6.5 دولار/كجم (Douce Amie الأرخص، Almarai وNadec حول 5.9-6.5)، والكريمة السائلة المحلية KDD أغلى عند 7.8. دهانات البندق والشوكولاتة 10-12 دولار/كجم للمنتجات الجماهيرية (Nutella 10.1 للـ 750g) وحتى 21.7 للبريميوم، والمربى 4.9-7.9 دولار/كجم (و24.6 للبريميوم). هذه أسعار رفوف تجزئة عبر talabat وLulu وليست أسعار جملة، وبالدينار بسعر تحويل تقريبي 1 د.ك = 3.27 دولار. فرصة Dr. Baker: كريمة خفق UHT بسعر قريب من Nadec وAlmarai، ودهان chunky بسعر أقل من Nutella، مع التسعير للمخابز والحلويات (B2B) بالجملة. لم نجد أسعار جملة لميرور جليز أو خلطات الكيك أو الفيلنج.",
+"shipping":[
+{"item_ar":"الجهة المنظمة والتسجيل","detail_ar":"الهيئة العامة للغذاء والتغذية PAFN هي جهة الرقابة؛ يسجل المستورد حساباً على منصة Raqeb بالرخصة التجارية ورخصة الاستيراد، وتسجل المنتجات إلكترونياً مع الملصق والتركيبة وفترة الصلاحية. قد يلزم موافقة مسبقة لبعض المنتجات مثل الألبان فتحقق من PAFN قبل الشحن.","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"item_ar":"طلب التخليص الجمركي","detail_ar":"يقدم المستورد على بوابة Raqeb رقم البيان الجمركي المؤقت (TIM) والفواتير ويرفع بيان الجمارك والشهادة الصحية من بلد المنشأ، ثم يدفع عبر KNET وتصدر وثيقة تقرير الفحص. المستندات الإضافية: شهادة تسجيل الأغذية الخاصة حسب الصنف.","url":"https://betacweb.pafn.gov.kw/Documents/Guides/Clearance_Request_EN.pdf"},
+{"item_ar":"المستندات المطلوبة","detail_ar":"شهادة صحية رسمية من سلطة بلد التصدير لكل شحنة، شهادة منشأ، فاتورة تجارية، قائمة تعبئة، بوليصة شحن، وشهادة حلال عند الحاجة (منتجات الألبان ومكونات حيوانية).","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"item_ar":"الفحص والعينات","detail_ar":"تفحص PAFN المستندات والشحنة عند المنفذ وقد تسحب عينات ميكروبيولوجية وكيميائية ومتبقيات مبيدات ومكونات غير معلنة وGMO حسب المخاطر وسجل المصدر؛ تحجز الشحنة حتى صدور أمر الإفراج ثم تتم الإجراءات الجمركية.","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"item_ar":"المستورد والوكيل المحلي","detail_ar":"يلزم ترخيص من وزارة التجارة والصناعة وعضوية غرفة تجارة وصناعة الكويت، ولا يخلص البضاعة جمركياً إلا وكيل محلي بخطاب تمثيل رسمي. اشترط وكيلاً/موزعاً مرخصاً قبل الشحن.","url":"https://www.tradeclub.standardbank.com/portal/en/market-potential/kuwait/customs"},
+{"item_ar":"اللغة والملصق والحلال","detail_ar":"البيانات الإلزامية بالعربية مطابقة للتركيبة (KWS GSO 9 وGSO 2233 للتغذية)، مع تواريخ الإنتاج والانتهاء وظروف التخزين وبلد المنشأ ورقم التشغيلة. الحلال وفق GSO 2055-1 بجهات معتمدة من GAC؛ الخنزير ومشتقاته ممنوع والكحول المضاف غير مقبول.","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"item_ar":"الألبان تحديداً","detail_ar":"تعتمد الكويت GSO 2233:2021 لوسم الألبان وحدود GSO 1016 الميكروبيولوجية؛ قد تتطلب بعض المنتجات تصريح استيراد من المستورد.","url":"https://micor.agriculture.gov.au/dairy/kuwait"},
+{"item_ar":"الجمارك والرسوم","detail_ar":"التعرفة الخليجية الموحدة 5% على معظم السلع مع استثناء 417 سلعة غذائية أساسية؛ تدفع بالدينار الكويتي. لم أتحقق من تطبيق إعفاء GAFTA للمنشأ المصري ولا من ضريبة القيمة المضافة.","url":"https://www.trade.gov/knowledge-product/kuwait-import-tariffs"},
+{"item_ar":"المسار البري عبر السعودية مقابل البحري","detail_ar":"لم أجد مصدراً موثقاً لأوقات العبور أو تكلفة المسار البري عبر منفذ النويصيب. للبحري: ميناء الشويخ والشعيبة، وتوصيل الحاويات من الشويخ لمدينة الكويت 55 د.ك لحاوية 20/40 قدم (تعرفة Maersk سارية 1 يناير 2023، قد تتغير). السلسلة المبردة تتطلب حاويات reefer ويمكن التخليص في منطقة جمركية مؤمنة. للشحن البري يستفيد مصنع المدينة المنورة من قرب المسافة لكن يجب التحقق.","url":"https://maersk.com/local-information/imea/kuwait/local-solutions/inland-services"}
+],
+"certificates":[
+{"name":"Official health certificate (country of origin)","required":"yes","detail_ar":"إلزامية لكل شحنة وترفع على بوابة Raqeb مع بيان الجمارك؛ بالعربية و/أو الإنجليزية.","url":"https://betacweb.pafn.gov.kw/Documents/Guides/Clearance_Request_EN.pdf"},
+{"name":"Certificate of Origin","required":"yes","detail_ar":"مطلوبة ضمن مستندات الاستيراد الأساسية، وضرورية للاستفادة من أي معاملة تفضيلية.","url":"https://www.tradeclub.standardbank.com/portal/en/market-potential/kuwait/customs"},
+{"name":"Halal certificate (GSO 2055-1)","required":"likely","detail_ar":"مطلوبة للمنتجات المحتوية على مكونات حيوانية (ألبان، جيلاتين، سمن) أو بادعاء حلال؛ تقبل جهات معتمدة من GAC ومقبولة خليجياً. تحقق من القائمة المحدثة.","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"name":"PAFN product registration (Raqeb)","required":"yes","detail_ar":"تسجيل المنتج إلكترونياً مع التركيبة والملصق وفترة الصلاحية عبر المستورد.","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"name":"Commercial invoice, packing list, bill of lading","required":"yes","detail_ar":"مستندات الشحن القياسية مع البيان الجمركي.","url":"https://www.tradeclub.standardbank.com/portal/en/market-potential/kuwait/customs"},
+{"name":"ISO 22000 / HACCP / FSSC 22000","required":"unclear","detail_ar":"لم أجد نصاً رسمياً يشترطها للتسجيل؛ مفيدة تجارياً أمام المستوردين.","url":""}
+],
+"additives":[
+{"code":"E102","name":"Tartrazine","status":"permitted","limit_ar":"مسموح بحدود GSO 2500 لكل فئة؛ لم أتحقق من الحد لكل فئة.","rule_ar":"يلزم تحذير بجانب قائمة المكونات: قد يؤثر سلباً على النشاط والانتباه عند الأطفال.","regulation":"KWS GSO 2500","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"code":"E110","name":"Sunset Yellow","status":"permitted","limit_ar":"بحدود GSO 2500؛ الحد لكل فئة غير متحقق.","rule_ar":"يلزم نفس التحذير الخاص بالأطفال.","regulation":"KWS GSO 2500","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"code":"E129","name":"Allura Red","status":"permitted","limit_ar":"بحدود GSO 2500؛ الحد لكل فئة غير متحقق.","rule_ar":"يلزم نفس التحذير الخاص بالأطفال.","regulation":"KWS GSO 2500","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"code":"E133","name":"Brilliant Blue","status":"unclear","limit_ar":"غير متحقق","rule_ar":"لم أجد نصاً؛ راجع الجدول الإيجابي GSO 2500 للفئة.","regulation":"KWS GSO 2500 (positive list)","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"code":"E150d","name":"Caramel IV","status":"unclear","limit_ar":"غير متحقق","rule_ar":"راجع GSO 2500.","regulation":"KWS GSO 2500","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"code":"E150","name":"Caramel","status":"unclear","limit_ar":"غير متحقق","rule_ar":"راجع GSO 2500.","regulation":"KWS GSO 2500","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"code":"E160b","name":"Annatto","status":"unclear","limit_ar":"غير متحقق","rule_ar":"راجع GSO 2500.","regulation":"KWS GSO 2500","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"code":"E160a","name":"Beta-carotene","status":"unclear","limit_ar":"غير متحقق","rule_ar":"راجع GSO 2500.","regulation":"KWS GSO 2500","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"code":"E104","name":"Quinoline Yellow","status":"unclear","limit_ar":"غير متحقق","rule_ar":"راجع GSO 2500.","regulation":"KWS GSO 2500","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"code":"E122","name":"Carmoisine (Azorubine)","status":"permitted","limit_ar":"بحدود GSO 2500؛ الحد لكل فئة غير متحقق.","rule_ar":"يلزم تحذير الأطفال (وفق مقال 2016 عن مراجعة GSO).","regulation":"KWS GSO 2500","url":"https://www.foodingredientsfirst.com/news/sensient-eyes-natural-colors-growth-in-gulf-region-on-additive-regulation-changes.html"},
+{"code":"E120","name":"Carmine","status":"unclear","limit_ar":"غير متحقق","rule_ar":"أصل حيواني (حشرة)؛ راجع GSO 2500 واعتبارات الحلال.","regulation":"KWS GSO 2500","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"code":"E160","name":"Carotenes","status":"unclear","limit_ar":"غير متحقق","rule_ar":"راجع GSO 2500.","regulation":"KWS GSO 2500","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"code":"E202","name":"Potassium sorbate","status":"unclear","limit_ar":"غير متحقق","rule_ar":"راجع حدود المواد الحافظة في GSO 2500 لكل فئة (حشوات، مربى، كريمة).","regulation":"KWS GSO 2500","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"code":"E211","name":"Sodium benzoate","status":"unclear","limit_ar":"غير متحقق","rule_ar":"راجع GSO 2500.","regulation":"KWS GSO 2500","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"code":"E551","name":"Silicon dioxide","status":"unclear","limit_ar":"غير متحقق","rule_ar":"راجع GSO 2500.","regulation":"KWS GSO 2500","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"code":"E500","name":"Sodium carbonates","status":"unclear","limit_ar":"غير متحقق","rule_ar":"راجع GSO 2500.","regulation":"KWS GSO 2500","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"code":"other","name":"Titanium dioxide (E171)","status":"banned","limit_ar":"غير مسموح","rule_ar":"غير مسموح في الكويت وفق ChemLinked، وGSO حذفه من GSO 2500:2022. لا تستخدمه في السكر الجاهز أو الدراجيه.","regulation":"KWS GSO 2500 / GSO 2500:2022","url":"https://regask.com/gso-bans-the-usage-of-e171-titanium-dioxide/"},
+{"code":"other","name":"Alcohol/ethanol in flavours; pork, lard, pork gelatin","status":"banned","limit_ar":"غير مقبول","rule_ar":"الخنزير ومشتقاته (منها الجيلاتين) غير مقبولة، والكحول المضاف عمداً يتعارض مع الاشتراطات؛ المنكهات تلتزم بـ GSO 707 والحلال، وحدود الإيثانول في GSO 2538.","regulation":"GSO 2055-1 / GSO 707 / GSO 2538","url":"https://food.chemlinked.com/foodpedia/kuwait-food-regulation"},
+{"code":"other","name":"Potassium bromate / azodicarbonamide","status":"unclear","limit_ar":"غير متحقق","rule_ar":"لم أجد نصاً كويتياً مؤكداً؛ تجنب استخدامها في محسنات الخبز للتصدير.","regulation":"","url":""}
+],
+"labeling_ar":"البيانات الإلزامية بالعربية ومطابقة تماماً للتركيبة الفعلية وفق KWS GSO 9 وGSO 2233 للتغذية: اسم الغذاء، المكونات، مسببات الحساسية، المضافات، الوزن الصافي، بيانات المصنع/المستورد، بلد المنشأ، رقم التشغيلة، تاريخا الإنتاج والانتهاء، شروط التخزين، وإقرارات الحلال/GMO عند الحاجة. تحذير الأطفال إلزامي عند استخدام E102 وE110 وE122 وE129. الادعاءات الصحية وفق GSO 2333 مع إثبات. الحد الأدنى للصلاحية المتبقية عند الوصول لم أجده بشكل رسمي.",
+"tariffs":[
+{"hs":"0401-0403 / 0402 / 040130","desc_ar":"ألبان وكريمة","duty":"5% (التعرفة الخليجية العامة)","vat":"غير متحقق","note_ar":"لم أتأكد من تعرفة البنود؛ الإعفاء بموجب GAFTA للمنشأ المصري غير موثق هنا فتحقق مع الوكيل. بعض الأغذية الأساسية مستثناة (417 سلعة).","url":"https://www.trade.gov/knowledge-product/kuwait-import-tariffs"},
+{"hs":"1806 / 1704 / 1901 / 2106 / 2007 / 2008 / 1517","desc_ar":"باقي منتجات Dr. Baker","duty":"5% عام حسب المصدر؛ بنود محمية 10-12%","vat":"غير متحقق","note_ar":"لم أتحقق من نسبة كل بند HS. اطلب تأكيد البند والرسم من المخلص.","url":"https://www.tradeclub.standardbank.com/portal/en/market-potential/kuwait/customs"}
+],
+"agreements":[
+{"name":"Greater Arab Free Trade Area (GAFTA)","status":"ساري منذ 2005؛ مصر والكويت عضوان","relevance_ar":"الإطار الأساسي لإعفاء المنتجات العربية المنشأ، ويشترط شهادة منشأ مطابقة لقواعد المنشأ.","tariff_note_ar":"أكدت عضوية الكويت فقط؛ سريان الإعفاء الفعلي على المنتجات المصرية في الكويت غير موثق، ويلزم تأكيد جمركي.","url":"https://www.tradeclub.standardbank.com/portal/en/market-potential/kuwait/customs"}
+],
+"fairs":[
+{"name":"Kuwait International Agro Food Expo (KIAFE)","dates":"17-19 نوفمبر 2026","city":"Kuwait City (Mishref)","url":"https://globaltradefairs.com/tradefairs/event-details/kuwait-international-agro-food-expo","relevance_ar":"معرض أغذية بدخول مجاني ومنظم هندي (Pine Experiential Events)؛ جودة الزوار غير مؤكدة، يصلح لاختبار السوق بتكلفة قليلة."},
+{"name":"Horeca Kuwait","dates":"12-14 أبريل 2027","city":"Kuwait City","url":"https://www.tradefairdates.com/Food-Fairs-Kuwait-FSL216-L121-S1.html","relevance_ar":"معرض للضيافة والأغذية للمهنيين فقط؛ مناسب لعملاء المخابز والمطاعم والفنادق. المنظم السابق Hospitality Services Lb."}
+],
+"seasons":[],
+"sources":[
+"https://food.chemlinked.com/foodpedia/kuwait-food-regulation",
+"https://betacweb.pafn.gov.kw/Documents/Guides/Clearance_Request_EN.pdf",
+"https://www.trade.gov/knowledge-product/kuwait-import-tariffs",
+"https://www.tradeclub.standardbank.com/portal/en/market-potential/kuwait/customs",
+"https://micor.agriculture.gov.au/dairy/kuwait",
+"https://inspection.canada.ca/en/exporting-food-plants-animals/food-exports/requirements-library/kuwait-milk-and-dairy-products",
+"https://regask.com/gso-bans-the-usage-of-e171-titanium-dioxide/",
+"https://www.foodingredientsfirst.com/news/sensient-eyes-natural-colors-growth-in-gulf-region-on-additive-regulation-changes.html",
+"https://maersk.com/local-information/imea/kuwait/local-solutions/inland-services",
+"https://globaltradefairs.com/tradefairs/event-details/kuwait-international-agro-food-expo",
+"https://www.tradefairdates.com/Food-Fairs-Kuwait-FSL216-L121-S1.html",
+"https://www.talabat.com/ar/kuwait/grocery/693279/lulu-hypermarket-salmiya-tgo/dairy-eggs/cream?aid=70",
+"https://www.talabat.com/kuwait/grocery/722879/wafra-coop/breakfast-food/jams?aid=2058"
+],
+"unverified":[
+"الأسعار من صفحات talabat/Lulu بتاريخ الاطلاع 2026-10-13 وتاريخ نشر السعر غير ظاهر؛ كل الصفحات تعرض مخزوناً صفراً فالتوفر غير مؤكد.",
+"سعر الصرف 1 د.ك = 3.27 دولار تقريبي من معرفتي وليس من مصدر مفتوح.",
+"سعر Hazella مخفض بنسبة 60% في الصفحة (الأصلي 6.390 د.ك) فهو منخفض الثقة؛ لا تعتمده كسعر سوق عادي.",
+"أصل علامات Douce Amie وHazella وDiamond وAl Alali وHalwani غير مؤكد.",
+"لم أجد أسعار جملة أو موزعين لميرور جليز وخلطات الكيك والفيلنج وسكر الجاهز والسمن والبيض المبستر.",
+"ضريبة القيمة المضافة: لم أتحقق من وجودها في الكويت؛ لا أقدم رقماً.",
+"تطبيق إعفاء GAFTA على المنتجات المصرية في الكويت ونسب الرسوم لكل بند HS غير موثقة.",
+"الحد الأدنى للصلاحية المتبقية عند الوصول (مثل ثلثي المدة) لم أجده في مصدر رسمي.",
+"تسجيل منشآت المصنع الأجنبية لدى PAFN: المصدر لا يوضح وجود قائمة معتمدة؛ اسأل PAFN.",
+"حدود المضافات لكل فئة (حشوات/مربى/كريمة) في GSO 2500 ووضع E133 وE150 وE160 وE202 وE211 وE551 وE500 وبرومات البوتاسيوم غير متحققة؛ يلزم الاطلاع على نص GSO 2500 (مدفوع).",
+"المسار البري عبر السعودية (النويصيب): أوقات وتكاليف وإجراءات العبور لم أجد لها مصدراً؛ تكلفة البحري المذكورة تعرفة Maersk لعام 2023.",
+"المواسم: رمضان 2027 (حوالي 8 فبراير)، العيدان، اليوم الوطني الكويتي 25 فبراير، التحرير 26 فبراير، الصيف، وموسم الأعراس والمدارس: لم أوثقها بمصادر مفتوحة.",
+"معارض أخرى ذات صلة مثل Gulfood دبي يناير 2027 وغيرها لم أتحقق منها ضمن هذا البحث؛ مواعيد Horeca 2027 من موقع تجميعي ويفضل التأكد من المنظم.",
+"قائمة مورّدي المكونات والمنافسين في الحشوات والجليز وخلطات الكيك لم يظهر منها شيء في نتائج البحث (مثل خلطة Betty Crocker وجدت سعرها لمتجر الإمارات فقط)."
+]
+}

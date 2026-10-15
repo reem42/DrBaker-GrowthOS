@@ -1,0 +1,2990 @@
+{
+  "country": "أوغندا",
+  "country_en": "Uganda",
+  "doss": {
+    "agreements": [
+      {
+        "name": "COMESA FTA",
+        "relevance_ar": "الطريق الأساسي: إعفاء جمركي كامل للمنشأ المصري ويعادل ميزة المنافسين الكينيين.",
+        "status": "سارية (أوغندا من 2015)",
+        "tariff_note_ar": "0% مع شهادة منشأ COMESA",
+        "url": "https://www.mcci.org/en/media-news-events/business-updates/uganda-joins-the-comesa-fta/"
+      },
+      {
+        "name": "AfCFTA",
+        "relevance_ar": "مش محتاجينها حالياً، الكوميسا أوضح وأسهل.",
+        "status": "مصر وأوغندا مصدّقين؛ مصر تتعامل مع أوغندا عبر تفضيلات الكوميسا",
+        "tariff_note_ar": "لا تضيف ميزة فوق الكوميسا",
+        "url": "https://www.tralac.org/documents/resources/factsheets/7869-factsheet-trading-under-the-afcfta-a-guide-for-egypt-july-2026.html"
+      },
+      {
+        "name": "EAC Customs Union",
+        "relevance_ar": "المنافسين الكينيين (Bakels، Zesta) داخلين بدون جمارك؛ ده سبب سيطرة كينيا على الدهون والحلويات والمربى.",
+        "status": "سارية (أوغندا عضو)",
+        "tariff_note_ar": "CET 0/10/25/35% لغير الأعضاء",
+        "url": "https://www.trade.gov/market-intelligence/kenya-east-african-community-introduces-4th-band-common-external-tariff"
+      }
+    ],
+    "asOf": "2026-10-14",
+    "certificates": [
+      {
+        "detail_ar": "إلزامية لكل شحنة أغذية تزيد عن 2,000 دولار FOB. تصدر من SGS / Bureau Veritas / Intertek في مصر.",
+        "name": "PVoC Certificate of Conformity (UNBS)",
+        "required": "yes",
+        "url": "https://cdn1-verigates.bureauveritas.com/sites/verigates/files/2024-07/UGANDA%20%28PVoC%29%20Datasheet%20Rev%2011.3.pdf"
+      },
+      {
+        "detail_ar": "شرط للإعفاء الجمركي 0%. توقيع المصدّر الأصلي إلزامي.",
+        "name": "COMESA Certificate of Origin",
+        "required": "yes",
+        "url": "https://onyangoadvocates.com/comesa-trade-rules-high-court-holds-that-a-missing-exporters-signature-invalidates-a-certificate-of-origin"
+      },
+      {
+        "detail_ar": "مطلوبة لـ PVoC، وما تكونش أقدم من 6 شهور.",
+        "name": "Certificate of Analysis / Test reports",
+        "required": "yes",
+        "url": "https://www.sgs.com/-/media/sgscorp/documents/corporate/brochures/sgs-cp-pca-uganda-datasheet-en.cdn.en.pdf"
+      },
+      {
+        "detail_ar": "مش إلزامي قانونياً، لكن السوق بيطلبه (أقلية مسلمة كبيرة)، وUNBS عملت مذكرة تفاهم مع المجلس الإسلامي الأعلى. مهم للمنتجات اللي فيها جيلاتين.",
+        "name": "Halal Certificate",
+        "required": "likely",
+        "url": "https://www.foodbusinessmea.com/unbs-partners-with-uganda-muslim-supreme-council-to-reinforce-implementation-of-halal-standards/"
+      },
+      {
+        "detail_ar": "مش مذكور في متطلبات PVoC، لكن ممكن المستورد أو البنك يطلبه، خصوصاً لمنتجات الألبان.",
+        "name": "Health Certificate",
+        "required": "unclear",
+        "url": "https://cdn1-verigates.bureauveritas.com/sites/verigates/files/2024-07/UGANDA%20%28PVoC%29%20Datasheet%20Rev%2011.3.pdf"
+      },
+      {
+        "detail_ar": "مش شرط قانوني، لكن ممكن تسهّل تسجيل المنتج عند جهة PVoC (Route B/C) وبتطمّن المشترين الكبار زي Café Javas وCarrefour.",
+        "name": "FSSC 22000 / BRCGS / ISO",
+        "required": "no",
+        "url": "https://www.sgs.com/-/media/sgscorp/documents/corporate/brochures/sgs-cp-pca-uganda-datasheet-en.cdn.en.pdf"
+      }
+    ],
+    "code": "UG",
+    "competitors": [
+      {
+        "name": "Puratos (via Puratos Kenya)",
+        "origin": "بلجيكا",
+        "positioning_ar": "الأقوى تقنياً، يغطي أوغندا من نيروبي منذ 2020. سعر مرتفع.",
+        "products": "مستلزمات مخابز وحلويات وشوكولاتة",
+        "threat": "high",
+        "type": "multinational",
+        "url": "https://www.snackandbakery.com/articles/101791-puratos-group-expands-presence-in-africa-with-4-subsidiaries"
+      },
+      {
+        "name": "Rich's Bettercrème (via Kookee Enterprises)",
+        "origin": "الولايات المتحدة",
+        "positioning_ar": "المرجع في كريمة الخفق النباتية للمحترفين، موزعها Kookee في كمبالا.",
+        "products": "كريمة خفق نباتية",
+        "threat": "high",
+        "type": "multinational",
+        "url": "https://kookee.co.ug/"
+      },
+      {
+        "name": "Pristine (IFFCO)",
+        "origin": "الإمارات",
+        "positioning_ar": "منافس مباشر في كريمة الخفق السائلة، متوفر أونلاين بـ 33 ألف شلن/لتر تقريباً.",
+        "products": "كريمة خفق وطبخ نباتية 1 لتر",
+        "threat": "high",
+        "type": "regional",
+        "url": "https://iffco.com/brands/pristine/"
+      },
+      {
+        "name": "Emborg",
+        "origin": "أوروبا (الدنمارك)",
+        "positioning_ar": "بريميوم ألبان بكراتين جملة، حوالي 14 دولار/لتر.",
+        "products": "كريمة خفق UHT ألبان، كريمة سبراي",
+        "threat": "medium",
+        "type": "importer",
+        "url": "https://www.wholesales.co.ug/?s=cream&post_type=product"
+      },
+      {
+        "name": "Bakels East Africa",
+        "origin": "كينيا (مجموعة Bakels)",
+        "positioning_ar": "منتج كيني للمخابز، مستفيد من إعفاء EAC. موزع أوغندي غير مؤكد.",
+        "products": "كريمة خفق، حشوات، شوكولاتة كومباوند",
+        "threat": "medium",
+        "type": "regional",
+        "url": "https://bakelseastafrica.com/bakels-east-africa/"
+      },
+      {
+        "name": "Zesta (TruFoods)",
+        "origin": "كينيا",
+        "positioning_ar": "سعر شعبي، منتشر في الجملة والتجزئة. كينيا مسيطرة على 75% من واردات المربى.",
+        "products": "كاسترد، مربى، بيكنج باودر",
+        "threat": "medium",
+        "type": "regional",
+        "url": "https://www.jumia.ug/generic-zesta-custard-powder-500g-243988682.html"
+      },
+      {
+        "name": "Melken",
+        "origin": "غير مؤكد",
+        "positioning_ar": "أقرب منتج لشوكولاتة الخبز في السوق، حوالي 27 دولار/كجم جملة.",
+        "products": "شوكولاتة خبز داكنة وبيضاء، بودرة شوكولاتة",
+        "threat": "medium",
+        "type": "importer",
+        "url": "https://www.wholesales.co.ug/?s=chocolate&post_type=product"
+      },
+      {
+        "name": "Nutella (Ferrero)",
+        "origin": "إيطاليا",
+        "positioning_ar": "بريميوم تجزئة، حوالي 17 دولار/كجم. مفيش سبريد محلي.",
+        "products": "سبريد بندق",
+        "threat": "low",
+        "type": "multinational",
+        "url": "https://www.jumia.ug/mlp-nutella-chocolate/"
+      },
+      {
+        "name": "Paramount Dairies / Jesa Farm Dairy",
+        "origin": "أوغندا",
+        "positioning_ar": "كريمة ألبان محلية، تحتاج تبريد، مش بديل للكريمة النباتية الثابتة.",
+        "products": "كريمة ألبان طازجة",
+        "threat": "low",
+        "type": "local",
+        "url": "https://supermarket.co.ug/49-cream"
+      }
+    ],
+    "compliance": {
+      "flagged": 115,
+      "rows": [
+        {
+          "cats": [
+            "Bakery Mix Group",
+            "Home-Use Retail"
+          ],
+          "code": "Gelatin",
+          "list": [
+            [
+              "HSP14",
+              "Strawberry Jelly Powder (10Kg)",
+              "Bakery Mix Group"
+            ],
+            [
+              "",
+              "Strawberry Jelly Powder (12kg)",
+              "Bakery Mix Group"
+            ],
+            [
+              "",
+              "Strawberry Jelly Powder (3kg)",
+              "Bakery Mix Group"
+            ],
+            [
+              "",
+              "Strawberry Jelly Powder (1KG)",
+              "Home-Use Retail"
+            ]
+          ],
+          "name": "Gelatin",
+          "note_ar": "الحلال مش إلزامي قانونياً في أوغندا (السوق هو اللي بيطلبه)، لكن فيه أقلية مسلمة كبيرة والمشترين بيسألوا. اشحن بشهادة حلال لمصدر الجيلاتين (بقري) عشان تقفل الاعتراض.",
+          "skus": 4,
+          "status": "halal",
+          "url": "https://www.foodbusinessmea.com/unbs-partners-with-uganda-muslim-supreme-council-to-reinforce-implementation-of-halal-standards/"
+        },
+        {
+          "cats": [
+            "Home-Use Retail",
+            "Sugar Paste"
+          ],
+          "code": "E120",
+          "list": [
+            [
+              "",
+              "Strawberry Ice Cream Powder (1kg)",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Pink sugar Paste (1kg)",
+              "Sugar Paste"
+            ]
+          ],
+          "name": "Carmine (Cochineal)",
+          "note_ar": "مفيش قاعدة أوغندية للكارمين، بس مقبوليته حلال محل خلاف. للعملاء المسلمين استبدله بلون نباتي أو أكّد مع جهة الحلال.",
+          "skus": 2,
+          "status": "halal",
+          "url": "https://www.foodbusinessmea.com/unbs-partners-with-uganda-muslim-supreme-council-to-reinforce-implementation-of-halal-standards/"
+        },
+        {
+          "cats": [
+            "Chunky Spread",
+            "Mirror Glazes",
+            "Sugar Paste",
+            "Home-Use Retail"
+          ],
+          "code": "E102",
+          "list": [
+            [
+              "",
+              "Pistachio Chunky Spread (10Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Chunky Spread (1Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "HCS03",
+              "Pistachio Chunky Spread (3Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Chunky Spread (5Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Chunky Spread (6Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Chunky Spread 10%(10Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Chunky Spread 10%(1Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Chunky Spread 10%(5Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Sauce (10Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Spread with Kunafa (1kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Spread with Kunafa (3kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Spread with Kunafa (5kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Spread with Kunafa10% (10kg)",
+              "Chunky Spread"
+            ],
+            [
+              "HCS03",
+              "pistachio Chunky spread 52%(3 KGs)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Mango Juice Powder (4.8kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Mango Juice Powder (5kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Mango juice powder (10kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Orange Juice Powder (4.8kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Orange Juice Powder (5kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Orange juice powder (10kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Pina Colada Flavored Powder (10Kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Cream Caramel (1Kg)",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Instant industrial drink powder with Mandarin flavourSweetened with sugar",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Instant industrial drink powder with pineapple flavor Sweetened with sugar",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Mango Juice Powder (1kg)",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Orange Juice Powder 1kg",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Pastry Cream (1Kg)",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Pina Colada Flavored Powder (1Kg)",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "pistachio Chunky spread (300gm)",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Caramel Mirror Glaze (10kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Mirror Glaze (1kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HM09",
+              "Caramel Mirror Glaze (4.5kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Mirror Glaze (5kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Mirror Glaze (6Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Mirror glaze (7kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mango Mirror Glaze (10Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mango Mirror Glaze (1Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HM06",
+              "Mango Mirror Glaze (4.5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mango Mirror Glaze (5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mango Mirror Glaze (6Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mango Mirror glaze (7kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Cream Caramel Powder (10kg)",
+              "Powder Cream Mix"
+            ],
+            [
+              "",
+              "Cream Caramel Powder (12kg)",
+              "Powder Cream Mix"
+            ],
+            [
+              "",
+              "Cream Caramel Powder (25kg)",
+              "Powder Cream Mix"
+            ],
+            [
+              "",
+              "Cream caramel (3kg)",
+              "Powder Cream Mix"
+            ],
+            [
+              "HSP35",
+              "Pastry Cream (10Kg)",
+              "Powder Cream Mix"
+            ],
+            [
+              "",
+              "Pastry Cream (25Kg)",
+              "Powder Cream Mix"
+            ],
+            [
+              "",
+              "Black sugar paste (10kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Black sugar paste (1kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Black sugar paste (4kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Black sugar paste (5kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Green sugar paste (10kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Green sugar paste (1kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Green sugar paste (4 kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Green sugar paste (5kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Yellow Sugar Paste (10kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Yellow Sugar Paste (4kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Yellow Sugar Paste (5kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Yellow sugar paste (1kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Pistachio Sauce (1.25kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "pastry cream(4kg)",
+              "Trio Cream Group"
+            ]
+          ],
+          "name": "Tartrazine",
+          "note_ar": "اللون مسموح غالباً حسب US 45:2019 (المعيار الأوغندي للإضافات، على أساس Codex). مفيش قاعدة تحذير زي الخليج لقيناها، لكن الحد الأقصى لكل فئة لازم يتأكد من نسخة المواصفة أو من جهة PVoC أثناء التسجيل.",
+          "skus": 61,
+          "status": "check",
+          "url": "https://cdn3-verigates.bureauveritas.com/sites/verigates/files/2024-01/SCHEDULE%20OF%20COMPULSORY%20UGANDA%20STANDARDS%20AS%20OF%2031%20DECEMBER%202023-FINAL.pdf"
+        },
+        {
+          "cats": [
+            "Fruit Fillings",
+            "Mirror Glazes",
+            "Sugar Paste",
+            "Fruit Jam"
+          ],
+          "code": "E129",
+          "list": [
+            [
+              "HSP14",
+              "Strawberry Jelly Powder (10Kg)",
+              "Bakery Mix Group"
+            ],
+            [
+              "",
+              "Strawberry Jelly Powder (12kg)",
+              "Bakery Mix Group"
+            ],
+            [
+              "",
+              "Strawberry Jelly Powder (3kg)",
+              "Bakery Mix Group"
+            ],
+            [
+              "",
+              "Blueberry Compound (1Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Cherries Fruit Filling (10Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF02",
+              "Cherries Fruit Filling (2.7Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Cherries Fruit Filling (2.7Kg)تصدير",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Pomegranate Fruit Filling (10Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Pomegranate Fruit Filling (2.7Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Raspberry Fruit Filling (10kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF01",
+              "Raspberry Fruit Filling (2.7Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF01",
+              "Raspberry filling fruit(5 KGs)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Strawberry Compound (1Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Strawberry Fruit Filling (10Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF06",
+              "Strawberry Fruit Filling (2.7Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF06",
+              "Strawberry filling fruit (5KGs)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Strawberry Jam (1Kg)",
+              "Fruit Jam"
+            ],
+            [
+              "HJJ02",
+              "Strawberry Jam (4.8 KG)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Strawberry Jam (5Kg)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Strawberry Jam (850 Gm)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Strawberry Spread (1Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "HJS02",
+              "Strawberry Spread (4Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Strawberry Spread (5Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Red Velvet (1Kg)",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Strawberry Jelly Powder (1KG)",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Blueberry Mirror Glaze (1Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Blueberry Mirror Glaze (4.5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Blueberry Mirror Glaze (5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Blueberry Mirror Glaze (6Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Blueberry Mirror Glaze (7kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Raspberry Mirror Glaze (4.5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HM10",
+              "Strawberry Hot Glaze (4.5 Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Strawberry Mirror Glaze (10kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Strawberry Mirror Glaze (5kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Strawberry Mirror Glaze (6Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Strawberry Mirror Glaze(1Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HM05",
+              "Strawberry Mirror Glaze(4.5 Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Strawberry Mirror glaze (7kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HSP06",
+              "Red Velvet (10kg)",
+              "Sponge Cake Group"
+            ],
+            [
+              "",
+              "Red Velvet (25kg)",
+              "Sponge Cake Group"
+            ],
+            [
+              "",
+              "Black sugar paste (10kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Black sugar paste (1kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Black sugar paste (4kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Black sugar paste (5kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Red sugar paste (10kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Red sugar paste (1kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Red sugar paste (4kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Red sugar paste (5kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Strawberry Sauce (1.25kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Strawberry Sauce (10Kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Strawberry Sauce (15kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "HMS06",
+              "Sweet Drops Strawberry (1kg)",
+              "Sweet Drops Sauces"
+            ]
+          ],
+          "name": "Allura Red AC",
+          "note_ar": "زي E102: مسموح على الأرجح تحت US 45:2019 بحدود Codex. أكّد الحد لكل فئة (حشوات، جليز) مع جهة PVoC قبل أول شحنة.",
+          "skus": 52,
+          "status": "check",
+          "url": "https://cdn3-verigates.bureauveritas.com/sites/verigates/files/2024-01/SCHEDULE%20OF%20COMPULSORY%20UGANDA%20STANDARDS%20AS%20OF%2031%20DECEMBER%202023-FINAL.pdf"
+        },
+        {
+          "cats": [
+            "Mirror Glazes",
+            "Home-Use Retail",
+            "Drinks Powder Mix",
+            "Powder Cream Mix"
+          ],
+          "code": "E110",
+          "list": [
+            [
+              "",
+              "Mango Juice Powder (4.8kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Mango Juice Powder (5kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Mango juice powder (10kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Orange Juice Powder (4.8kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Orange Juice Powder (5kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Orange juice powder (10kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Pina Colada Flavored Powder (10Kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Cream Caramel (1Kg)",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Instant industrial drink powder with Apple flavor Sweetened with sugar",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Instant industrial drink powder with Mandarin flavourSweetened with sugar",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Instant industrial drink powder with pineapple flavor Sweetened with sugar",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Mango Juice Powder (1kg)",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Orange Juice Powder 1kg",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Pastry Cream (1Kg)",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Pina Colada Flavored Powder (1Kg)",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Caramel Mirror Glaze (10kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Mirror Glaze (1kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HM09",
+              "Caramel Mirror Glaze (4.5kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Mirror Glaze (5kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Mirror Glaze (6Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Mirror glaze (7kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mango Mirror Glaze (10Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mango Mirror Glaze (1Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HM06",
+              "Mango Mirror Glaze (4.5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mango Mirror Glaze (5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mango Mirror Glaze (6Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mango Mirror glaze (7kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Cream Caramel Powder (10kg)",
+              "Powder Cream Mix"
+            ],
+            [
+              "",
+              "Cream Caramel Powder (12kg)",
+              "Powder Cream Mix"
+            ],
+            [
+              "",
+              "Cream Caramel Powder (25kg)",
+              "Powder Cream Mix"
+            ],
+            [
+              "",
+              "Cream caramel (3kg)",
+              "Powder Cream Mix"
+            ],
+            [
+              "HSP35",
+              "Pastry Cream (10Kg)",
+              "Powder Cream Mix"
+            ],
+            [
+              "",
+              "Pastry Cream (25Kg)",
+              "Powder Cream Mix"
+            ],
+            [
+              "",
+              "pastry cream(4kg)",
+              "Trio Cream Group"
+            ]
+          ],
+          "name": "Sunset Yellow FCF",
+          "note_ar": "زي E102: مسموح على الأرجح تحت US 45:2019. أكّد الحد لكل فئة مع جهة PVoC.",
+          "skus": 34,
+          "status": "check",
+          "url": "https://cdn3-verigates.bureauveritas.com/sites/verigates/files/2024-01/SCHEDULE%20OF%20COMPULSORY%20UGANDA%20STANDARDS%20AS%20OF%2031%20DECEMBER%202023-FINAL.pdf"
+        },
+        {
+          "cats": [
+            "Bakery Mix Group",
+            "Home-Use Retail"
+          ],
+          "code": "E122",
+          "list": [
+            [
+              "HSP14",
+              "Strawberry Jelly Powder (10Kg)",
+              "Bakery Mix Group"
+            ],
+            [
+              "",
+              "Strawberry Jelly Powder (12kg)",
+              "Bakery Mix Group"
+            ],
+            [
+              "",
+              "Strawberry Jelly Powder (3kg)",
+              "Bakery Mix Group"
+            ],
+            [
+              "",
+              "Strawberry Jelly Powder (1KG)",
+              "Home-Use Retail"
+            ]
+          ],
+          "name": "Carmoisine",
+          "note_ar": "Carmoisine موجود في Codex GSFA بس بفئات محدودة. أكّد إن فئات منتجاتنا مسموح فيها تحت US 45:2019.",
+          "skus": 4,
+          "status": "check",
+          "url": "https://cdn3-verigates.bureauveritas.com/sites/verigates/files/2024-01/SCHEDULE%20OF%20COMPULSORY%20UGANDA%20STANDARDS%20AS%20OF%2031%20DECEMBER%202023-FINAL.pdf"
+        },
+        {
+          "cats": [
+            "Chunky Spread",
+            "Home-Use Retail"
+          ],
+          "code": "E104",
+          "list": [
+            [
+              "",
+              "Lime and Ginger Chunky Spread (1KG)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Lime and Ginger Chunky Spread (3KG)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Lime and Ginger Chunky Spread (300gm)",
+              "Home-Use Retail"
+            ]
+          ],
+          "name": "Quinoline Yellow",
+          "note_ar": "Quinoline Yellow ليه قيود في Codex حسب الفئة. أكّد وضعه في US 45:2019 قبل شحن السبريد.",
+          "skus": 3,
+          "status": "check",
+          "url": "https://cdn3-verigates.bureauveritas.com/sites/verigates/files/2024-01/SCHEDULE%20OF%20COMPULSORY%20UGANDA%20STANDARDS%20AS%20OF%2031%20DECEMBER%202023-FINAL.pdf"
+        },
+        {
+          "cats": [
+            "Mirror Glazes",
+            "Fruit Fillings",
+            "Sweet Drops Sauces",
+            "Fruit Spread 30%"
+          ],
+          "code": "E202",
+          "list": [
+            [
+              "",
+              "Filling Cream (10kg)",
+              "Cheese and Cream Group"
+            ],
+            [
+              "HR01",
+              "Filling Cream (2.5kg)",
+              "Cheese and Cream Group"
+            ],
+            [
+              "HM12",
+              "Ganache(1kg)",
+              "Chocolate Group"
+            ],
+            [
+              "",
+              "Apple with Cinnamon Spread(4Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Apple Fruit Filling (10kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF03",
+              "Apple Fruit Filling (2.7kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF04",
+              "BlackBerry Fruit Filling (2.7Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "BlackBerry Fruit Filling (3Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Blueberry Compound (1Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Blueberry Fruit Filling (10kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF05",
+              "Blueberry Fruit Filling (2.7kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF05",
+              "Blueberry Fruit Filling (5 kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Cherries Fruit Filling (10Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF02",
+              "Cherries Fruit Filling (2.7Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Cherries Fruit Filling (2.7Kg)تصدير",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Mango Compound (1Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Mango Fruit Filling (10Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF07",
+              "Mango Fruit Filling (2.7Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF07",
+              "Mango filling fruit (5KGs)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Passion Fruit Compound (1Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Pomegranate Fruit Filling (10Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Pomegranate Fruit Filling (2.7Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Raspberry Fruit Filling (10kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF01",
+              "Raspberry Fruit Filling (2.7Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF01",
+              "Raspberry filling fruit(5 KGs)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Strawberry Compound (1Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Strawberry Fruit Filling (10Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF06",
+              "Strawberry Fruit Filling (2.7Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF06",
+              "Strawberry filling fruit (5KGs)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Apricot Jam (10Kg)",
+              "Fruit Jam"
+            ],
+            [
+              "HJJ01",
+              "Apricot Jam (4.8Kg)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Apricot Jam (5Kg)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Fig Jam (5kg)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Mango Jam (5kg)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Strawberry Jam (1Kg)",
+              "Fruit Jam"
+            ],
+            [
+              "HJJ02",
+              "Strawberry Jam (4.8 KG)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Strawberry Jam (5Kg)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Strawberry Jam (850 Gm)",
+              "Fruit Jam"
+            ],
+            [
+              "HJS03",
+              "Apricot Spread (4Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Apricot Spread (5Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Apricot mirror glaze (4 KG)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "HJS05",
+              "Mango Spread (4Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Mango Spread (5Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Mix Berry Spread (1Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Mix Berry Spread(4Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Mix Berry Spread(5Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Passion Spread (4Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Passion Spread (5Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Strawberry Spread (1Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "HJS02",
+              "Strawberry Spread (4Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Strawberry Spread (5Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "milk jam 12 kg",
+              "Liquid Whipping Cream"
+            ],
+            [
+              "",
+              "Apricot Mirror Glaze (10kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Blueberry Mirror Glaze (1Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Blueberry Mirror Glaze (4.5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Blueberry Mirror Glaze (5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Blueberry Mirror Glaze (6Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Blueberry Mirror Glaze (7kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Mirror Glaze (10kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Mirror Glaze (1kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HM09",
+              "Caramel Mirror Glaze (4.5kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Mirror Glaze (5kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Mirror Glaze (6Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Mirror glaze (7kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Chocolate Mirror Glaze (10Kg) (عيار خفيف)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Chocolate Mirror Glaze (10kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Chocolate Mirror Glaze (1Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HM11",
+              "Chocolate Mirror Glaze (4.5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Chocolate Mirror Glaze (5kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Chocolate Mirror Glaze (6Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Chocolate Mirror glaze (7kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Hot Glaze (1kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HM01",
+              "Hot Glaze (4.5kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Hot Glaze (5kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Hot Glaze (7kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mango Mirror Glaze (10Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mango Mirror Glaze (1Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HM06",
+              "Mango Mirror Glaze (4.5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mango Mirror Glaze (5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mango Mirror Glaze (6Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mango Mirror glaze (7kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mirror Glaze (10Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mirror Glaze (10Kg) (عيار خفيف)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mirror Glaze (5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mirror Glaze (6Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mirror glaze (1kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HM14",
+              "Mirror glaze (4.5kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Mirror glaze (7kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Oriental Glaze (5kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Oriental Glaze (7kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Raspberry Mirror Glaze (4.5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HM10",
+              "Strawberry Hot Glaze (4.5 Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Strawberry Mirror Glaze (10kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Strawberry Mirror Glaze (5kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Strawberry Mirror Glaze (6Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Strawberry Mirror Glaze(1Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HM05",
+              "Strawberry Mirror Glaze(4.5 Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Strawberry Mirror glaze (7kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "hot glaze (6Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "milk jam (10kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "BlueBerry Sauce (15Kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Blueberry Sauce (1.25kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Caramel Sauce (1.25kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Caramel Sauce (10Kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Caramel Sauce (15kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Chocolate Sauce (1.25kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Chocolate Sauce (15kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Chocolate Sauce (2.5KG)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Mango Sauce (1.25kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Mango Sauce (10Kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Mango Sauce (15kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Salted Caramel Sauce (1.25kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Salted Caramel Sauce (10kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Salted Caramel Sauce (1kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Strawberry Sauce (1.25kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Strawberry Sauce (10Kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Strawberry Sauce (15kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "HMS05",
+              "Sweet Drops Chocolate (1kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Sweet Drops Coffee (1Kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "HMS06",
+              "Sweet Drops Strawberry (1kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Dulce (18 Kg)",
+              "Trio Cream Group"
+            ],
+            [
+              "HRT07",
+              "Dulce (4.5kg)",
+              "Trio Cream Group"
+            ],
+            [
+              "HRT07",
+              "Dulce (5kg)",
+              "Trio Cream Group"
+            ],
+            [
+              "",
+              "Gianduja (20Kg)",
+              "Trio Cream Group"
+            ],
+            [
+              "HRT01",
+              "Gianduja (4.5kg)",
+              "Trio Cream Group"
+            ],
+            [
+              "HRT01",
+              "Gianduja (4.8kg)",
+              "Trio Cream Group"
+            ],
+            [
+              "",
+              "Milk Jam (1Kg)",
+              "Trio Cream Group"
+            ],
+            [
+              "",
+              "Milk Jam (6Kg)",
+              "Trio Cream Group"
+            ],
+            [
+              "",
+              "Milk jam (5Kg)",
+              "Trio Cream Group"
+            ],
+            [
+              "",
+              "Tiramisu (20kg)",
+              "Trio Cream Group"
+            ],
+            [
+              "HRT03",
+              "Tiramisu (4.5kg)",
+              "Trio Cream Group"
+            ],
+            [
+              "HRT03",
+              "Tiramisu (4.8 kg)",
+              "Trio Cream Group"
+            ]
+          ],
+          "name": "Potassium sorbate",
+          "note_ar": "إضافة شائعة مسموحة في Codex GSFA اللي عليه US 45:2019. التزم بالحدود القصوى لكل فئة واكتبها في الملصق باسم الوظيفة + الاسم أو رقم INS.",
+          "skus": 132,
+          "status": "limits",
+          "url": "https://cdn3-verigates.bureauveritas.com/sites/verigates/files/2024-01/SCHEDULE%20OF%20COMPULSORY%20UGANDA%20STANDARDS%20AS%20OF%2031%20DECEMBER%202023-FINAL.pdf"
+        },
+        {
+          "cats": [
+            "Mirror Glazes",
+            "Fruit Fillings",
+            "Fruit Jam",
+            "Home-Use Retail"
+          ],
+          "code": "E150d",
+          "list": [
+            [
+              "",
+              "Apple with Cinnamon Spread(4Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pomegranate Fruit Filling (10Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Pomegranate Fruit Filling (2.7Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Raspberry Fruit Filling (10kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF01",
+              "Raspberry Fruit Filling (2.7Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Strawberry Compound (1Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Strawberry Fruit Filling (10Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF06",
+              "Strawberry Fruit Filling (2.7Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Strawberry Jam (1Kg)",
+              "Fruit Jam"
+            ],
+            [
+              "HJJ02",
+              "Strawberry Jam (4.8 KG)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Strawberry Jam (5Kg)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Strawberry Jam (850 Gm)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Strawberry Spread (1Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "HJS02",
+              "Strawberry Spread (4Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Strawberry Spread (5Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Caramel frappe (1kg)",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Chocolate Mousse Mix (1KG)",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Chocolate Sponge Ultra (1Kg)",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Instant industrial drink powder with Apple flavor Sweetened with sugar",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Caramel Mirror Glaze (10kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Mirror Glaze (1kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HM09",
+              "Caramel Mirror Glaze (4.5kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Mirror Glaze (5kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Mirror Glaze (6Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Mirror glaze (7kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Chocolate Mirror Glaze (10Kg) (عيار خفيف)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Chocolate Mirror Glaze (10kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Chocolate Mirror Glaze (1Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HM11",
+              "Chocolate Mirror Glaze (4.5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Chocolate Mirror Glaze (5kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Chocolate Mirror Glaze (6Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Chocolate Mirror glaze (7kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HM10",
+              "Strawberry Hot Glaze (4.5 Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Caramel Ice Cream (10kg)",
+              "Powder Cream Mix"
+            ],
+            [
+              "HSP23",
+              "Chocolate Mousse Mix (10Kg)",
+              "Powder Cream Mix"
+            ],
+            [
+              "HSP15",
+              "Chocolate Sponge Ultra (10kg)",
+              "Sponge Cake Group"
+            ],
+            [
+              "",
+              "Chocolate Sponge Ultra (25kg)",
+              "Sponge Cake Group"
+            ],
+            [
+              "",
+              "Strawberry Sauce (1.25kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Strawberry Sauce (10Kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "",
+              "Strawberry Sauce (15kg)",
+              "Sweet Drops Sauces"
+            ],
+            [
+              "HMS06",
+              "Sweet Drops Strawberry (1kg)",
+              "Sweet Drops Sauces"
+            ]
+          ],
+          "name": "Caramel IV",
+          "note_ar": "إضافة شائعة مسموحة في Codex GSFA اللي عليه US 45:2019. التزم بالحدود القصوى لكل فئة واكتبها في الملصق باسم الوظيفة + الاسم أو رقم INS.",
+          "skus": 41,
+          "status": "limits",
+          "url": "https://cdn3-verigates.bureauveritas.com/sites/verigates/files/2024-01/SCHEDULE%20OF%20COMPULSORY%20UGANDA%20STANDARDS%20AS%20OF%2031%20DECEMBER%202023-FINAL.pdf"
+        },
+        {
+          "cats": [
+            "Chunky Spread",
+            "Sugar Paste",
+            "Mirror Glazes",
+            "Fruit Fillings"
+          ],
+          "code": "E133",
+          "list": [
+            [
+              "",
+              "Pistachio Chunky Spread (10Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Chunky Spread (1Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "HCS03",
+              "Pistachio Chunky Spread (3Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Chunky Spread (5Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Chunky Spread (6Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Chunky Spread 10%(10Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Chunky Spread 10%(1Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Chunky Spread 10%(5Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Sauce (10Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Spread with Kunafa (1kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Spread with Kunafa (3kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Spread with Kunafa (5kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Pistachio Spread with Kunafa10% (10kg)",
+              "Chunky Spread"
+            ],
+            [
+              "HCS03",
+              "pistachio Chunky spread 52%(3 KGs)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Blueberry Compound (1Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "pistachio Chunky spread (300gm)",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Blueberry Mirror Glaze (1Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Blueberry Mirror Glaze (4.5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Blueberry Mirror Glaze (5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Blueberry Mirror Glaze (6Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Blueberry Mirror Glaze (7kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Black sugar paste (10kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Black sugar paste (1kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Black sugar paste (4kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Black sugar paste (5kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Blue sugar paste (10kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Blue sugar paste (1kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Blue sugar paste (4 kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Blue sugar paste (5kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Green sugar paste (10kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Green sugar paste (1kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Green sugar paste (4 kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Green sugar paste (5kg)",
+              "Sugar Paste"
+            ],
+            [
+              "",
+              "Pistachio Sauce (1.25kg)",
+              "Sweet Drops Sauces"
+            ]
+          ],
+          "name": "Brilliant Blue FCF",
+          "note_ar": "إضافة شائعة مسموحة في Codex GSFA اللي عليه US 45:2019. التزم بالحدود القصوى لكل فئة واكتبها في الملصق باسم الوظيفة + الاسم أو رقم INS.",
+          "skus": 34,
+          "status": "limits",
+          "url": "https://cdn3-verigates.bureauveritas.com/sites/verigates/files/2024-01/SCHEDULE%20OF%20COMPULSORY%20UGANDA%20STANDARDS%20AS%20OF%2031%20DECEMBER%202023-FINAL.pdf"
+        },
+        {
+          "cats": [
+            "Fruit Spread 30%",
+            "Fruit Jam",
+            "Chunky Spread",
+            "Mirror Glazes"
+          ],
+          "code": "E211",
+          "list": [
+            [
+              "",
+              "Apple with Cinnamon Spread(4Kg)",
+              "Chunky Spread"
+            ],
+            [
+              "",
+              "Apricot Jam (10Kg)",
+              "Fruit Jam"
+            ],
+            [
+              "HJJ01",
+              "Apricot Jam (4.8Kg)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Apricot Jam (5Kg)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Fig Jam (5kg)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Mango Jam (5kg)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Strawberry Jam (1Kg)",
+              "Fruit Jam"
+            ],
+            [
+              "HJJ02",
+              "Strawberry Jam (4.8 KG)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Strawberry Jam (5Kg)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Strawberry Jam (850 Gm)",
+              "Fruit Jam"
+            ],
+            [
+              "HJS03",
+              "Apricot Spread (4Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Apricot Spread (5Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Apricot mirror glaze (4 KG)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "HJS05",
+              "Mango Spread (4Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Mango Spread (5Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Mix Berry Spread (1Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Mix Berry Spread(4Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Mix Berry Spread(5Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Strawberry Spread (1Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "HJS02",
+              "Strawberry Spread (4Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Strawberry Spread (5Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Apricot Mirror Glaze (10kg)",
+              "Mirror Glazes"
+            ]
+          ],
+          "name": "Sodium benzoate",
+          "note_ar": "إضافة شائعة مسموحة في Codex GSFA اللي عليه US 45:2019. التزم بالحدود القصوى لكل فئة واكتبها في الملصق باسم الوظيفة + الاسم أو رقم INS.",
+          "skus": 22,
+          "status": "limits",
+          "url": "https://cdn3-verigates.bureauveritas.com/sites/verigates/files/2024-01/SCHEDULE%20OF%20COMPULSORY%20UGANDA%20STANDARDS%20AS%20OF%2031%20DECEMBER%202023-FINAL.pdf"
+        },
+        {
+          "cats": [
+            "Fruit Fillings",
+            "Fruit Spread 30%",
+            "Fruit Jam",
+            "Mirror Glazes"
+          ],
+          "code": "E160b",
+          "list": [
+            [
+              "",
+              "Mango Compound (1Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Mango Fruit Filling (10Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF07",
+              "Mango Fruit Filling (2.7Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF07",
+              "Mango filling fruit (5KGs)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Passion Fruit Compound (1Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Apricot Jam (10Kg)",
+              "Fruit Jam"
+            ],
+            [
+              "HJJ01",
+              "Apricot Jam (4.8Kg)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Apricot Jam (5Kg)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Mango Jam (5kg)",
+              "Fruit Jam"
+            ],
+            [
+              "HJS03",
+              "Apricot Spread (4Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Apricot Spread (5Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Apricot mirror glaze (4 KG)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "HJS05",
+              "Mango Spread (4Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Mango Spread (5Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Apricot Mirror Glaze (10kg)",
+              "Mirror Glazes"
+            ]
+          ],
+          "name": "Annatto",
+          "note_ar": "إضافة شائعة مسموحة في Codex GSFA اللي عليه US 45:2019. التزم بالحدود القصوى لكل فئة واكتبها في الملصق باسم الوظيفة + الاسم أو رقم INS.",
+          "skus": 15,
+          "status": "limits",
+          "url": "https://cdn3-verigates.bureauveritas.com/sites/verigates/files/2024-01/SCHEDULE%20OF%20COMPULSORY%20UGANDA%20STANDARDS%20AS%20OF%2031%20DECEMBER%202023-FINAL.pdf"
+        },
+        {
+          "cats": [
+            "Drinks Powder Mix",
+            "Home-Use Retail"
+          ],
+          "code": "E551",
+          "list": [
+            [
+              "",
+              "Mango Juice Powder (4.8kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Mango Juice Powder (5kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Mango juice powder (10kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Orange Juice Powder (4.8kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Orange Juice Powder (5kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Orange juice powder (10kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Pina Colada Flavored Powder (10Kg)",
+              "Drinks Powder Mix"
+            ],
+            [
+              "",
+              "Instant industrial drink powder with Mandarin flavourSweetened with sugar",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Instant industrial drink powder with pineapple flavor Sweetened with sugar",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Mango Juice Powder (1kg)",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Orange Juice Powder 1kg",
+              "Home-Use Retail"
+            ],
+            [
+              "",
+              "Pina Colada Flavored Powder (1Kg)",
+              "Home-Use Retail"
+            ]
+          ],
+          "name": "Silicon dioxide",
+          "note_ar": "إضافة شائعة مسموحة في Codex GSFA اللي عليه US 45:2019. التزم بالحدود القصوى لكل فئة واكتبها في الملصق باسم الوظيفة + الاسم أو رقم INS.",
+          "skus": 12,
+          "status": "limits",
+          "url": "https://cdn3-verigates.bureauveritas.com/sites/verigates/files/2024-01/SCHEDULE%20OF%20COMPULSORY%20UGANDA%20STANDARDS%20AS%20OF%2031%20DECEMBER%202023-FINAL.pdf"
+        },
+        {
+          "cats": [
+            "Liquid Whipping Cream",
+            "Fruit Fillings"
+          ],
+          "code": "E160a",
+          "list": [
+            [
+              "",
+              "Mango Compound (1Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "",
+              "Mango Fruit Filling (10Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF07",
+              "Mango Fruit Filling (2.7Kg)",
+              "Fruit Fillings"
+            ],
+            [
+              "HRF07",
+              "Mango filling fruit (5KGs)",
+              "Fruit Fillings"
+            ],
+            [
+              "HWH02",
+              "Bound Whipping Cream (12 liters)",
+              "Liquid Whipping Cream"
+            ],
+            [
+              "",
+              "Natural Whipped Cream (1liters)",
+              "Liquid Whipping Cream"
+            ],
+            [
+              "",
+              "Natural Whipping Cream 12L",
+              "Liquid Whipping Cream"
+            ],
+            [
+              "",
+              "Prestige (1Liters)",
+              "Liquid Whipping Cream"
+            ],
+            [
+              "",
+              "savor (1liter)",
+              "Liquid Whipping Cream"
+            ]
+          ],
+          "name": "Beta-carotene",
+          "note_ar": "إضافة شائعة مسموحة في Codex GSFA اللي عليه US 45:2019. التزم بالحدود القصوى لكل فئة واكتبها في الملصق باسم الوظيفة + الاسم أو رقم INS.",
+          "skus": 9,
+          "status": "limits",
+          "url": "https://cdn3-verigates.bureauveritas.com/sites/verigates/files/2024-01/SCHEDULE%20OF%20COMPULSORY%20UGANDA%20STANDARDS%20AS%20OF%2031%20DECEMBER%202023-FINAL.pdf"
+        },
+        {
+          "cats": [
+            "Mirror Glazes",
+            "Fruit Jam"
+          ],
+          "code": "E150",
+          "list": [
+            [
+              "",
+              "Fig Jam (5kg)",
+              "Fruit Jam"
+            ],
+            [
+              "",
+              "Raspberry Mirror Glaze (4.5Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Strawberry Mirror Glaze (10kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Strawberry Mirror Glaze (5kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Strawberry Mirror Glaze (6Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Strawberry Mirror Glaze(1Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "HM05",
+              "Strawberry Mirror Glaze(4.5 Kg)",
+              "Mirror Glazes"
+            ],
+            [
+              "",
+              "Strawberry Mirror glaze (7kg)",
+              "Mirror Glazes"
+            ]
+          ],
+          "name": "Caramel",
+          "note_ar": "إضافة شائعة مسموحة في Codex GSFA اللي عليه US 45:2019. التزم بالحدود القصوى لكل فئة واكتبها في الملصق باسم الوظيفة + الاسم أو رقم INS.",
+          "skus": 8,
+          "status": "limits",
+          "url": "https://cdn3-verigates.bureauveritas.com/sites/verigates/files/2024-01/SCHEDULE%20OF%20COMPULSORY%20UGANDA%20STANDARDS%20AS%20OF%2031%20DECEMBER%202023-FINAL.pdf"
+        },
+        {
+          "cats": [
+            "Fruit Spread 30%"
+          ],
+          "code": "E160",
+          "list": [
+            [
+              "",
+              "Passion Spread (4Kg)",
+              "Fruit Spread 30%"
+            ],
+            [
+              "",
+              "Passion Spread (5Kg)",
+              "Fruit Spread 30%"
+            ]
+          ],
+          "name": "Carotenes",
+          "note_ar": "إضافة شائعة مسموحة في Codex GSFA اللي عليه US 45:2019. التزم بالحدود القصوى لكل فئة واكتبها في الملصق باسم الوظيفة + الاسم أو رقم INS.",
+          "skus": 2,
+          "status": "limits",
+          "url": "https://cdn3-verigates.bureauveritas.com/sites/verigates/files/2024-01/SCHEDULE%20OF%20COMPULSORY%20UGANDA%20STANDARDS%20AS%20OF%2031%20DECEMBER%202023-FINAL.pdf"
+        },
+        {
+          "cats": [
+            "Oriental Mix Group"
+          ],
+          "code": "E500",
+          "list": [
+            [
+              "HSB09",
+              "Mix Biscuit (10kg)",
+              "Oriental Mix Group"
+            ]
+          ],
+          "name": "Sodium carbonates",
+          "note_ar": "إضافة شائعة مسموحة في Codex GSFA اللي عليه US 45:2019. التزم بالحدود القصوى لكل فئة واكتبها في الملصق باسم الوظيفة + الاسم أو رقم INS.",
+          "skus": 1,
+          "status": "limits",
+          "url": "https://cdn3-verigates.bureauveritas.com/sites/verigates/files/2024-01/SCHEDULE%20OF%20COMPULSORY%20UGANDA%20STANDARDS%20AS%20OF%2031%20DECEMBER%202023-FINAL.pdf"
+        }
+      ],
+      "total": 607
+    },
+    "e171": {
+      "note_ar": "مفيش حظر لثاني أكسيد التيتانيوم في أوغندا أو EAC لقيناه، ووضعه في US 45:2019 مش متأكد منه. منتجات Dr. Baker مفيهاش E171 حسب ملف البيانات، فمفيش أثر عملي.",
+      "status": "check",
+      "url": "https://cdn3-verigates.bureauveritas.com/sites/verigates/files/2024-01/SCHEDULE%20OF%20COMPULSORY%20UGANDA%20STANDARDS%20AS%20OF%2031%20DECEMBER%202023-FINAL.pdf"
+    },
+    "fairs": [
+      {
+        "city": "كمبالا (UMA Lugogo)",
+        "dates": "25–27 نوفمبر 2026",
+        "name": "Agri Food Uganda 2026",
+        "relevance_ar": "أقرب فرصة للقاء الموزعين في كمبالا؛ ممكن زيارة بدون جناح مع المكتب التجاري المصري.",
+        "url": "https://www.eventseye.com/fairs/f-agri-food-uganda-29388-1.html"
+      },
+      {
+        "city": "نيروبي",
+        "dates": "2–4 مارس 2027",
+        "name": "Propak East Africa 2027",
+        "relevance_ar": "معرض تغليف وتصنيع إقليمي، مفيد لمقابلة مصانع الحلويات.",
+        "url": "https://www.eventseye.com/ferias/f-propak-east-africa-27678-3.html"
+      },
+      {
+        "city": "كمبالا (UMA Lugogo)",
+        "dates": "9–11 يونيو 2027 (تواريخ متضاربة، أكّد مع المنظم)",
+        "name": "Uganda Food Expo / Foodpack Uganda 2027",
+        "relevance_ar": "معرض الأغذية الرئيسي في أوغندا؛ مرشح لأول مشاركة بجناح.",
+        "url": "https://www.eventseye.com/fairs/f-uganda-food-expo-uganda-foodpack-expo-26875-1.html"
+      },
+      {
+        "city": "نيروبي",
+        "dates": "27–29 أكتوبر 2027",
+        "name": "Africa Food Show Kenya 2027",
+        "relevance_ar": "يجمع مشترين من شرق أفريقيا كلها (كينيا، أوغندا، تنزانيا).",
+        "url": "https://www.africafoodshow.com/"
+      }
+    ],
+    "headline_ar": "سوق صغير لكن مفتوح لنا: مصر بالفعل المورد رقم 3 للشوكولاتة في أوغندا، والسلع المصرية تدخل بجمارك 0% عبر COMESA بشهادة منشأ سليمة. الطريق للدخول هو موزعي مستلزمات المخابز في كمبالا (Kikuubo) بكريمة الخفق البودرة والحشوات والشوكولاتة الكومباوند، مع الانتباه لشهادة PVoC ومخاطر البحر الأحمر.",
+    "priceSummary_ar": "كريمة الخفق النباتية السائلة (Pristine) على Jumia بحوالي 8 دولار/لتر عند أرخص بائع، والكريمة الألبان Emborg بالجملة حوالي 14 دولار/لتر. الشوكولاتة للخبز (Melken) حوالي 27 دولار/كجم بالكرتونة، والشيبس حوالي 15 دولار/كجم، وNutella حوالي 17 دولار/كجم تجزئة. مكان Dr. Baker الطبيعي: كريمة خفق نباتية وبودرة تحت Pristine وRich's (هدف رف أقل من 8 دولار/لتر مكافئ)، وشوكولاتة كومباوند أرخص بوضوح من Melken. كل الأسعار تجزئة/جملة أونلاين بسعر صرف 4,138 شلن للدولار (13 أكتوبر 2026)، وأسعار B2B لعبوات المخابز مش منشورة: اطلبها من INNIC وKookee.",
+    "prices": [
+      {
+        "brand": "Pristine (IFFCO)",
+        "category_ar": "كريمة خفق نباتية سائلة",
+        "channel": "online retail (Jumia UG)",
+        "confidence": "medium",
+        "currency": "UGX",
+        "date": "2026-10-14",
+        "pack": "1L",
+        "per_unit_usd": 7.97,
+        "price_local": 33000,
+        "price_usd": 7.97,
+        "product": "Whipping Topping Cream",
+        "unit": "L",
+        "url": "https://www.jumia.ug/generic-pristine-whipping-topping-cream-1-l-238829027.html"
+      },
+      {
+        "brand": "Pristine (IFFCO)",
+        "category_ar": "كريمة خفق نباتية سائلة",
+        "channel": "online retail (Jumia UG)",
+        "confidence": "low",
+        "currency": "UGX",
+        "date": "2026-10-14",
+        "pack": "1L",
+        "per_unit_usd": 18.12,
+        "price_local": 75000,
+        "price_usd": 18.12,
+        "product": "Whipping Topping Cream (بائع آخر)",
+        "unit": "L",
+        "url": "https://www.jumia.ug/generic-pristine-whipping-topping-cream-1-l-260228710.html"
+      },
+      {
+        "brand": "Emborg",
+        "category_ar": "كريمة خفق ألبان UHT",
+        "channel": "wholesale case (Wholesales Uganda)",
+        "confidence": "high",
+        "currency": "UGX",
+        "date": "2026-10-14",
+        "pack": "12×1L",
+        "per_unit_usd": 14.1,
+        "price_local": 700000,
+        "price_usd": 169.16,
+        "product": "UHT Whipping Cream 35.1%",
+        "unit": "L",
+        "url": "https://www.wholesales.co.ug/shop/food-cupboard/cold-storage/cheese/uht-whipping-cream-35-1-fat-1ltr-12pcs/"
+      },
+      {
+        "brand": "Emborg",
+        "category_ar": "كريمة خفق ألبان UHT",
+        "channel": "wholesale case (Wholesales Uganda)",
+        "confidence": "high",
+        "currency": "UGX",
+        "date": "2026-10-14",
+        "pack": "27×200ml",
+        "per_unit_usd": 24.12,
+        "price_local": 539000,
+        "price_usd": 130.25,
+        "product": "UHT Whipping Cream 35.1%",
+        "unit": "L",
+        "url": "https://www.wholesales.co.ug/shop/food-cupboard/cold-storage/cheese/uht-whipping-cream-35-1-fat-200ml-27pcs/"
+      },
+      {
+        "brand": "Paramount Dairies",
+        "category_ar": "كريمة خفق ألبان",
+        "channel": "online retail (supermarket.co.ug)",
+        "confidence": "medium",
+        "currency": "USD",
+        "date": "2026-10-14",
+        "note": "USD-only listing (diaspora site)",
+        "pack": "0.5L",
+        "per_unit_usd": 15.2,
+        "price_local": 7.6,
+        "price_usd": 7.6,
+        "product": "Whipping Cream",
+        "unit": "L",
+        "url": "https://supermarket.co.ug/cream/112-paramount-whipping-cream-05lt-.html"
+      },
+      {
+        "brand": "Melken",
+        "category_ar": "شوكولاتة خبز",
+        "channel": "wholesale case (Wholesales Uganda)",
+        "confidence": "high",
+        "currency": "UGX",
+        "date": "2026-10-14",
+        "pack": "10×400g",
+        "per_unit_usd": 26.89,
+        "price_local": 445000,
+        "price_usd": 107.54,
+        "product": "Bittersweet Chocolate",
+        "unit": "kg",
+        "url": "https://www.wholesales.co.ug/shop/food-cupboard/chocolates-and-sweets/melken-bittersweet-chocolate-400g-10pcs/"
+      },
+      {
+        "brand": "Melken",
+        "category_ar": "شوكولاتة خبز",
+        "channel": "wholesale case (Wholesales Uganda)",
+        "confidence": "high",
+        "currency": "UGX",
+        "date": "2026-10-14",
+        "pack": "10×400g",
+        "per_unit_usd": 26.89,
+        "price_local": 445000,
+        "price_usd": 107.54,
+        "product": "White Chocolate",
+        "unit": "kg",
+        "url": "https://www.wholesales.co.ug/shop/uncategorized/melken-white-chocolate-400g-10pcs/"
+      },
+      {
+        "brand": "Top",
+        "category_ar": "شوكولاتة شيبس",
+        "channel": "wholesale case (Wholesales Uganda)",
+        "confidence": "high",
+        "currency": "UGX",
+        "date": "2026-10-14",
+        "pack": "5×1kg",
+        "per_unit_usd": 14.74,
+        "price_local": 305000,
+        "price_usd": 73.71,
+        "product": "Bittersweet Chocolate Chips",
+        "unit": "kg",
+        "url": "https://www.wholesales.co.ug/shop/food-cupboard/chocolates-and-sweets/top-bittersweet-chocolate-chips-1kg-5pcs/"
+      },
+      {
+        "brand": "Melken",
+        "category_ar": "بودرة شوكولاتة",
+        "channel": "wholesale case (Wholesales Uganda)",
+        "confidence": "high",
+        "currency": "UGX",
+        "date": "2026-10-14",
+        "pack": "10×1.05kg",
+        "per_unit_usd": 8.17,
+        "price_local": 355000,
+        "price_usd": 85.79,
+        "product": "Chocolate Powder 50%",
+        "unit": "kg",
+        "url": "https://www.wholesales.co.ug/shop/food-cupboard/melken-chocolate-powder-50-1050kg-10pcs/"
+      },
+      {
+        "brand": "Nutella (Ferrero)",
+        "category_ar": "سبريد",
+        "channel": "online retail (Jumia UG)",
+        "confidence": "high",
+        "currency": "UGX",
+        "date": "2026-10-14",
+        "pack": "750g",
+        "per_unit_usd": 17.4,
+        "price_local": 54000,
+        "price_usd": 13.05,
+        "product": "Hazelnut Spread",
+        "unit": "kg",
+        "url": "https://www.jumia.ug/nutella-hazel-nut-chocolate-spread-750gms-242719390.html"
+      },
+      {
+        "brand": "Nutella (Ferrero)",
+        "category_ar": "سبريد",
+        "channel": "online retail (candylandug.com)",
+        "confidence": "medium",
+        "currency": "UGX",
+        "date": "2026-10-14",
+        "pack": "350g",
+        "per_unit_usd": 34.51,
+        "price_local": 50000,
+        "price_usd": 12.08,
+        "product": "Hazelnut Spread",
+        "unit": "kg",
+        "url": "https://candylandug.com/products/nutella"
+      },
+      {
+        "brand": "Zesta (TruFoods, Kenya)",
+        "category_ar": "كاسترد / حلويات بودرة",
+        "channel": "online retail (Jumia UG)",
+        "confidence": "high",
+        "currency": "UGX",
+        "date": "2026-10-14",
+        "pack": "500g",
+        "per_unit_usd": 11.6,
+        "price_local": 24000,
+        "price_usd": 5.8,
+        "product": "Custard Powder",
+        "unit": "kg",
+        "url": "https://www.jumia.ug/generic-zesta-custard-powder-500g-243988682.html"
+      },
+      {
+        "brand": "Kakaolu Puding",
+        "category_ar": "حلويات بودرة",
+        "channel": "online retail (Jumia UG)",
+        "confidence": "medium",
+        "currency": "UGX",
+        "date": "2026-10-14",
+        "pack": "147g",
+        "per_unit_usd": 90.41,
+        "price_local": 55000,
+        "price_usd": 13.29,
+        "product": "Chocolate dessert mix",
+        "unit": "kg",
+        "url": "https://www.jumia.ug/pudding-kakaolu-puding-rich-chocolate-dessert-mix-147g-259910555.html"
+      },
+      {
+        "brand": "Zesta (TruFoods, Kenya)",
+        "category_ar": "مربى (بديل الحشوات)",
+        "channel": "wholesale case (Wholesales Uganda)",
+        "confidence": "high",
+        "currency": "UGX",
+        "date": "2026-10-14",
+        "pack": "12×1kg",
+        "per_unit_usd": 3.36,
+        "price_local": 167000,
+        "price_usd": 40.36,
+        "product": "Mixed Fruit / Strawberry Jam",
+        "unit": "kg",
+        "url": "https://www.wholesales.co.ug/product-category/food-cupboard/jams-and-spreads/"
+      },
+      {
+        "brand": "Raha",
+        "category_ar": "كاكاو بودرة",
+        "channel": "online retail (Jumia UG)",
+        "confidence": "high",
+        "currency": "UGX",
+        "date": "2026-10-14",
+        "pack": "200g",
+        "per_unit_usd": 34.45,
+        "price_local": 28500,
+        "price_usd": 6.89,
+        "product": "Cocoa Powder",
+        "unit": "kg",
+        "url": "https://www.jumia.ug/raha-cocoa-powder-200g-242975756.html"
+      }
+    ],
+    "seasons": [
+      {
+        "impact_ar": "أعلى موسم للكيك والتورتات. البضاعة لازم توصل الموزعين أكتوبر–نوفمبر (والشحن 5–7 أسابيع).",
+        "name_ar": "الكريسماس وموسم الأفراح (Kwanjula)",
+        "period": "ديسمبر",
+        "url": "https://www.monitor.co.ug/uganda/business/prosper/earn-from-these-christmas-treats-1794828"
+      },
+      {
+        "impact_ar": "طلب على الشوكولاتة والحلويات والكيك. اشحن في يناير.",
+        "name_ar": "عيد الفصح والأعياد الإسلامية",
+        "period": "مارس–أبريل 2027 تقريباً (الفصح 28 مارس 2027، عيد الفطر حوالي 10 مارس 2027)",
+        "url": "https://www.pulse.ug/story/preparing-your-business-for-easter-eid-al-fitr-2024073112481550810"
+      },
+      {
+        "impact_ar": "طلب على السناكس والمخبوزات.",
+        "name_ar": "بداية الفصول الدراسية",
+        "period": "فبراير، مايو، سبتمبر",
+        "url": "https://www.monitor.co.ug/uganda/news/education/govt-releases-dates-for-2026-school-calendar-5318340"
+      }
+    ],
+    "shipping": [
+      {
+        "detail_ar": "المستورد لازم يكون عنده رقم ضريبي TIN من URA يظهر على الفاتورة، وحساب على النافذة الواحدة UeSW.",
+        "item_ar": "1. تسجيل المستورد",
+        "url": "https://cdn1-verigates.bureauveritas.com/sites/verigates/files/2024-07/UGANDA%20%28PVoC%29%20Datasheet%20Rev%2011.3.pdf"
+      },
+      {
+        "detail_ar": "الأغذية داخلة في برنامج PVoC. لازم Certificate of Conformity من SGS أو Bureau Veritas أو Intertek قبل ما الشحنة تطلع من مصر. الرسوم من 0.25% لـ 0.5% من قيمة FOB (حد أدنى 235 وأقصى 3,000 دولار) + التحاليل. بدونها غرامة 15% من CIF وفحص في الوصول. الشحنات حتى 2,000 دولار FOB معفاة.",
+        "item_ar": "2. شهادة المطابقة PVoC قبل الشحن",
+        "url": "https://cdn1-verigates.bureauveritas.com/sites/verigates/files/2024-07/UGANDA%20%28PVoC%29%20Datasheet%20Rev%2011.3.pdf"
+      },
+      {
+        "detail_ar": "لو هنكرر الشحن، سجّل المنتجات (Route B) أو رخصة المصنّع (Route C) مع جهة PVoC: رسوم أقل وفحص أسرع. تقارير التحليل ما تكونش أقدم من 6 شهور.",
+        "item_ar": "3. اختيار المسار (Route B/C)",
+        "url": "https://www.sgs.com/-/media/sgscorp/documents/corporate/brochures/sgs-cp-pca-uganda-datasheet-en.cdn.en.pdf"
+      },
+      {
+        "detail_ar": "منتج صلاحيته الكلية أكتر من 18 شهر لازم يوصل وفيه 12 شهر على الأقل؛ أقل من 18 شهر لازم 75% من الصلاحية متبقية. ده مهم جداً للكريمة السائلة ومع رحلة 5–7 أسابيع.",
+        "item_ar": "4. الصلاحية المتبقية",
+        "url": "https://w3inte.cristalstandards.com/government/export-import/regulatory-news-updates/news-uganda/uganda-shelf-life-requirements/"
+      },
+      {
+        "detail_ar": "US EAS 38: إنجليزي، اسم المنتج، المكونات تنازلياً، الوزن بالمتري، اسم وعنوان المصنّع/المستورد، بلد المنشأ، رقم التشغيلة، التاريخ، طريقة التخزين والاستخدام.",
+        "item_ar": "5. الملصق",
+        "url": "https://eagle.co.ug/2020/10/02/unbs-calls-for-compliance-to-labelling-standards-among-manufacturers"
+      },
+      {
+        "detail_ar": "من الغرفة/الجهة المختصة في مصر، بتوقيع المصدّر الأصلي وختم الجهة. المحكمة العليا في أوغندا (Kuku Foods 2024) اعتبرت شهادة ناقصة توقيع المصدّر باطلة = جمارك كاملة.",
+        "item_ar": "6. شهادة منشأ COMESA",
+        "url": "https://onyangoadvocates.com/comesa-trade-rules-high-court-holds-that-a-missing-exporters-signature-invalidates-a-certificate-of-origin"
+      },
+      {
+        "detail_ar": "مفيش خط مباشر مؤكد؛ متوقع ترانزيت عبر جدة أو صلالة أو جيبوتي. الطريق بيعدّي باب المندب، والهجمات والتأمين ضد مخاطر الحرب مرتفعين في 2026. اطلب عروض من 3 وكلاء شحن.",
+        "item_ar": "7. الشحن البحري دمياط → مومباسا",
+        "url": "https://redanalysis.org/2026/10/08/houthis-bab-el-mandeb-maritime-transport/"
+      },
+      {
+        "detail_ar": "URA بتخلّص البضاعة المتجهة لأوغندا في مومباسا نفسها (بيان واحد وفحص واحد). متوسط بقاء الحاوية في الميناء حوالي 116 ساعة.",
+        "item_ar": "8. التخليص في مومباسا (منطقة جمركية واحدة)",
+        "url": "https://eagle.co.ug/2017/08/08/ura-operationalises-single-customs-territory/"
+      },
+      {
+        "detail_ar": "مومباسا → كمبالا بالطريق حوالي 1,169 كم و6 أيام (Northern Corridor، الربع الرابع 2025)، أو SGR لنايفاشا ثم MGR. البديل دار السلام أطول وأغلى.",
+        "item_ar": "9. النقل البري/السكة الحديد لكمبالا",
+        "url": "https://top.ttcanc.org/uploads/attachments/cmp41l3mz02ojwpqh17f6p2yp-quarterly-report-october-to-december-2025.pdf"
+      },
+      {
+        "detail_ar": "جمارك 0% بشهادة COMESA سليمة، + ضريبة قيمة مضافة 18% + ضريبة استقطاع 6% + رسوم بنية تحتية 1.5% + رسوم إقرار استيراد 1%. شهادة الاستيراد بتطلع أوتوماتيك من بوابة UNBS الجديدة.",
+        "item_ar": "10. الضرائب عند الدخول",
+        "url": "https://www.pwc.com/ug/en/assets/pdf/tax-datacard-2025-2026.pdf"
+      }
+    ],
+    "tariffs": [
+      {
+        "desc_ar": "COMESA FTA",
+        "duty": "0% بشهادة منشأ COMESA سليمة",
+        "hs": "كل خطوطنا (منشأ مصري)",
+        "note_ar": "أوغندا مطبقة FTA الكوميسا من 23 مارس 2015، مع استثناءات منها \"الفواكه وعصائرها\" اللي ممكن تلمس حشوات الفاكهة. أكّد مع URA لكل بند.",
+        "url": "https://www.mcci.org/en/media-news-events/business-updates/uganda-joins-the-comesa-fta/",
+        "vat": "18% + استقطاع 6% + 1.5% + 1%"
+      },
+      {
+        "desc_ar": "سبريد الخبز (شوكولاتة)",
+        "duty": "EAC CET 35%؛ أوغندا تطبق 60% في 2026/27 (لغير المؤهل للكوميسا)",
+        "hs": "1806.90.00",
+        "note_ar": "هل الـ60% بتلغي ميزة الكوميسا؟ غير مؤكد. اسأل URA قبل تسعير السبريد.",
+        "url": "https://www.eac.int/documents?controller=download&task=download.file&file=a3c7fa5a-b765-48ed-befa-b6b65bf5b3cc&name=EAC+Vol.+AT+1+NO.+16+JUNE+2026.pdf.pdf&Itemid=297",
+        "vat": "18%"
+      },
+      {
+        "desc_ar": "مربى وجيلي فاكهة",
+        "duty": "CET 35%؛ أوغندا 60% في 2026/27",
+        "hs": "20.07",
+        "note_ar": "ينطبق لو الحشوات اتصنفت تحت 2007. تأكد من التصنيف مع المخلّص.",
+        "url": "https://www.eac.int/documents?controller=download&task=download.file&file=a3c7fa5a-b765-48ed-befa-b6b65bf5b3cc&name=EAC+Vol.+AT+1+NO.+16+JUNE+2026.pdf.pdf&Itemid=297",
+        "vat": "18%"
+      },
+      {
+        "desc_ar": "مخاليط الكيك والعجين",
+        "duty": "CET 25%؛ أوغندا 35% في 2026/27",
+        "hs": "1901.20.90",
+        "note_ar": "بدون شهادة COMESA الرسوم دي هتطبق.",
+        "url": "https://www.eac.int/documents?controller=download&task=download.file&file=a3c7fa5a-b765-48ed-befa-b6b65bf5b3cc&name=EAC+Vol.+AT+1+NO.+16+JUNE+2026.pdf.pdf&Itemid=297",
+        "vat": "18%"
+      },
+      {
+        "desc_ar": "مستحضرات غذائية (منها كريمة الخفق البودرة غالباً)",
+        "duty": "CET 25% (من يوليو 2023)",
+        "hs": "2106.90.10",
+        "note_ar": "تصنيف كريمة الخفق البودرة (2106 أو 0404/1901) لازم يتأكد.",
+        "url": "https://www.kra.go.ke/images/publications/APPROVED-MEASURES-ON-IMPORT-DUTY-RATES-IN-THE-EAC-COMMON-EXTERNAL-TARIFF.pdf",
+        "vat": "18%"
+      },
+      {
+        "desc_ar": "حلويات سكرية / بودرة ألبان",
+        "duty": "الشريحة 35% للألبان والحلويات؛ 0402 بند حساس (غير مؤكد)",
+        "hs": "1704 / 0402",
+        "note_ar": "أرقام بند-ببند لم نتحقق منها.",
+        "url": "https://www.trade.gov/market-intelligence/kenya-east-african-community-introduces-4th-band-common-external-tariff",
+        "vat": "18%"
+      }
+    ],
+    "unverified": [
+      "هل رسوم أوغندا الاستثنائية (60% للسبريد والمربى، 35% لمخاليط الكيك) بتطبق على المنشأ الكوميسي ولا الإعفاء 0% بيغلب؟ لازم تأكيد من URA لكل بند.",
+      "نص US 45:2019 وحدود الألوان الصناعية لكل فئة، ووضع E171 وE104 وE122.",
+      "أسعار جملة عبوات المخابز (كريمة بودرة، حشوات 5 كجم، كومباوند بلوك) غير منشورة، ولا يوجد سعر منشور لكريمة الخفق البودرة أو مخاليط الكيك أو الحشوات في أوغندا.",
+      "وجود خط ملاحي مباشر مصر–مومباسا وأسعار الشحن الحالية.",
+      "هل شهادة صحية مطلوبة قانونياً؟ وهل فيه تسجيل مستورد منفصل عند UNBS؟",
+      "محتوى قائمة المواصفات الإلزامية الأحدث (أبريل 2026) واعتماد مسودة DEAS 38:2024 للملصقات.",
+      "قانون FARA الجديد (مقدّم للبرلمان أغسطس 2026) ممكن يغيّر الجهة المسؤولة عن سلامة الغذاء.",
+      "بيانات المخابز الكبيرة (Hot Loaf، Brood) قديمة 2014–2015، وحصص المنافسين في قطاع B2B غير معروفة."
+    ]
+  },
+  "iso2": "UG",
+  "requestId": "UG-mv81sjal",
+  "updatedAt": "2026-10-14T12:05:59Z"
+}

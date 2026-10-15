@@ -1,0 +1,120 @@
+{
+  "country": "أوغندا",
+  "country_en": "Uganda",
+  "data": {
+    "basics": {
+      "gdp": "US$62.0B (2025, World Bank via TradingEconomics)",
+      "population": "49.6M (UBOS projection, mid-2026)"
+    },
+    "egyptExportsUsdM": {
+      "byChapter": {
+        "15": null,
+        "17": 5.43,
+        "18": 1.11,
+        "19": 15.2,
+        "20": null,
+        "21": 4.5,
+        "04": 2.51
+      },
+      "total": 115.87,
+      "year": 2025
+    },
+    "fairs": [
+      {
+        "city": "Kampala",
+        "date": "2026-11-25 to 2026-11-27",
+        "name": "Agri Food Uganda"
+      },
+      {
+        "city": "Nairobi",
+        "date": "2027-03-02 to 2027-03-04",
+        "name": "Propak East Africa"
+      },
+      {
+        "city": "Kampala",
+        "date": "2027-06-09 to 2027-06-11 (confirm)",
+        "name": "Uganda Food Expo / Foodpack Uganda"
+      }
+    ],
+    "notes": "Egypt export data = Egypt-reported (UN Comtrade via TradingEconomics) 2025; null = below TE display cutoff (~$0.7M), not zero. Mirror: Uganda-reported imports from Egypt 2024 = $106.9M. World imports = Uganda-reported 2023 (trendeconomy/Comtrade, latest available); shares recomputed. Egypt chapter 19 ($15.2M) is mostly not 1901 — likely biscuits/pasta. Reproduce on Trade Map: reporter Uganda, partner World/Egypt, HS 1806/1901/2106/0402/2007, 2021–2025.",
+    "regulatory": [
+      "PVoC Certificate of Conformity (SGS/BV/Intertek) mandatory per food shipment >US$2,000 FOB; 15% CIF penalty if missing",
+      "Remaining shelf life on arrival: ≥12 months if total >18 months, else ≥75%",
+      "Labelling US EAS 38 (English; ingredients, net metric, manufacturer/importer address, origin, lot, dates)",
+      "Additives: US 45:2019 General Standard for Food Additives (Codex-based); chocolate US 1541:2013; cream powder US EAS 49",
+      "Halal market-driven, not mandatory; UNBS–UMSC MoU on halal standards",
+      "Clearance at Mombasa under Single Customs Territory; UNBS e-portal (Jul 2025) issues import clearance automatically"
+    ],
+    "risk": "Coface C / business climate C (Oct 2025); Allianz Trade \"sensitive\". UGX at 4,138/USD (13 Oct 2026), inflation 4.6% (Sep 2026). Landlocked: depends on Mombasa; Red Sea/Bab el-Mandeb attacks in Jul–Sep 2026 raise freight and war-risk premiums. Use LC/CAD or ECGE credit insurance for new buyers.",
+    "scoreBasis": "Small market (49.6M pop, ~$62B GDP; chocolate imports only ~$4M, food preps 2106 ~$16M in 2023). Egypt already ships $115.9M (2025) and is #3 chocolate supplier (14.2%). COMESA 0% neutralises Kenya's EAC advantage if the CoO is right. Gaps: no visible whipping-powder, fillings or cake-mix brand online; Rich's (Kookee) and Puratos (from Kenya) are the main pros. Minus: PVoC cost, landlocked logistics via Bab el-Mandeb, Coface C payment risk.",
+    "sources": [
+      "https://tradingeconomics.com/egypt/exports/uganda",
+      "https://tradingeconomics.com/uganda/imports/egypt",
+      "https://trendeconomy.com/data/import_h2/Uganda/1806",
+      "https://trendeconomy.com/data/import_h2/Uganda/1901",
+      "https://trendeconomy.com/data/import_h2/Uganda/2106",
+      "https://trendeconomy.com/data/import_h2/Uganda/1517",
+      "https://trendeconomy.com/data/import_h2/Uganda/0402",
+      "https://trendeconomy.com/data/import_h2/Uganda/2007",
+      "https://trendeconomy.com/data/import_h2/Uganda/1704",
+      "https://www.ubos.org/wp-content/uploads/publications/Population-Projections-2025_2050.pdf",
+      "https://tradingeconomics.com/uganda/gdp",
+      "https://tradingeconomics.com/uganda/currency",
+      "https://www.coface.com/news-economy-and-insights/business-risk-dashboard/country-risk-files/uganda",
+      "https://cdn1-verigates.bureauveritas.com/sites/verigates/files/2024-07/UGANDA%20%28PVoC%29%20Datasheet%20Rev%2011.3.pdf",
+      "https://www.mcci.org/en/media-news-events/business-updates/uganda-joins-the-comesa-fta/",
+      "https://www.eac.int/documents?controller=download&task=download.file&file=a3c7fa5a-b765-48ed-befa-b6b65bf5b3cc&name=EAC+Vol.+AT+1+NO.+16+JUNE+2026.pdf.pdf&Itemid=297",
+      "https://www.pwc.com/ug/en/assets/pdf/tax-datacard-2025-2026.pdf",
+      "https://top.ttcanc.org/uploads/attachments/cmp41l3mz02ojwpqh17f6p2yp-quarterly-report-october-to-december-2025.pdf",
+      "https://redanalysis.org/2026/10/08/houthis-bab-el-mandeb-maritime-transport/",
+      "https://gate.ahram.org.eg/News/5279832.aspx"
+    ],
+    "tariffNote": "COMESA FTA: Egypt-origin goods 0% in Uganda (applied since 23 Mar 2015) with a correctly signed COMESA certificate of origin (Kuku Foods v URA, 2024). Without it: EAC CET 25–35%, and Uganda FY2026/27 stays at 60% on 1806.90 bread spreads and 20.07 jams, 35% on 1901.20.90 bakery mixes. Whether those national rates override COMESA 0% is unverified — confirm with URA. Plus VAT 18%, WHT 6%, infrastructure levy 1.5%, IDF 1%.",
+    "worldImports": [
+      {
+        "hs": "1806",
+        "topSuppliers": "South Africa 25.4%, Kenya 18.0%, Egypt 14.2% (#3, $0.57M), Netherlands 7.4%, UAE 7.1%, Turkey 6.8%",
+        "usdM": 3.97,
+        "year": 2023
+      },
+      {
+        "hs": "1901",
+        "topSuppliers": "Poland 26%, Eswatini 23%, France 21%, Mexico 11.7%, UK 3.7% — Egypt absent",
+        "usdM": 6.97,
+        "year": 2023
+      },
+      {
+        "hs": "2106",
+        "topSuppliers": "Kenya 19.8%, Germany 19.5%, India 12.7%, USA 7.5%, Portugal 5.3% — Egypt 0.18% ($29k)",
+        "usdM": 15.8,
+        "year": 2023
+      },
+      {
+        "hs": "1517",
+        "topSuppliers": "Kenya ~99.8% — Egypt negligible",
+        "usdM": 20.5,
+        "year": 2023
+      },
+      {
+        "hs": "0402",
+        "topSuppliers": "Netherlands 46%, China 12.2%, Malaysia 11.4%, New Zealand 8.2%, UAE 6.9% — Egypt absent",
+        "usdM": 1.39,
+        "year": 2023
+      },
+      {
+        "hs": "2007",
+        "topSuppliers": "Kenya 75.9%, Turkey 11.9%, Egypt 3.8% (#3), UAE 3.0%",
+        "usdM": 0.71,
+        "year": 2023
+      },
+      {
+        "hs": "1704",
+        "topSuppliers": "Kenya 80.5%, India 9.7%, China 3.0%, Pakistan 2.9% — Egypt 0.53% (#7)",
+        "usdM": 29.37,
+        "year": 2023
+      }
+    ]
+  },
+  "iso2": "UG",
+  "updatedAt": "2026-10-14T12:05:59Z"
+}

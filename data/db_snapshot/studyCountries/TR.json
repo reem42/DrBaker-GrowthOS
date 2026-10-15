@@ -1,0 +1,68 @@
+{
+  "country": "تركيا",
+  "country_en": "Turkey",
+  "data": {
+    "basics": {
+      "gdp": null,
+      "population": "85.3M"
+    },
+    "egyptExportsUsdM": {
+      "byChapter": {
+        "17": 22.7
+      },
+      "total": 3320,
+      "year": 2024
+    },
+    "fairs": [
+      {
+        "city": "Istanbul",
+        "date": "2026-10-14 to 2026-10-17",
+        "name": "IBAKTECH Istanbul"
+      }
+    ],
+    "notes": "تركيا مُصدِّر صافٍ للشوكولاتة (صادرات 1806 = 879 مليون $ في 2023). الإجمالي أعلاه = صادرات مصر لتركيا 2024 (Comtrade عبر Trading Economics).",
+    "regulatory": [
+      "لائحة الإضافات التركية مطابقة لـ EU 1333/2008",
+      "ملصق بالتركية إلزامي (لائحة 29960)",
+      "علامة الحلال من جهة معتمدة من HAK فقط",
+      "المستورد يسجل ويقدّم إخطاراً مسبقاً"
+    ],
+    "risk": "تضخم مرتفع وتراجع الليرة (حوالي 48.4 ليرة/دولار في سبتمبر 2026) — سعّروا بالدولار وبدفعة مقدمة.",
+    "scoreBasis": "سوق كبير لمستلزمات الحلويات لكن الإنتاج المحلي قوي؛ الفرصة في Private Label وصوصات الوافل وكريمة الخفق.",
+    "sources": [
+      "https://trendeconomy.com/data/h2/Turkey/1806",
+      "https://tradingeconomics.com/turkey/imports/egypt",
+      "https://tradingeconomics.com/turkey/imports/miscellaneous-edible-preparations",
+      "https://www.arabnews.com/node/2631826/amp"
+    ],
+    "tariffNote": "اتفاقية تجارة حرة مصر–تركيا سارية منذ 2007: الشق الصناعي صفر، والشق الزراعي جزئي أو بحصص، والمنشأ المصري معفى من الرسوم الإضافية.",
+    "worldImports": [
+      {
+        "hs": "1806",
+        "topSuppliers": "Germany 27%, Belgium 14.5%, Switzerland 10.5%, Poland 10.2%, Netherlands 9%",
+        "usdM": 182,
+        "year": 2023
+      },
+      {
+        "hs": "21 (chapter)",
+        "topSuppliers": "not collected",
+        "usdM": 1020,
+        "year": 2025
+      },
+      {
+        "hs": "210690",
+        "topSuppliers": "not found at 6-digit level — check Trade Map",
+        "usdM": null,
+        "year": null
+      },
+      {
+        "hs": "190120",
+        "topSuppliers": "not found at 6-digit level — check Trade Map",
+        "usdM": null,
+        "year": null
+      }
+    ]
+  },
+  "iso2": "TR",
+  "updatedAt": "2026-10-14T13:00:00Z"
+}

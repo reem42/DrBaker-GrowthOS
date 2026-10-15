@@ -1,0 +1,243 @@
+{
+ "102": {
+  "name": "Tartrazine",
+  "skus": 61,
+  "cats": {
+   "Chunky Spread": 14,
+   "Mirror Glazes": 12,
+   "Sugar Paste": 12,
+   "Home-Use Retail": 8,
+   "Drinks Powder Mix": 7,
+   "Powder Cream Mix": 6
+  },
+  "examples": [
+   "Pistachio Chunky Spread (10Kg)",
+   "Pistachio Chunky Spread (1Kg)",
+   "Pistachio Chunky Spread (3Kg)",
+   "Pistachio Chunky Spread (5Kg)"
+  ]
+ },
+ "110": {
+  "name": "Sunset Yellow FCF",
+  "skus": 34,
+  "cats": {
+   "Mirror Glazes": 12,
+   "Home-Use Retail": 8,
+   "Drinks Powder Mix": 7,
+   "Powder Cream Mix": 6,
+   "Trio Cream Group": 1
+  },
+  "examples": [
+   "Mango Juice Powder (4.8kg)",
+   "Mango Juice Powder (5kg)",
+   "Mango juice powder (10kg)",
+   "Orange Juice Powder (4.8kg)"
+  ]
+ },
+ "129": {
+  "name": "Allura Red AC",
+  "skus": 52,
+  "cats": {
+   "Fruit Fillings": 13,
+   "Mirror Glazes": 13,
+   "Sugar Paste": 8,
+   "Fruit Jam": 4,
+   "Sweet Drops Sauces": 4,
+   "Bakery Mix Group": 3
+  },
+  "examples": [
+   "Strawberry Jelly Powder (10Kg)",
+   "Strawberry Jelly Powder (12kg)",
+   "Strawberry Jelly Powder (3kg)",
+   "Blueberry Compound (1Kg)"
+  ]
+ },
+ "133": {
+  "name": "Brilliant Blue FCF",
+  "skus": 34,
+  "cats": {
+   "Chunky Spread": 14,
+   "Sugar Paste": 12,
+   "Mirror Glazes": 5,
+   "Fruit Fillings": 1,
+   "Home-Use Retail": 1,
+   "Sweet Drops Sauces": 1
+  },
+  "examples": [
+   "Pistachio Chunky Spread (10Kg)",
+   "Pistachio Chunky Spread (1Kg)",
+   "Pistachio Chunky Spread (3Kg)",
+   "Pistachio Chunky Spread (5Kg)"
+  ]
+ },
+ "150d": {
+  "name": "Caramel IV (sulphite ammonia)",
+  "skus": 41,
+  "cats": {
+   "Mirror Glazes": 14,
+   "Fruit Fillings": 7,
+   "Fruit Jam": 4,
+   "Home-Use Retail": 4,
+   "Sweet Drops Sauces": 4,
+   "Fruit Spread 30%": 3
+  },
+  "examples": [
+   "Apple with Cinnamon Spread(4Kg)",
+   "Pomegranate Fruit Filling (10Kg)",
+   "Pomegranate Fruit Filling (2.7Kg)",
+   "Raspberry Fruit Filling (10kg)"
+  ]
+ },
+ "150": {
+  "name": "Caramel",
+  "skus": 8,
+  "cats": {
+   "Mirror Glazes": 7,
+   "Fruit Jam": 1
+  },
+  "examples": [
+   "Fig Jam (5kg)",
+   "Raspberry Mirror Glaze (4.5Kg)",
+   "Strawberry Mirror Glaze (10kg)",
+   "Strawberry Mirror Glaze (5kg)"
+  ]
+ },
+ "160b": {
+  "name": "Annatto",
+  "skus": 15,
+  "cats": {
+   "Fruit Fillings": 5,
+   "Fruit Spread 30%": 5,
+   "Fruit Jam": 4,
+   "Mirror Glazes": 1
+  },
+  "examples": [
+   "Mango Compound (1Kg)",
+   "Mango Fruit Filling (10Kg)",
+   "Mango Fruit Filling (2.7Kg)",
+   "Mango filling fruit (5KGs)"
+  ]
+ },
+ "160a": {
+  "name": "Beta-carotene",
+  "skus": 9,
+  "cats": {
+   "Liquid Whipping Cream": 5,
+   "Fruit Fillings": 4
+  },
+  "examples": [
+   "Mango Compound (1Kg)",
+   "Mango Fruit Filling (10Kg)",
+   "Mango Fruit Filling (2.7Kg)",
+   "Mango filling fruit (5KGs)"
+  ]
+ },
+ "104": {
+  "name": "Quinoline Yellow",
+  "skus": 3,
+  "cats": {
+   "Chunky Spread": 2,
+   "Home-Use Retail": 1
+  },
+  "examples": [
+   "Lime and Ginger Chunky Spread (1KG)",
+   "Lime and Ginger Chunky Spread (3KG)",
+   "Lime and Ginger Chunky Spread (300gm)"
+  ]
+ },
+ "122": {
+  "name": "Carmoisine/Azorubine",
+  "skus": 4,
+  "cats": {
+   "Bakery Mix Group": 3,
+   "Home-Use Retail": 1
+  },
+  "examples": [
+   "Strawberry Jelly Powder (10Kg)",
+   "Strawberry Jelly Powder (12kg)",
+   "Strawberry Jelly Powder (3kg)",
+   "Strawberry Jelly Powder (1KG)"
+  ]
+ },
+ "120": {
+  "name": "Carmine/Cochineal",
+  "skus": 2,
+  "cats": {
+   "Home-Use Retail": 1,
+   "Sugar Paste": 1
+  },
+  "examples": [
+   "Strawberry Ice Cream Powder (1kg)",
+   "Pink sugar Paste (1kg)"
+  ]
+ },
+ "160": {
+  "name": "Carotenes",
+  "skus": 2,
+  "cats": {
+   "Fruit Spread 30%": 2
+  },
+  "examples": [
+   "Passion Spread (4Kg)",
+   "Passion Spread (5Kg)"
+  ]
+ },
+ "202": {
+  "name": "Potassium sorbate",
+  "skus": 132,
+  "cats": {
+   "Mirror Glazes": 47,
+   "Fruit Fillings": 25,
+   "Sweet Drops Sauces": 20,
+   "Fruit Spread 30%": 13,
+   "Trio Cream Group": 12,
+   "Fruit Jam": 9
+  },
+  "examples": [
+   "Filling Cream (10kg)",
+   "Filling Cream (2.5kg)",
+   "Ganache(1kg)",
+   "Apple with Cinnamon Spread(4Kg)"
+  ]
+ },
+ "211": {
+  "name": "Sodium benzoate",
+  "skus": 22,
+  "cats": {
+   "Fruit Spread 30%": 11,
+   "Fruit Jam": 9,
+   "Chunky Spread": 1,
+   "Mirror Glazes": 1
+  },
+  "examples": [
+   "Apple with Cinnamon Spread(4Kg)",
+   "Apricot Jam (10Kg)",
+   "Apricot Jam (4.8Kg)",
+   "Apricot Jam (5Kg)"
+  ]
+ },
+ "551": {
+  "name": "Silicon dioxide",
+  "skus": 12,
+  "cats": {
+   "Drinks Powder Mix": 7,
+   "Home-Use Retail": 5
+  },
+  "examples": [
+   "Mango Juice Powder (4.8kg)",
+   "Mango Juice Powder (5kg)",
+   "Mango juice powder (10kg)",
+   "Orange Juice Powder (4.8kg)"
+  ]
+ },
+ "500": {
+  "name": "Sodium carbonates",
+  "skus": 1,
+  "cats": {
+   "Oriental Mix Group": 1
+  },
+  "examples": [
+   "Mix Biscuit (10kg)"
+  ]
+ }
+}

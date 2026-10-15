@@ -1,0 +1,743 @@
+{
+ "country_ar": "الأردن",
+ "country_en": "Jordan",
+ "asOf": "2026-10-13",
+ "competitors": [
+  {
+   "name": "Almarai",
+   "origin": "Saudi Arabia",
+   "type": "regional",
+   "products": "Cooking cream, butter ghee",
+   "positioning_ar": "حاضرة بقوة في الكريمة والسمنة بتجزئة عمّان؛ تنافس على الثقة لا السعر",
+   "threat": "high",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910"
+  },
+  {
+   "name": "Puck (Arla)",
+   "origin": "Denmark/Saudi",
+   "type": "multinational",
+   "products": "Whipping & cooking cream",
+   "positioning_ar": "كريمة خفق جاهزة بسعر متوسط 7 د/لتر تقريباً؛ مرجع تجزئة",
+   "threat": "high",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910"
+  },
+  {
+   "name": "Emborg",
+   "origin": "Denmark",
+   "type": "multinational",
+   "products": "Whipping & cooking cream",
+   "positioning_ar": "شريحة أعلى سعراً (5.75 د/لتر طبخ)؛ يمكن التفوق عليه سعراً",
+   "threat": "medium",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910"
+  },
+  {
+   "name": "Elle & Vire",
+   "origin": "France",
+   "type": "multinational",
+   "products": "Professional cooking cream",
+   "positioning_ar": "خط احترافي مرتفع السعر؛ مرجع للمخابز الراقية",
+   "threat": "medium",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910"
+  },
+  {
+   "name": "Halibna",
+   "origin": "Local/regional",
+   "type": "local",
+   "products": "UHT cream, topping",
+   "positioning_ar": "سعر اقتصادي (2.95 د/لتر)؛ ينافس على السعر",
+   "threat": "medium",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910"
+  },
+  {
+   "name": "Gran Cucina",
+   "origin": "Regional",
+   "type": "regional",
+   "products": "Cooking cream",
+   "positioning_ar": "سعر منخفض 3.25 د/لتر",
+   "threat": "medium",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910"
+  },
+  {
+   "name": "Dr. Oetker",
+   "origin": "Germany",
+   "type": "multinational",
+   "products": "Chantilly cream, baking mixes",
+   "positioning_ar": "حضور في بودرة الكريمة والمخبوزات المنزلية",
+   "threat": "medium",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910"
+  },
+  {
+   "name": "Parana",
+   "origin": "Regional",
+   "type": "regional",
+   "products": "Whipping cream mix",
+   "positioning_ar": "بودرة خفق اقتصادية بالتجزئة",
+   "threat": "low",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910"
+  },
+  {
+   "name": "Nutella (Ferrero)",
+   "origin": "Italy",
+   "type": "multinational",
+   "products": "Hazelnut chocolate spread",
+   "positioning_ar": "مرجع السبريد؛ منتج Dr. Baker المقرمش يتمايز بالجودة المهنية",
+   "threat": "high",
+   "url": "https://www.talabat.com/jordan/grocery/717856/jjs-supermarket/breakfast-food/spreads?aid=4964"
+  },
+  {
+   "name": "Lotus Biscoff",
+   "origin": "Belgium",
+   "type": "multinational",
+   "products": "Biscuit spread",
+   "positioning_ar": "سبريد بريميوم 4.65 د/400غ",
+   "threat": "medium",
+   "url": "https://www.talabat.com/jordan/grocery/717856/jjs-supermarket/breakfast-food/spreads?aid=4964"
+  },
+  {
+   "name": "Hero",
+   "origin": "Switzerland",
+   "type": "multinational",
+   "products": "Delicia spread, jams",
+   "positioning_ar": "سبريد ومربى بتجزئة",
+   "threat": "low",
+   "url": "https://www.talabat.com/jordan/grocery/717856/jjs-supermarket/breakfast-food/spreads?aid=4964"
+  },
+  {
+   "name": "Foster Clark's",
+   "origin": "UK/regional",
+   "type": "regional",
+   "products": "Dessert mixes, essences",
+   "positioning_ar": "خلطات حلويات منزلية رخيصة",
+   "threat": "low",
+   "url": "https://www.talabat.com/jordan/grocery/49447/gourmet-grocery-dabouq/cooking-baking/baking-ingredients?aid=5673"
+  }
+ ],
+ "prices": [
+  {
+   "category_ar": "كريمة خفق/طبخ",
+   "product": "Whipping Cream",
+   "brand": "Emborg",
+   "pack": "200 ml",
+   "price_local": 1.85,
+   "currency": "JOD",
+   "price_usd": 2.61,
+   "per_kg_usd": 13.05,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "كريمة خفق/طبخ",
+   "product": "Whipping Cream",
+   "brand": "Puck",
+   "pack": "200 ml",
+   "price_local": 1.5,
+   "currency": "JOD",
+   "price_usd": 2.12,
+   "per_kg_usd": 10.58,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "كريمة خفق/طبخ",
+   "product": "Whipping Cream",
+   "brand": "Puck",
+   "pack": "500 ml",
+   "price_local": 3.5,
+   "currency": "JOD",
+   "price_usd": 4.94,
+   "per_kg_usd": 9.87,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "كريمة خفق/طبخ",
+   "product": "Cooking Cream",
+   "brand": "Almarai",
+   "pack": "1 L",
+   "price_local": 4.5,
+   "currency": "JOD",
+   "price_usd": 6.35,
+   "per_kg_usd": 6.35,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "كريمة خفق/طبخ",
+   "product": "Cooking Cream",
+   "brand": "Emborg",
+   "pack": "1 L",
+   "price_local": 5.75,
+   "currency": "JOD",
+   "price_usd": 8.11,
+   "per_kg_usd": 8.11,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "كريمة خفق/طبخ",
+   "product": "Cooking Cream",
+   "brand": "Master Gourmet Chef",
+   "pack": "1 L",
+   "price_local": 3.25,
+   "currency": "JOD",
+   "price_usd": 4.58,
+   "per_kg_usd": 4.58,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "كريمة خفق/طبخ",
+   "product": "Cooking Cream Professional",
+   "brand": "Elle & Vire",
+   "pack": "1 L",
+   "price_local": 5.75,
+   "currency": "JOD",
+   "price_usd": 8.11,
+   "per_kg_usd": 8.11,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "كريمة خفق/طبخ",
+   "product": "Cooking Cream",
+   "brand": "Gran Cucina",
+   "pack": "1 L",
+   "price_local": 3.25,
+   "currency": "JOD",
+   "price_usd": 4.58,
+   "per_kg_usd": 4.58,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "كريمة خفق/طبخ",
+   "product": "UHT Cream 15% Cooking",
+   "brand": "Halibna",
+   "pack": "1 L",
+   "price_local": 2.95,
+   "currency": "JOD",
+   "price_usd": 4.16,
+   "per_kg_usd": 4.16,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "بودرة كريمة خفق",
+   "product": "Whipping Cream Mix",
+   "brand": "Parana",
+   "pack": "72 g",
+   "price_local": 0.75,
+   "currency": "JOD",
+   "price_usd": 1.06,
+   "per_kg_usd": 14.69,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "بودرة كريمة خفق",
+   "product": "Chantilly Cream",
+   "brand": "Dr. Oetker",
+   "pack": "144 g",
+   "price_local": 1.8,
+   "currency": "JOD",
+   "price_usd": 2.54,
+   "per_kg_usd": 17.63,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "سبريد شوكولاتة/بندق",
+   "product": "Hazelnut Chocolate Spread",
+   "brand": "Nutella",
+   "pack": "350 g",
+   "price_local": 3.2,
+   "currency": "JOD",
+   "price_usd": 4.51,
+   "per_kg_usd": 12.9,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/717856/jjs-supermarket/breakfast-food/spreads?aid=4964",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "سبريد شوكولاتة/بندق",
+   "product": "Hazelnut Chocolate Spread",
+   "brand": "Nutella",
+   "pack": "750 g",
+   "price_local": 5.85,
+   "currency": "JOD",
+   "price_usd": 8.25,
+   "per_kg_usd": 11.0,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/717856/jjs-supermarket/breakfast-food/spreads?aid=4964",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "سبريد شوكولاتة/بندق",
+   "product": "Chocolate Cream with Hazelnut",
+   "brand": "Today",
+   "pack": "350 g",
+   "price_local": 3.75,
+   "currency": "JOD",
+   "price_usd": 5.29,
+   "per_kg_usd": 15.11,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/717856/jjs-supermarket/breakfast-food/spreads?aid=4964",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "سبريد شوكولاتة/بندق",
+   "product": "Hazelnut Spread",
+   "brand": "Buongiorno",
+   "pack": "350 g",
+   "price_local": 1.25,
+   "currency": "JOD",
+   "price_usd": 1.76,
+   "per_kg_usd": 5.04,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/717856/jjs-supermarket/breakfast-food/spreads?aid=4964",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "سبريد شوكولاتة/بندق",
+   "product": "White Chocolate Spread",
+   "brand": "Alyoum",
+   "pack": "350 g",
+   "price_local": 3.0,
+   "currency": "JOD",
+   "price_usd": 4.23,
+   "per_kg_usd": 12.09,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/717856/jjs-supermarket/breakfast-food/spreads?aid=4964",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "سبريد بسكويت",
+   "product": "Biscoff Creamy Biscuit Spread",
+   "brand": "Lotus",
+   "pack": "400 g",
+   "price_local": 4.65,
+   "currency": "JOD",
+   "price_usd": 6.56,
+   "per_kg_usd": 16.4,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/717856/jjs-supermarket/breakfast-food/spreads?aid=4964",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "سبريد بسكويت",
+   "product": "Delicia Biscuit Spread Cinnamon",
+   "brand": "Hero",
+   "pack": "300 g",
+   "price_local": 3.35,
+   "currency": "JOD",
+   "price_usd": 4.72,
+   "per_kg_usd": 15.75,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/717856/jjs-supermarket/breakfast-food/spreads?aid=4964",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "سمنة",
+   "product": "Pure Butter Ghee",
+   "brand": "Almarai",
+   "pack": "800 g",
+   "price_local": 11.65,
+   "currency": "JOD",
+   "price_usd": 16.43,
+   "per_kg_usd": 20.54,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/642456/al-saadah/cooking-baking/ghee?aid=6679",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "سمنة",
+   "product": "Vegetable Ghee",
+   "brand": "Al Balka",
+   "pack": "1 L",
+   "price_local": 3.49,
+   "currency": "JOD",
+   "price_usd": 4.92,
+   "per_kg_usd": null,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/642456/al-saadah/cooking-baking/ghee?aid=6679",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "سمنة",
+   "product": "Vegetable Ghee",
+   "brand": "Aseel",
+   "pack": "2 L",
+   "price_local": 7.49,
+   "currency": "JOD",
+   "price_usd": 10.56,
+   "per_kg_usd": null,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/642456/al-saadah/cooking-baking/ghee?aid=6679",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "خلطات/مكونات خَبز",
+   "product": "Cocoa Powder",
+   "brand": "Kasih",
+   "pack": "300 g",
+   "price_local": 5.48,
+   "currency": "JOD",
+   "price_usd": 7.73,
+   "per_kg_usd": 25.76,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/49447/gourmet-grocery-dabouq/cooking-baking/baking-ingredients?aid=5673",
+   "confidence": "medium"
+  },
+  {
+   "category_ar": "خلطات/مكونات خَبز",
+   "product": "Creme Caramel Mix & Topping",
+   "brand": "Foster Clark's",
+   "pack": "71 g",
+   "price_local": 0.46,
+   "currency": "JOD",
+   "price_usd": 0.65,
+   "per_kg_usd": 9.14,
+   "channel": "online",
+   "date": "2026-10-13",
+   "url": "https://www.talabat.com/jordan/grocery/49447/gourmet-grocery-dabouq/cooking-baking/baking-ingredients?aid=5673",
+   "confidence": "medium"
+  }
+ ],
+ "priceSummary_ar": "مستويات الأسعار من تجزئة تالابات الأردن: كريمة الطبخ 3.25-5.75 د/لتر (4.6-8.1 دولار)، كريمة الخفق الجاهزة Puck/Emborg حوالي 7.5-9.25 د/لتر؛ السبريد من 3.57 د/كجم (Buongiorno) حتى 9.14 د/كجم (Nutella 350غ). المنافسة في الكريمة تضغط على الأسعار بوجود Halibna وGran Cucina الأرخص، لذلك التمركز الأنسب لـ Dr. Baker هو الشريحة المتوسطة المهنية (B2B للمخابز) بسعر أقل من Emborg وElle & Vire. أسعار جملة/موزعين المخابز لم يتم التحقق منها؛ الأرقام تجزئة أونلاين فقط وتقريبية.",
+ "shipping": [
+  {
+   "item_ar": "بطاقة مستورد",
+   "detail_ar": "المستورد الأردني يحتاج بطاقة مستورد من وزارة الصناعة والتجارة والتموين؛ بدونها غرامة 2.5% من CIF. الشركة الأجنبية تعيّن وكيلاً مسجلاً لدى الجمارك.",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "item_ar": "الفحص الحدودي",
+   "detail_ar": "لجنة حدودية (وزارة الزراعة + JFDA + الجمارك) تفحص وتأخذ عينات من معظم الأغذية المحضّرة والمخلوطة؛ قنوات أخضر/أصفر/أحمر؛ المخالف يعاد تصديره أو يُتلف على نفقة المستورد.",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "item_ar": "المستندات",
+   "detail_ar": "بوليصة شحن، فاتورة تجارية بوصف عربي (مصدّقة)، شهادة منشأ موثقة، إقرار قيمة للشحنات فوق 2000 د.أ، شهادة صحية/منشأ، وترخيص استيراد لبعض الأصناف (جبن، بيض، سكر، حليب بودرة صناعي، أغذية خاصة).",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/112072025841539540.pdf"
+  },
+  {
+   "item_ar": "ميناء العقبة والتخليص",
+   "detail_ar": "الاستيراد البحري عبر العقبة؛ التخليص إلكترونياً عبر ASYCUDA؛ سلطة منطقة العقبة تفحص الأغذية أيضاً.",
+   "url": "https://www.bankofscotlandtrade.co.uk/en/market-potential/jordan/customs"
+  },
+  {
+   "item_ar": "تسجيل مصنع الألبان",
+   "detail_ar": "منشآت الألبان تُسجَّل لدى JFDA مسبقاً بالتحقق من شهادة HACCP (تسجيل منشأة وليس منتج) — ينطبق على الكريمة السائلة والبودرة الألبانية.",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "item_ar": "اللغة وتاريخ الصلاحية",
+   "detail_ar": "عربي أو ملصق عربي لاصق؛ best before يُعامل كتاريخ انتهاء؛ صيغة DD/MM/YYYY لمدة 3 أشهر أو أقل وMM/YYYY لأكثر (JS 288:2023). الحد الأدنى للصلاحية المتبقية غير متحقق.",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/112072025841539540.pdf"
+  },
+  {
+   "item_ar": "الحلال",
+   "detail_ar": "شهادة حلال إلزامية للحوم ومنتجات حيوانية (JS 1475) مع كل شحنة؛ شعار الحلال على ملصق المنتج الأصلي.",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "item_ar": "الدهون المهدرجة",
+   "detail_ar": "ممنوع PHOs في منتجات الألبان المصنّعة، ووضّح نوع الزيت على العبوة (مهم لكريمة الخفق).",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "item_ar": "GMO",
+   "detail_ar": "يجب ذكر 'معدّل وراثياً' وقائمة المكونات المعدلة؛ احتمال تأخير بالحدود.",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  }
+ ],
+ "certificates": [
+  {
+   "name": "Certificate of Origin (GAFTA/Agadir)",
+   "required": "yes",
+   "detail_ar": "شهادة منشأ موثقة من الغرفة/الجهة المختصة؛ شرط للتخفيض الجمركي.",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/112072025841539540.pdf"
+  },
+  {
+   "name": "Health/Sanitary certificate",
+   "required": "yes",
+   "detail_ar": "شهادة صحية لكل المنتجات (وزارة الزراعة/JFDA/الجمارك).",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/112072025841539540.pdf"
+  },
+  {
+   "name": "HACCP (facility registration with JFDA)",
+   "required": "yes",
+   "detail_ar": "للمنتجات الألبانية: تسجيل المصنع لدى JFDA وإرفاق HACCP من المستورد.",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "name": "Halal certificate (JS 1475)",
+   "required": "likely",
+   "detail_ar": "إلزامي للمنتجات ذات المصدر الحيواني (كريمة، سمنة، بيض).",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "name": "Pre-shipment conformity/test report",
+   "required": "likely",
+   "detail_ar": "اختياري لكنه قد يتفادى أخذ العينات بالحدود.",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  }
+ ],
+ "additives": [
+  {
+   "code": "E102",
+   "name": "Tartrazine",
+   "status": "restricted",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "ممنوع في المخللات (يتفق مع EU)؛ باقي الفئات غير متحقق.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "E110",
+   "name": "Sunset Yellow",
+   "status": "unclear",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "الحدود تتبع Codex وفي غيابه EU؛ لم يُتحقق من الحد لكل فئة — راجع قائمة JFDA/اللائحة 94/2017 قبل الشحن.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "E129",
+   "name": "Allura Red",
+   "status": "unclear",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "الحدود تتبع Codex وفي غيابه EU؛ لم يُتحقق من الحد لكل فئة — راجع قائمة JFDA/اللائحة 94/2017 قبل الشحن.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "E133",
+   "name": "Brilliant Blue",
+   "status": "unclear",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "الحدود تتبع Codex وفي غيابه EU؛ لم يُتحقق من الحد لكل فئة — راجع قائمة JFDA/اللائحة 94/2017 قبل الشحن.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "E150d",
+   "name": "Caramel IV",
+   "status": "unclear",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "الحدود تتبع Codex وفي غيابه EU؛ لم يُتحقق من الحد لكل فئة — راجع قائمة JFDA/اللائحة 94/2017 قبل الشحن.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "E150",
+   "name": "Caramel",
+   "status": "unclear",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "الحدود تتبع Codex وفي غيابه EU؛ لم يُتحقق من الحد لكل فئة — راجع قائمة JFDA/اللائحة 94/2017 قبل الشحن.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "E160b",
+   "name": "Annatto",
+   "status": "unclear",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "الحدود تتبع Codex وفي غيابه EU؛ لم يُتحقق من الحد لكل فئة — راجع قائمة JFDA/اللائحة 94/2017 قبل الشحن.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "E160a",
+   "name": "Beta-carotene",
+   "status": "unclear",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "الحدود تتبع Codex وفي غيابه EU؛ لم يُتحقق من الحد لكل فئة — راجع قائمة JFDA/اللائحة 94/2017 قبل الشحن.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "E104",
+   "name": "Quinoline Yellow",
+   "status": "unclear",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "الحدود تتبع Codex وفي غيابه EU؛ لم يُتحقق من الحد لكل فئة — راجع قائمة JFDA/اللائحة 94/2017 قبل الشحن.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "E122",
+   "name": "Carmoisine",
+   "status": "unclear",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "الحدود تتبع Codex وفي غيابه EU؛ لم يُتحقق من الحد لكل فئة — راجع قائمة JFDA/اللائحة 94/2017 قبل الشحن.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "E120",
+   "name": "Carmine",
+   "status": "unclear",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "الحدود تتبع Codex وفي غيابه EU؛ لم يُتحقق من الحد لكل فئة — راجع قائمة JFDA/اللائحة 94/2017 قبل الشحن.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "E160",
+   "name": "Carotenes",
+   "status": "unclear",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "الحدود تتبع Codex وفي غيابه EU؛ لم يُتحقق من الحد لكل فئة — راجع قائمة JFDA/اللائحة 94/2017 قبل الشحن.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "E202",
+   "name": "Potassium sorbate",
+   "status": "unclear",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "الحدود تتبع Codex وفي غيابه EU؛ لم يُتحقق من الحد لكل فئة — راجع قائمة JFDA/اللائحة 94/2017 قبل الشحن.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "E211",
+   "name": "Sodium benzoate",
+   "status": "unclear",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "الحدود تتبع Codex وفي غيابه EU؛ لم يُتحقق من الحد لكل فئة — راجع قائمة JFDA/اللائحة 94/2017 قبل الشحن.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "E551",
+   "name": "Silicon dioxide",
+   "status": "unclear",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "الحدود تتبع Codex وفي غيابه EU؛ لم يُتحقق من الحد لكل فئة — راجع قائمة JFDA/اللائحة 94/2017 قبل الشحن.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "E500",
+   "name": "Sodium carbonates",
+   "status": "unclear",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "الحدود تتبع Codex وفي غيابه EU؛ لم يُتحقق من الحد لكل فئة — راجع قائمة JFDA/اللائحة 94/2017 قبل الشحن.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "other",
+   "name": "Partially hydrogenated oils",
+   "status": "banned",
+   "limit_ar": "لا يسمح بها في منتجات الألبان المصنّعة",
+   "rule_ar": "وضّح نوع الزيت على العبوة.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "other",
+   "name": "Pork / gelatin / alcohol-ethanol flavours",
+   "status": "unclear",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "الخنزير ومشتقاته غير حلال؛ الجيلاتين والإيثانول غير متحقق نصاً — استخدم مصدراً حلالاً ونكهات خالية من الكحول.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  },
+  {
+   "code": "other",
+   "name": "E171, azodicarbonamide, potassium bromate",
+   "status": "unclear",
+   "limit_ar": "غير متحقق",
+   "rule_ar": "لم يُعثر على نص أردني؛ تجنبها احتياطاً.",
+   "regulation": "JS 94:2017 / Codex GSFA (per FAS GAIN JO2025-0009)",
+   "url": "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf"
+  }
+ ],
+ "labeling_ar": "عربي أو ملصق عربي لاصق؛ بيانات إلزامية: اسم المنتج، المصنّع وعنوانه، الوزن الصافي، المادة المدعِّمة، رقم التشغيلة، best before، بلد المنشأ، التخزين. قائمة المكونات غير إلزامية عموماً (إلزامية للأغذية الخاصة والادعاءات). best before = تاريخ انتهاء. التغذية JS 1474:2019. ذكر GMO إلزامي. الغموض في الملصق قد يسبب رفض الشحنة.",
+ "tariffs": [
+  {
+   "hs": "040130 / 0402 / 1517 / 1806 / 1901 / 2106 / 2007-2008 / 1704",
+   "desc_ar": "المنتجات الأساسية",
+   "duty": "0% متوقع بموجب GAFTA بشرط شهادة منشأ (غير متحقق لكل بند)",
+   "vat": "ضريبة المبيعات العامة 16% (غير متحقق من مصدر مفتوح هذه الجلسة)",
+   "note_ar": "رسم 5% إضافي على الواردات لمن ليس لديه بطاقة مستورد؛ تحقق من نظام CITS الجمركي.",
+   "url": "https://www.bankofscotlandtrade.co.uk/en/market-potential/jordan/customs"
+  }
+ ],
+ "agreements": [
+  {
+   "name": "GAFTA (PAFTA)",
+   "status": "ساري منذ 2005",
+   "relevance_ar": "إزالة الرسوم على تجارة السلع العربية الأصل بين مصر والأردن.",
+   "tariff_note_ar": "المستثنيات الزراعية وقواعد المنشأ التفصيلية غير متحققة.",
+   "url": "https://admin.jordanexportportal.gov.jo/files/khaled/New%20Factsheet/Factsheet_6-PAFTA-_English.pdf"
+  },
+  {
+   "name": "Agadir Agreement",
+   "status": "موقعة 2004 (الأردن/مصر/المغرب/تونس)",
+   "relevance_ar": "إعفاء جمركي للسلع الصناعية، والزراعية حسب برنامج GAFTA، مع تراكم أصل أورو-متوسطي.",
+   "tariff_note_ar": "السلع المستثناة من مجلس الجامعة غير مشمولة.",
+   "url": "https://admin.jordanexportportal.gov.jo/files/khaled/New%20Factsheet/Factsheet_2-Aghadeer-_English.pdf"
+  }
+ ],
+ "fairs": [],
+ "seasons": [],
+ "sources": [
+  "https://agriexchange.apeda.gov.in/ImportRegulations/11207202584163313271.pdf",
+  "https://agriexchange.apeda.gov.in/ImportRegulations/112072025841539540.pdf",
+  "https://www.talabat.com/jordan/grocery/715604/centro-tla-ali/dairy-eggs/cream?aid=4910",
+  "https://www.talabat.com/jordan/grocery/717856/jjs-supermarket/breakfast-food/spreads?aid=4964",
+  "https://www.talabat.com/jordan/grocery/642456/al-saadah/cooking-baking/ghee?aid=6679",
+  "https://www.talabat.com/jordan/grocery/49447/gourmet-grocery-dabouq/cooking-baking/baking-ingredients?aid=5673",
+  "https://www.trade.gov/country-commercial-guides/jordan-labelingmarking-requirements",
+  "https://www.bankofscotlandtrade.co.uk/en/market-potential/jordan/customs",
+  "https://admin.jordanexportportal.gov.jo/files/khaled/New%20Factsheet/Factsheet_6-PAFTA-_English.pdf",
+  "https://admin.jordanexportportal.gov.jo/files/khaled/New%20Factsheet/Factsheet_2-Aghadeer-_English.pdf"
+ ],
+ "unverified": [
+  "معارض الأردن الغذائية خلال 12 شهراً (لم تُبحث بسبب حد الجلسة)",
+  "المواسم (رمضان 2027 ~8 فبراير، الأعياد) أُدرجت فارغة ولم تُوثَّق",
+  "نسبة ضريبة المبيعات 16% ورسوم بنود HS الدقيقة (CITS)",
+  "حدود الإضافات (E1xx/E2xx) حسب فئة المنتج في اللائحة 94/2017",
+  "الحد الأدنى للصلاحية المتبقية عند الاستيراد",
+  "أسعار الجملة/موزعي المخابز؛ Puratos وIREKS وأي منافس مهني لم يُتحقق منه",
+  "الأسعار تجزئة أونلاين من تالابات بتاريخ الجلب 2026-10-13 وبدون تاريخ نشر على الصفحة",
+  "سعر الصرف 1 دينار = 1.4104 دولار (ربط رسمي تقريبي، غير مفتوح من مصدر)"
+ ]
+}

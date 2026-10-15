@@ -1,0 +1,129 @@
+{
+  "country": "البحرين",
+  "country_en": "Bahrain",
+  "data": {
+    "basics": {
+      "gdp": "US$49.0B (World Bank, 2025)",
+      "population": "1.59M (iGA, Dec 2024)"
+    },
+    "egyptExportsUsdM": {
+      "byChapter": {
+        "15": 0.669,
+        "17": null,
+        "18": 4.38,
+        "19": 1.58,
+        "20": 4.67,
+        "21": 4.26,
+        "04": 1.14
+      },
+      "total": 76.39,
+      "year": 2025
+    },
+    "fairs": [
+      {
+        "city": "Dubai",
+        "date": "2026-11-03 to 2026-11-05",
+        "name": "Gulfood Manufacturing 2026"
+      },
+      {
+        "city": "Riyadh",
+        "date": "2026-12-07 to 2026-12-09",
+        "name": "Saudi Horeca Riyadh"
+      },
+      {
+        "city": "Manama",
+        "date": "2027-01-21 (10 days)",
+        "name": "The Autumn Fair Bahrain"
+      },
+      {
+        "city": "Dubai",
+        "date": "2027-03-15 to 2027-03-19",
+        "name": "Gulfood 2027"
+      }
+    ],
+    "notes": "Egypt-reported exports 2025 (UN Comtrade via TradingEconomics); Bahrain-reported imports from Egypt 2024 = $112.0M (HS18 5.36, HS19 2.90, HS20 4.27, HS21 4.80, HS04 2.38). null = chapter not in TE top list. World imports = TrendEconomy (Bahrain as reporter, 2023) except 0401/0402 (2024, total derived from Saudi share). Confirm in Trade Map: reporter Bahrain, partner World/Egypt, HS 1806/1901/2106/0401/0402, 2021–2025. Prices: online retail 2026-10-15 at peg 0.376 BHD/USD.",
+    "regulatory": [
+      "Food imports controlled by Ministry of Health – Public Health Directorate, Food Control Section (Public Health Law 34/2018); no product registration for regular foods",
+      "Importer needs Sijilat CR for food trade + health-surveillance practice certificate; optional 'Permit to import food products' pre-approval (3 working days)",
+      "Original health certificate per shipment attesting GCC compliance; halal certificate for products with animal-origin ingredients",
+      "GSO 9 Arabic labeling; source of gelatin/lecithin/mono-diglycerides must be stated; no stickers for production/expiry dates; GSO 150-1/150-2 shelf life",
+      "National Halal System in force since 13 Dec 2025: certifiers must be GAC-accredited and registered in Bahrain (Edict 61/2024)",
+      "E171 banned since Oct 2023 (GSO 2500 Amd1:2023); azo-colour warning status in Bahrain unverified"
+    ],
+    "risk": "Hartford H1-2026 overall 5.0/10 (higher = riskier; sovereign 8.5, war on land 5.0) vs Saudi 3.5. Coface C (June 2026), expects sharp 2026 contraction. Hormuz still disrupted (12 ship attacks 28 Sep–7 Oct 2026); Khalifa Bin Salman Port was suspended in March; Bahrain ~92% import-dependent and supplied overland via King Fahd Causeway. Use advance payment or confirmed L/C for new buyers.",
+    "scoreBasis": "Small market (1.6M pop, ~$49B GDP) but Egypt is #1 supplier of HS1806 (12.7%, 2023) and #8 in HS2106; GAFTA 0% duty. War-driven Hormuz disruption makes Saudi overland supply the main route, which favours Dr. Baker's Madinah plant. Risk higher than Saudi (Hartford 5.0 vs 3.5). Clear B2B channel exists (HHM's Advanced Bakery Solutions, Fine Foods) plus local users (Amalfi Foods, Tariq Pastries). Main competitors: Almarai, Al Alali, SwissBake/Puratos.",
+    "sources": [
+      "https://gulfmigration.grc.net/bahrain-population-estimates-by-nationality-bahraini-non-bahraini-1991-dec-2024/",
+      "https://tradingeconomics.com/bahrain/gdp",
+      "https://tradingeconomics.com/egypt/exports/bahrain",
+      "https://tradingeconomics.com/bahrain/imports/egypt",
+      "https://trendeconomy.com/data/import_h2/Bahrain/1806",
+      "https://trendeconomy.com/data/import_h2/Bahrain/1901",
+      "https://trendeconomy.com/data/import_h2/Bahrain/2106",
+      "https://trendeconomy.com/data/import_h2/Bahrain/2007",
+      "https://tradebottlenecks.uew.pl/BHR/2024/hs4",
+      "https://www.ofoq.gov.bh/pdf/FoodImportersGuide_2024_EN.pdf",
+      "https://www.mun.gov.bh/newportal/en/municipal-affairs/services/application-authorization-issue-bahraini-halal-certificate",
+      "https://www.trade.gov/country-commercial-guides/bahrain-import-tariffs",
+      "https://assets.thehartford.com/image/upload/country_scores_map_first_half_2026.pdf",
+      "https://www.coface.com/news-economy-and-insights/business-risk-dashboard/country-risk-files/bahrain",
+      "https://news.usni.org/2026/10/09/october-sees-near-daily-strikes-on-ships-in-hormuz",
+      "https://www.agroberichtenbuitenland.nl/actueel/nieuws/2026/03/31/impact-of-the-middle-east-war-on-food-systems-in-the-gcc",
+      "https://www.arabnews.com/business/saudi-arabia-launches-bahrain-shipping-link-as-gulf-routes-face-war-turmoil-2637593",
+      "https://www.cbb.gov.bh/monetary-policy/"
+    ],
+    "tariffNote": "GAFTA: Egyptian-origin goods 0% with Arab certificate of origin (vs GCC CET 5% CIF). Goods from the Madinah plant can enter as GCC national products (40% value added, 51% GCC ownership, GCC certificate of origin). VAT 10%; basic dairy zero-rated (list of 118 items, Sep 2024).",
+    "worldImports": [
+      {
+        "hs": "1806",
+        "topSuppliers": "Egypt 12.7% (~$6.3M, #1), Saudi Arabia 8.0%, Netherlands 8.0%, UAE 7.9%, Italy 7.9%, Turkey 7.8%",
+        "usdM": 49,
+        "year": 2023
+      },
+      {
+        "hs": "1901",
+        "topSuppliers": "Ireland 19.4%, UAE 17.7%, Germany 16.7%, Singapore 6.3%, USA 5.9%; Egypt ~0.03%",
+        "usdM": 26,
+        "year": 2023
+      },
+      {
+        "hs": "2106",
+        "topSuppliers": "New Zealand 20%, USA 15.7%, Ireland 11.1%, Canada 9.7%, Lithuania 6.7%; Egypt #8 at 4.0% (~$4.1M)",
+        "usdM": 103,
+        "year": 2023
+      },
+      {
+        "hs": "2007",
+        "topSuppliers": "France 14.2%, Saudi Arabia 14%, Iran 7.4%, Spain 6.9%, Malaysia 6.6%; Egypt #7 at 5.9% (~$0.2M)",
+        "usdM": 3.38,
+        "year": 2023
+      },
+      {
+        "hs": "0401",
+        "topSuppliers": "Saudi Arabia 83.3% ($22.3M); total derived from Saudi share",
+        "usdM": 26.8,
+        "year": 2024
+      },
+      {
+        "hs": "0402",
+        "topSuppliers": "Saudi Arabia 44.5% ($38.1M); total derived from Saudi share",
+        "usdM": 85.6,
+        "year": 2024
+      },
+      {
+        "hs": "1517",
+        "topSuppliers": "not found (only 151790 = $4.07M in 2023, no origin split)",
+        "usdM": null,
+        "year": null
+      },
+      {
+        "hs": "2008",
+        "topSuppliers": "not found",
+        "usdM": null,
+        "year": null
+      }
+    ]
+  },
+  "iso2": "BH",
+  "updatedAt": "2026-10-15T03:00:00Z"
+}

@@ -1,0 +1,1210 @@
+{
+  "country": "تركيا",
+  "leads": [
+    {
+      "action": "email_intro",
+      "actionReason": "Published generic email and B2B application; strongest category fit.",
+      "arabOwned": false,
+      "city": "Istanbul / Bursa / Baku",
+      "company": "Altınoğulları",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": "https://www.altinogullari.com/iletisim",
+        "emailSourceUrl": "https://www.altinogullari.com/",
+        "generalPhone": "+90 212 652 64 84",
+        "genericEmail": "info@altinogullari.com"
+      },
+      "evidence": "Website catalogue lists whipping cream, sauces, fillings and Altınusta range; multi-brand (Callebaut, Ovalette, Hopla).",
+      "fit": "Sells whipping cream, waffle sauces, fillings; own private label Altınusta — offer private-label manufacturing.",
+      "language": "tr",
+      "priority": "A",
+      "segment": "موزعين ومستوردين",
+      "sources": [
+        "https://www.altinogullari.com/"
+      ],
+      "type": "Pastry ingredients distributor with own label (Altınusta)",
+      "website": "https://www.altinogullari.com/"
+    },
+    {
+      "action": "email_intro",
+      "actionReason": "Email published in OSTİM directory.",
+      "arabOwned": false,
+      "city": "Ankara (12 provinces)",
+      "company": "Pastacılık Dünyası",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": "https://www.ostim.org.tr/companies/pastacilik-dunyasi-ltd-sti-1",
+        "generalPhone": "+90 312 386 34 35",
+        "genericEmail": "info@pastacilikdunyasi.com.tr"
+      },
+      "evidence": "Company site and OSTİM directory: since 1997, 40 staff, 25 vehicles.",
+      "fit": "Represents Turkish brands only (Efes, Elit, Marsan, Polen) — room for an imported waffle-sauce and whip line.",
+      "language": "tr",
+      "priority": "A",
+      "segment": "موزعين ومستوردين",
+      "sources": [
+        "https://www.pastacilikdunyasi.com.tr/",
+        "https://www.ostim.org.tr/companies/pastacilik-dunyasi-ltd-sti-1"
+      ],
+      "type": "Distributor to patisseries, hotels, catering",
+      "website": "https://www.pastacilikdunyasi.com.tr/"
+    },
+    {
+      "action": "form",
+      "actionReason": "No published email found; use website contact.",
+      "arabOwned": false,
+      "city": "Istanbul (42 sub-dealers)",
+      "company": "Ekol Food Service",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.ekolfood.com.tr/",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "TİM delegation profile; Sanayi Gazetesi on Koza acquisition.",
+      "fit": "Imports 3,000+ SKUs from 20+ countries for hotels and restaurants; acquired Koza Gıda.",
+      "language": "tr",
+      "priority": "B",
+      "segment": "موزعين ومستوردين",
+      "sources": [
+        "https://delegations.tim.org.tr/event/japan-tokyo-2024/company/ekol",
+        "https://sanayigazetesi.com.tr/?p=222189"
+      ],
+      "type": "Foodservice importer/distributor",
+      "website": "https://www.ekolfood.com.tr/"
+    },
+    {
+      "action": "call",
+      "actionReason": "Phone from company profile; ask for purchasing.",
+      "arabOwned": false,
+      "city": "Istanbul (Esenyurt), 38 branches",
+      "company": "Pelit Pastacılık ve Gıda",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://pelit.com.tr",
+        "emailSourceUrl": null,
+        "generalPhone": "0212 411 13 00",
+        "genericEmail": null
+      },
+      "evidence": "Company profile: 38 retail branches, frozen cake factory, 50 t/day liquid chocolate.",
+      "fit": "Large end user for whipping cream, bake-stable fillings and glazes. Makes its own chocolate — do not pitch chocolate.",
+      "language": "tr",
+      "priority": "B",
+      "segment": "موزعين ومستوردين",
+      "sources": [
+        "https://www.yenibiris.com/firma/pelit-pastacilik-ve-gida-san-a-s/9610"
+      ],
+      "type": "Patisserie chain + frozen cake factory (end user)",
+      "website": "https://pelit.com.tr"
+    },
+    {
+      "action": "call",
+      "actionReason": "Only a 2020 directory source.",
+      "arabOwned": false,
+      "city": "Istanbul (Üsküdar)",
+      "company": "OM Gıda Ticaret A.Ş.",
+      "confidence": "low",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": "+90 216 321 66 61",
+        "genericEmail": null
+      },
+      "evidence": "2020 directory listing — verify still active.",
+      "fit": "Imports chocolates, sauces and bakery goods.",
+      "language": "tr",
+      "priority": "C",
+      "segment": "موزعين ومستوردين",
+      "sources": [
+        "https://www.foodcodirectory.com/2020/09/turkey-food-importers-distributors.html"
+      ],
+      "type": "Importer",
+      "website": "https://www.omgida.com"
+    },
+    {
+      "action": "call",
+      "actionReason": "Only a 2020 directory source.",
+      "arabOwned": false,
+      "city": "Istanbul (Üsküdar)",
+      "company": "Urban Food",
+      "confidence": "low",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": "+90 216 326 36 77",
+        "genericEmail": null
+      },
+      "evidence": "2020 directory listing — verify.",
+      "fit": "Bulk whip powder and fillings for manufacturers.",
+      "language": "tr",
+      "priority": "C",
+      "segment": "موزعين ومستوردين",
+      "sources": [
+        "https://www.foodcodirectory.com/2020/09/turkey-food-importers-distributors.html"
+      ],
+      "type": "Importer of bulk ingredients for confectionery & dairy",
+      "website": ""
+    },
+    {
+      "action": "call",
+      "actionReason": "Only a 2020 directory source.",
+      "arabOwned": false,
+      "city": "Istanbul (Eyüpsultan)",
+      "company": "Dolfin Gıda A.Ş.",
+      "confidence": "low",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": "+90 212 612 47 00",
+        "genericEmail": null
+      },
+      "evidence": "2020 directory listing — verify.",
+      "fit": "Retail packs of sauces.",
+      "language": "tr",
+      "priority": "C",
+      "segment": "موزعين ومستوردين",
+      "sources": [
+        "https://www.foodcodirectory.com/2020/09/turkey-food-importers-distributors.html"
+      ],
+      "type": "Food importer, nationwide distribution",
+      "website": ""
+    },
+    {
+      "action": "form",
+      "actionReason": "Check conflict with current principals first.",
+      "arabOwned": false,
+      "city": "Istanbul",
+      "company": "Satrap Kimya Gıda Ltd.",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.satrapkimya.com",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Directory profile lists Cargill and FrieslandCampina as principals.",
+      "fit": "Only non-competing items (glazes, fillings). LOCK-IN RISK: dealer of Cargill and FrieslandCampina.",
+      "language": "tr",
+      "priority": "C",
+      "segment": "موزعين ومستوردين",
+      "sources": [
+        "https://bestfoodimporters.com/company/satrap-kimya-gida-ltd-co/"
+      ],
+      "type": "Food ingredients distributor",
+      "website": "https://www.satrapkimya.com"
+    },
+    {
+      "action": "form",
+      "actionReason": "Central purchasing for 40+ outlets; reach HQ via franchise portal.",
+      "arabOwned": false,
+      "city": "Bursa (HQ, since 2001) — 42 branches + Northern Cyprus, Azerbaijan",
+      "company": "Waffle Art",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": "https://www.bayimolurmusun.com.tr/en/franchise/waffle-art",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Ekonomist (Jan 2022): 42 branches; franchise portal lists 38 branches, 55 products.",
+      "fit": "Direct user of waffle chocolate/sauces and whip; makes its own waffle chocolate and decorations — pitch bulk sauces/compound at factory price.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "A",
+      "segment": "سلاسل وافل وحلويات",
+      "sources": [
+        "https://www.ekonomist.com.tr/makale/18-metrekarelik-dukkanda-temelleri-atildi-42-subeye-cikti-2022de-amerika-pazarina-acilacak-28026",
+        "https://www.bayimolurmusun.com.tr/en/franchise/waffle-art"
+      ],
+      "type": "Waffle franchise chain",
+      "website": ""
+    },
+    {
+      "action": "form",
+      "actionReason": "Website contact; ask for purchasing.",
+      "arabOwned": false,
+      "city": "Istanbul (first TR branch 2015) — 30+ branches",
+      "company": "Waffle Works",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": "https://www.waffleworks.com.tr",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Paradergi (Jul 2024) and Ekonomist (Apr 2024): 20 active, 30+ incl. in setup.",
+      "fit": "Waffle sauces (dark/milk/white) and whip for 30+ outlets.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "A",
+      "segment": "سلاسل وافل وحلويات",
+      "sources": [
+        "https://www.paradergi.com.tr/sektorler/2024/07/29/cok-tatli-bir-girisim",
+        "https://www.ekonomist.com.tr/makale/tatli-sektorunde-girisim-firsatlari-48958"
+      ],
+      "type": "Waffle franchise chain",
+      "website": "https://www.waffleworks.com.tr"
+    },
+    {
+      "action": "call",
+      "actionReason": "No website found in sources; locate HQ via franchise listing.",
+      "arabOwned": false,
+      "city": "İzmir — 23 branches",
+      "company": "Waffle'cı Akın",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Ekonomist (Apr 2024): founder Mehmet Geren, 23 branches.",
+      "fit": "Waffle sauces and toppings for 23 outlets in the Aegean.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "A",
+      "segment": "سلاسل وافل وحلويات",
+      "sources": [
+        "https://www.ekonomist.com.tr/makale/tatli-sektorunde-girisim-firsatlari-48958"
+      ],
+      "type": "Waffle chain",
+      "website": ""
+    },
+    {
+      "action": "form",
+      "actionReason": "Website contact.",
+      "arabOwned": false,
+      "city": "Istanbul — 17 branches",
+      "company": "Granny's Waffles",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.grannyswaffles.com.tr",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Paradergi (Jul 2024): 17 branches, 18th planned.",
+      "fit": "Waffle sauces and whip.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "A",
+      "segment": "سلاسل وافل وحلويات",
+      "sources": [
+        "https://www.paradergi.com.tr/sektorler/2024/07/29/cok-tatli-bir-girisim"
+      ],
+      "type": "Waffle chain (international brand)",
+      "website": "https://www.grannyswaffles.com.tr"
+    },
+    {
+      "action": "form",
+      "actionReason": "Website contact.",
+      "arabOwned": false,
+      "city": "Istanbul (Moda, since 1999) — 9 branches",
+      "company": "Kemal Usta Waffles",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.kemalustawaffles.com",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Paradergi (Jul 2024).",
+      "fit": "Waffle sauces; small but premium — good pilot customer.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "B",
+      "segment": "سلاسل وافل وحلويات",
+      "sources": [
+        "https://www.paradergi.com.tr/sektorler/2024/07/29/cok-tatli-bir-girisim"
+      ],
+      "type": "Waffle chain",
+      "website": "https://www.kemalustawaffles.com"
+    },
+    {
+      "action": "form",
+      "actionReason": "Website contact.",
+      "arabOwned": false,
+      "city": "Istanbul, Ankara, Antalya — 6 branches + Belgium, Serbia",
+      "company": "Waffle Planet",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.waffleplanet.com.tr",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Paradergi (Jul 2024); Bayim Olur musun (Oct 2022).",
+      "fit": "Sauces, fruit fillings (red fruits), whip.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "B",
+      "segment": "سلاسل وافل وحلويات",
+      "sources": [
+        "https://www.paradergi.com.tr/sektorler/2024/07/29/cok-tatli-bir-girisim",
+        "https://www.bayimolurmusun.com.tr/en/news/franchise-news/waffle-planet-franchise-everywhere-in-turkey-the-sweetest-journey-between-planets"
+      ],
+      "type": "Waffle chain",
+      "website": "https://www.waffleplanet.com.tr"
+    },
+    {
+      "action": "form",
+      "actionReason": "Website contact; largest outlet count in the segment.",
+      "arabOwned": false,
+      "city": "Türkiye — 100+ outlets (since 2022)",
+      "company": "The Choco Factory (Chocoworld)",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.thechocofactory.com",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Paradergi (Jul 2024): 100+ outlets.",
+      "fit": "High-volume sauces, spreads and compound for dessert service.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "A",
+      "segment": "سلاسل وافل وحلويات",
+      "sources": [
+        "https://www.paradergi.com.tr/sektorler/2024/07/29/cok-tatli-bir-girisim"
+      ],
+      "type": "Chocolate/dessert chain",
+      "website": "https://www.thechocofactory.com"
+    },
+    {
+      "action": "form",
+      "actionReason": "Website contact.",
+      "arabOwned": false,
+      "city": "Türkiye — 50 outlets (brand founded in St Petersburg 2016)",
+      "company": "Vaffel",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.vaffel.com",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Paradergi (Jul 2024): 50 total, 3 company-owned.",
+      "fit": "Waffle sauces and whip.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "B",
+      "segment": "سلاسل وافل وحلويات",
+      "sources": [
+        "https://www.paradergi.com.tr/sektorler/2024/07/29/cok-tatli-bir-girisim"
+      ],
+      "type": "Waffle chain",
+      "website": "https://www.vaffel.com"
+    },
+    {
+      "action": "form",
+      "actionReason": "Reach HQ via franchise portal.",
+      "arabOwned": false,
+      "city": "Antalya (first store) — 38 stores in 14 provinces",
+      "company": "Iceberry Türkiye",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.bayimolurmusun.com.tr/en/franchise/iceberry-turkiye",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Ekonomist (Apr 2024); franchise portal listing.",
+      "fit": "Toppings, sauces, fruit fillings.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "B",
+      "segment": "سلاسل وافل وحلويات",
+      "sources": [
+        "https://www.ekonomist.com.tr/makale/tatli-sektorunde-girisim-firsatlari-48958",
+        "https://www.bayimolurmusun.com.tr/en/franchise/iceberry-turkiye"
+      ],
+      "type": "Frozen yogurt / dessert café chain",
+      "website": ""
+    },
+    {
+      "action": "form",
+      "actionReason": "International brand may have fixed suppliers — ask.",
+      "arabOwned": false,
+      "city": "Istanbul — 18 stores",
+      "company": "Cold Stone Creamery Türkiye",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.bayimolurmusun.com.tr/en/franchise/cold-stone-creamery",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Ekonomist (Apr 2024): 18 stores.",
+      "fit": "Sauces and mix-ins.",
+      "language": "tr",
+      "lockIn": "International franchise: supply may be specified by the brand owner",
+      "priority": "C",
+      "segment": "سلاسل وافل وحلويات",
+      "sources": [
+        "https://www.ekonomist.com.tr/makale/tatli-sektorunde-girisim-firsatlari-48958",
+        "https://www.bayimolurmusun.com.tr/en/franchise/cold-stone-creamery"
+      ],
+      "type": "Ice cream chain (US brand, local operator)",
+      "website": ""
+    },
+    {
+      "action": "form",
+      "actionReason": "Do not pitch chocolate; pitch fillings/sauces.",
+      "arabOwned": false,
+      "city": "Istanbul — 28 franchised stores",
+      "company": "1983 Beyoğlu Çikolata",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Ekonomist (Apr 2024): 28 franchises; expanding abroad.",
+      "fit": "Spreads, sauces, fillings for café desserts (they make own chocolate).",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "C",
+      "segment": "سلاسل وافل وحلويات",
+      "sources": [
+        "https://www.ekonomist.com.tr/makale/tatli-sektorunde-girisim-firsatlari-48958",
+        "https://www.ekonomist.com.tr/makale/1983-beyoglu-cikolata-yurtdisinda-buyuyecek-40643"
+      ],
+      "type": "Chocolate café chain",
+      "website": ""
+    },
+    {
+      "action": "form",
+      "actionReason": "Locate HQ contact.",
+      "arabOwned": false,
+      "city": "Alaçatı / İzmir — chain",
+      "company": "Alaçatı Muhallebicisi",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Ekonomist (Apr 2024).",
+      "fit": "Whip, glazes, fillings.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "C",
+      "segment": "سلاسل وافل وحلويات",
+      "sources": [
+        "https://www.ekonomist.com.tr/makale/tatli-sektorunde-girisim-firsatlari-48958"
+      ],
+      "type": "Dessert chain",
+      "website": ""
+    },
+    {
+      "action": "form",
+      "actionReason": "Large central kitchen; procurement via HQ.",
+      "arabOwned": false,
+      "city": "İzmir origin — ~150 branches in 45 provinces + 7 Azerbaijan",
+      "company": "Özsüt",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.ozsut.com.tr",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Ekonomist (Apr 2024).",
+      "fit": "Whipping cream, glazes, fillings for central production.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "B",
+      "segment": "سلاسل حلويات ومخابز كبيرة",
+      "sources": [
+        "https://www.ekonomist.com.tr/makale/tatli-sektorunde-girisim-firsatlari-48958"
+      ],
+      "type": "Dessert & patisserie chain",
+      "website": "https://www.ozsut.com.tr"
+    },
+    {
+      "action": "form",
+      "actionReason": "Official contact page; ask for procurement.",
+      "arabOwned": false,
+      "city": "Production in Kahramanmaraş — 300+ outlets TR, ~100 abroad",
+      "company": "MADO (Yaşar Dondurma ve Gıda Maddeleri A.Ş.)",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": "https://mado.com.tr/iletisim/",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Company site: 300+ restaurants/cafés; Ekonomist: 299 outlets.",
+      "fit": "Whip, cake fillings, glazes, sauces at scale.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "B",
+      "segment": "سلاسل حلويات ومخابز كبيرة",
+      "sources": [
+        "https://mado.com.tr",
+        "https://www.ekonomist.com.tr/makale/tatli-sektorunde-girisim-firsatlari-48958"
+      ],
+      "type": "Ice cream, desserts, cakes chain",
+      "website": "https://mado.com.tr"
+    },
+    {
+      "action": "form",
+      "actionReason": "Website contact.",
+      "arabOwned": false,
+      "city": "Türkiye — 100+ branches",
+      "company": "Bolulu Hasan Usta",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.bhu.com.tr",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Paradergi (Jun 2022): 100+ branches.",
+      "fit": "Whip, glazes, fillings, sauces.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "B",
+      "segment": "سلاسل حلويات ومخابز كبيرة",
+      "sources": [
+        "https://www.paradergi.com.tr/sektorler/2022/06/13/bayilik-veren-dondurma-markalari-ve-franchise-bedelleri"
+      ],
+      "type": "Desserts, börek, ice cream, chocolate chain",
+      "website": "https://www.bhu.com.tr"
+    },
+    {
+      "action": "form",
+      "actionReason": "Official contact form.",
+      "arabOwned": false,
+      "city": "Istanbul — chain",
+      "company": "Saray Muhallebicisi",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://online.saraymuhallebicisi.com/bize-ulasin",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Official online shop lists cakes and desserts.",
+      "fit": "Whip, fillings, glazes for cakes.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "B",
+      "segment": "سلاسل حلويات ومخابز كبيرة",
+      "sources": [
+        "https://online.saraymuhallebicisi.com/"
+      ],
+      "type": "Desserts & cakes chain",
+      "website": "https://online.saraymuhallebicisi.com"
+    },
+    {
+      "action": "form",
+      "actionReason": "Official contact page.",
+      "arabOwned": false,
+      "city": "Istanbul — chain + London, Dubai",
+      "company": "Hafız Mustafa 1864",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.hafizmustafa.com/iletisim",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Official site; Paradergi (Sep 2024) on London opening.",
+      "fit": "Whip and fillings for cake line; strong in Arab tourist trade.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "B",
+      "segment": "سلاسل حلويات ومخابز كبيرة",
+      "sources": [
+        "https://www.hafizmustafa.com",
+        "https://www.paradergi.com.tr/is-dunyasi-kulis/2024/09/24/hafiz-mustafa-1864-artik-londrayi-da-tatlandiracak"
+      ],
+      "type": "Desserts, cakes, baklava",
+      "website": "https://www.hafizmustafa.com"
+    },
+    {
+      "action": "call",
+      "actionReason": "Published call centre and contact page.",
+      "arabOwned": false,
+      "city": "Türkiye + 11 countries (incl. Iraq, Saudi Arabia, Qatar, Kuwait, UAE)",
+      "company": "Simit Sarayı Yatırım ve Tic. A.Ş.",
+      "confidence": "high",
+      "contact": {
+        "contactPageUrl": "https://www.simitsarayi.com/iletisim",
+        "emailSourceUrl": null,
+        "generalPhone": "444 8 768",
+        "genericEmail": null
+      },
+      "evidence": "Official site: operates in 12 countries.",
+      "fit": "Bake-stable fillings and spreads for pastries; GCC/Iraq outlets add an Arab-market angle.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "B",
+      "segment": "سلاسل حلويات ومخابز كبيرة",
+      "sources": [
+        "https://www.simitsarayi.com"
+      ],
+      "type": "Bakery café chain",
+      "website": "https://www.simitsarayi.com"
+    },
+    {
+      "action": "form",
+      "actionReason": "Source is 2015 — confirm current size.",
+      "arabOwned": false,
+      "city": "Antalya — 86 branches (2015), also Burdur, Isparta",
+      "company": "Nur Pastaneleri",
+      "confidence": "low",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Emlakkulisi (Dec 2015) — branch count dated.",
+      "fit": "Whip, fillings, glazes for central production.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "C",
+      "segment": "سلاسل حلويات ومخابز كبيرة",
+      "sources": [
+        "https://emlakkulisi.com/nur-pastaneleri-60-yilda-86-subeye-ulasti/438824"
+      ],
+      "type": "Patisserie chain",
+      "website": ""
+    },
+    {
+      "action": "call",
+      "actionReason": "Customer line only — ask for purchasing.",
+      "arabOwned": false,
+      "city": "Istanbul — national chain",
+      "company": "Kahve Dünyası (Altınkılıçlar Kahve Kakao A.Ş.)",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.kahvedunyasi.com",
+        "emailSourceUrl": null,
+        "generalPhone": "0850 393 7070",
+        "genericEmail": null
+      },
+      "evidence": "Official site.",
+      "fit": "Sauces/syrups for beverages; they produce own chocolate.",
+      "language": "tr",
+      "lockIn": "Own chocolate production",
+      "priority": "C",
+      "segment": "سلاسل حلويات ومخابز كبيرة",
+      "sources": [
+        "https://www.kahvedunyasi.com"
+      ],
+      "type": "Coffee & chocolate chain",
+      "website": "https://www.kahvedunyasi.com"
+    },
+    {
+      "action": "form",
+      "actionReason": "Website contact.",
+      "arabOwned": false,
+      "city": "Kahramanmaraş — ~1,000 points of sale",
+      "company": "Tordo Dondurma",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.tordo.com.tr",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Paradergi (Jun 2022).",
+      "fit": "Coatings, sauces, ripples for ice cream.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "B",
+      "segment": "آيس كريم وحلويات (مصنّعين)",
+      "sources": [
+        "https://www.paradergi.com.tr/sektorler/2022/06/13/bayilik-veren-dondurma-markalari-ve-franchise-bedelleri"
+      ],
+      "type": "Ice cream manufacturer",
+      "website": "https://www.tordo.com.tr"
+    },
+    {
+      "action": "form",
+      "actionReason": "Website contact.",
+      "arabOwned": false,
+      "city": "Kahramanmaraş — 3,600 m² plant",
+      "company": "FEDO (Ferah Dondurma)",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.fedodondurma.com.tr",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Paradergi (Jun 2022).",
+      "fit": "Coatings, sauces, fillings.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "B",
+      "segment": "آيس كريم وحلويات (مصنّعين)",
+      "sources": [
+        "https://www.paradergi.com.tr/sektorler/2022/06/13/bayilik-veren-dondurma-markalari-ve-franchise-bedelleri"
+      ],
+      "type": "Ice cream & dessert manufacturer",
+      "website": "https://www.fedodondurma.com.tr"
+    },
+    {
+      "action": "form",
+      "actionReason": "Website contact.",
+      "arabOwned": false,
+      "city": "Kahramanmaraş-style, since 2004",
+      "company": "Gaymak Dondurma",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.gaymakdondurma.com",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Paradergi (Jun 2022).",
+      "fit": "Sauces and coatings for packaged range.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "C",
+      "segment": "آيس كريم وحلويات (مصنّعين)",
+      "sources": [
+        "https://www.paradergi.com.tr/sektorler/2022/06/13/bayilik-veren-dondurma-markalari-ve-franchise-bedelleri"
+      ],
+      "type": "Ice cream manufacturer",
+      "website": "https://www.gaymakdondurma.com"
+    },
+    {
+      "action": "form",
+      "actionReason": "Website contact.",
+      "arabOwned": false,
+      "city": "Bodrum — 15 branches",
+      "company": "Bitez Dondurma",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.bitezdondurma.com",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Paradergi (Jun 2022).",
+      "fit": "Sauces and toppings.",
+      "language": "tr",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "C",
+      "segment": "آيس كريم وحلويات (مصنّعين)",
+      "sources": [
+        "https://www.paradergi.com.tr/sektorler/2022/06/13/bayilik-veren-dondurma-markalari-ve-franchise-bedelleri"
+      ],
+      "type": "Ice cream café chain",
+      "website": "https://www.bitezdondurma.com"
+    },
+    {
+      "action": "form",
+      "actionReason": "Industrial buyer; reach R&D/purchasing.",
+      "arabOwned": false,
+      "city": "Türkiye",
+      "company": "Elvan Gıda",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.elvan.com.tr",
+        "emailSourceUrl": null,
+        "generalPhone": "+90 549 786 52 56 (WhatsApp)",
+        "genericEmail": null
+      },
+      "evidence": "Official site product range.",
+      "fit": "Bake-stable fillings for croissant/cake lines.",
+      "language": "tr",
+      "lockIn": "Large producer, may make fillings in-house",
+      "priority": "C",
+      "segment": "مصنّعين صناعيين",
+      "sources": [
+        "https://www.elvan.com.tr"
+      ],
+      "type": "Confectionery & snack manufacturer (croissant, cake, wafer)",
+      "website": "https://www.elvan.com.tr"
+    },
+    {
+      "action": "call",
+      "actionReason": "Published phone; Arabic-speaking.",
+      "arabOwned": true,
+      "city": "Istanbul",
+      "company": "MT Royal",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://mtroyal.com.tr",
+        "emailSourceUrl": null,
+        "generalPhone": "+90 212 258 23 23",
+        "genericEmail": null
+      },
+      "evidence": "Company site: import/export of food raw materials; blog on Libya and Saudi cocoa markets.",
+      "fit": "Trades raw chocolate and food raw materials to Arab markets — partner for sourcing/re-export of compound, cocoa products, fillings.",
+      "language": "ar",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "A",
+      "segment": "شركات عربية في تركيا",
+      "sources": [
+        "https://mtroyal.com.tr/ar/product/%D8%B4%D9%88%D9%83%D9%88%D9%84%D8%A7%D8%AA%D8%A9-%D8%AE%D8%A7%D9%85/"
+      ],
+      "type": "Arab-facing importer/exporter of food raw materials (site in Arabic, EN, TR, RU)",
+      "website": "https://mtroyal.com.tr"
+    },
+    {
+      "action": "call",
+      "actionReason": "Address only: Molla Gürani Mah. Millet Cad. No:202/99, Fatih. Visit or call store.",
+      "arabOwned": true,
+      "city": "Istanbul (Fatih) — factory + 5 branches",
+      "company": "Zaitoune (الزيتوني)",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Building Markets listing: factory and five branches.",
+      "fit": "Ghee-based Arabic sweets; also a buyer for whip, fillings and decorations.",
+      "language": "ar",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "B",
+      "segment": "شركات عربية في تركيا",
+      "sources": [
+        "https://buildingmarkets.org/listings/elzeytuni-sweets-2/"
+      ],
+      "type": "Arabic sweets manufacturer, wholesale & retail",
+      "website": ""
+    },
+    {
+      "action": "form",
+      "actionReason": "Website listed in ISO catalogue.",
+      "arabOwned": true,
+      "city": "Istanbul (Fatih) — since 2013",
+      "company": "Muhtar Sweets",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.muhtarsweets.com",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Building Markets; ISO Syrian businesses catalogue (2020).",
+      "fit": "Whip, chocolate decorations, ice-cream sauces.",
+      "language": "ar",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "B",
+      "segment": "شركات عربية في تركيا",
+      "sources": [
+        "https://connect.buildingmarkets.org/listings/muhtar-sweets",
+        "https://www.iso.org.tr/file/Suriyeli_Islemeler_Katalogu-9883.pdf"
+      ],
+      "type": "Syrian sweets & ice cream maker",
+      "website": "https://www.muhtarsweets.com"
+    },
+    {
+      "action": "call",
+      "actionReason": "Only a personal-looking email is listed in the 2020 catalogue — reach the shop directly instead.",
+      "arabOwned": true,
+      "city": "Istanbul",
+      "company": "Tayebat Alsham",
+      "confidence": "low",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "ISO Syrian businesses catalogue (data to Feb 2020, self-reported).",
+      "fit": "Arabic sweets; add cream/fillings.",
+      "language": "ar",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "C",
+      "segment": "شركات عربية في تركيا",
+      "sources": [
+        "https://www.iso.org.tr/file/Suriyeli_Islemeler_Katalogu-9883.pdf"
+      ],
+      "type": "Oriental sweets producer",
+      "website": ""
+    },
+    {
+      "action": "call",
+      "actionReason": "Only a personal-looking email is listed in the 2020 catalogue — reach the shop directly instead.",
+      "arabOwned": true,
+      "city": "Gaziantep",
+      "company": "Shahba Center Tatlı",
+      "confidence": "low",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "ISO Syrian businesses catalogue (2020).",
+      "fit": "Whip, compound, fillings for cakes and chocolates.",
+      "language": "ar",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "B",
+      "segment": "شركات عربية في تركيا",
+      "sources": [
+        "https://www.iso.org.tr/file/Suriyeli_Islemeler_Katalogu-9883.pdf"
+      ],
+      "type": "Arabic & Syrian sweets, pastries, chocolates, cakes",
+      "website": ""
+    },
+    {
+      "action": "call",
+      "actionReason": "Address: İstasyon Mah. 11. Sk. No:46, Nizip.",
+      "arabOwned": true,
+      "city": "Gaziantep (Nizip)",
+      "company": "Toman",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Building Markets listing; ISO catalogue.",
+      "fit": "Already trades baking ingredients — potential sub-distributor in south-east Türkiye and for Syria.",
+      "language": "ar",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "A",
+      "segment": "شركات عربية في تركيا",
+      "sources": [
+        "https://buildingmarkets.org/tr/listings/toman/",
+        "https://www.iso.org.tr/file/Suriyeli_Islemeler_Katalogu-9883.pdf"
+      ],
+      "type": "Food production & trading: cakes, sweets, ice cream, baking ingredients",
+      "website": ""
+    },
+    {
+      "action": "email_intro",
+      "actionReason": "Generic email in ISO catalogue.",
+      "arabOwned": true,
+      "city": "Mersin",
+      "company": "Solo Mamul",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": "https://www.iso.org.tr/file/Suriyeli_Islemeler_Katalogu-9883.pdf",
+        "generalPhone": null,
+        "genericEmail": "info@solomamul.com"
+      },
+      "evidence": "ISO Syrian businesses catalogue (2020).",
+      "fit": "Fillings and compound coatings for cookies.",
+      "language": "ar",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "B",
+      "segment": "شركات عربية في تركيا",
+      "sources": [
+        "https://www.iso.org.tr/file/Suriyeli_Islemeler_Katalogu-9883.pdf"
+      ],
+      "type": "Sweets, cookies, crackers maker",
+      "website": "https://www.facebook.com/solomamul/"
+    },
+    {
+      "action": "call",
+      "actionReason": "No contact published — find via local chamber.",
+      "arabOwned": true,
+      "city": "Gaziantep",
+      "company": "Lazord",
+      "confidence": "low",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "ISO Syrian businesses catalogue (2020).",
+      "fit": "Compound chocolate and spreads.",
+      "language": "ar",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "C",
+      "segment": "شركات عربية في تركيا",
+      "sources": [
+        "https://www.iso.org.tr/file/Suriyeli_Islemeler_Katalogu-9883.pdf"
+      ],
+      "type": "Syrian breakfast products & chocolate delicacies",
+      "website": ""
+    },
+    {
+      "action": "call",
+      "actionReason": "Address only — visit or via Building Markets.",
+      "arabOwned": true,
+      "city": "Gaziantep (Şahinbey) — since 2021",
+      "company": "Almondo Gıda",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Building Markets listing.",
+      "fit": "Trading house that already exports sweets to North Africa — re-export partner.",
+      "language": "ar",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "B",
+      "segment": "شركات عربية في تركيا",
+      "sources": [
+        "https://connect.buildingmarkets.org/listings/almondo-gida"
+      ],
+      "type": "Importer/exporter of sweets, nuts, dried fruit (to China, Libya, Algeria, NL)",
+      "website": ""
+    },
+    {
+      "action": "call",
+      "actionReason": "Address: İkitelli OSB, Mutsan Sanayi Sitesi 10 Blok No:24.",
+      "arabOwned": true,
+      "city": "Istanbul (İkitelli OSB)",
+      "company": "Beyazgül",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Building Markets listing.",
+      "fit": "Industrial Arabic sweets; cream and decoration inputs.",
+      "language": "ar",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "C",
+      "segment": "شركات عربية في تركيا",
+      "sources": [
+        "https://connect.buildingmarkets.org/listings/beyazgul-helva-gida-sanayi-ic-ve-dis-ticaret-limited-sirketi"
+      ],
+      "type": "Arabic sweets manufacturer",
+      "website": ""
+    },
+    {
+      "action": "call",
+      "actionReason": "Address: Yağmur Plaza 2, No:16A, Mezitli.",
+      "arabOwned": true,
+      "city": "Mersin (Mezitli) — since 2018",
+      "company": "Alsafadi Gıda",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Building Markets listing.",
+      "fit": "Food wholesaler for the Arab community in Mersin — sub-distributor for retail packs.",
+      "language": "ar",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "C",
+      "segment": "شركات عربية في تركيا",
+      "sources": [
+        "https://connect.buildingmarkets.org/es/listings/alsafadi-sirketi"
+      ],
+      "type": "Food wholesale & retail, catering",
+      "website": ""
+    },
+    {
+      "action": "email_intro",
+      "actionReason": "Generic email in catalogue.",
+      "arabOwned": true,
+      "city": "Gaziantep",
+      "company": "Khatib Gıda",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": "https://www.iso.org.tr/file/Suriyeli_Islemeler_Katalogu-9883.pdf",
+        "generalPhone": null,
+        "genericEmail": "info@khatibgida.com"
+      },
+      "evidence": "ISO Syrian businesses catalogue (2020).",
+      "fit": "Trading/distribution network — add pastry ingredients to range.",
+      "language": "ar",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "C",
+      "segment": "شركات عربية في تركيا",
+      "sources": [
+        "https://www.iso.org.tr/file/Suriyeli_Islemeler_Katalogu-9883.pdf"
+      ],
+      "type": "Food trading: legumes, canned food, oils, juices",
+      "website": "https://www.khatibgida.com"
+    },
+    {
+      "action": "form",
+      "actionReason": "Website listed in catalogue.",
+      "arabOwned": true,
+      "city": "Gaziantep",
+      "company": "Durgam Gıda",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": "https://www.durgamgida.com",
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "ISO Syrian businesses catalogue (2020).",
+      "fit": "Ingredients trader — possible distributor.",
+      "language": "ar",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "C",
+      "segment": "شركات عربية في تركيا",
+      "sources": [
+        "https://www.iso.org.tr/file/Suriyeli_Islemeler_Katalogu-9883.pdf"
+      ],
+      "type": "Food & drinks, grain mill products, starches",
+      "website": "https://www.durgamgida.com"
+    },
+    {
+      "action": "call",
+      "actionReason": "Address: Marmara Sanayi Sitesi K Blok 8.",
+      "arabOwned": true,
+      "city": "Istanbul (İkitelli OSB)",
+      "company": "Haji Rasheed",
+      "confidence": "medium",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Building Markets listing.",
+      "fit": "Whip, fillings, glazes for cakes.",
+      "language": "ar",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "C",
+      "segment": "شركات عربية في تركيا",
+      "sources": [
+        "https://buildingmarkets.org/listings/haji-rasheed-2/"
+      ],
+      "type": "Bakery: bread, pastries, made-to-order cakes",
+      "website": ""
+    },
+    {
+      "action": "call",
+      "actionReason": "No contact published.",
+      "arabOwned": true,
+      "city": "Gaziantep (İslahiye) — since 2019",
+      "company": "Karanfil Tatlıları",
+      "confidence": "low",
+      "contact": {
+        "contactPageUrl": null,
+        "emailSourceUrl": null,
+        "generalPhone": null,
+        "genericEmail": null
+      },
+      "evidence": "Building Markets listing.",
+      "fit": "Small — sample-size buyer of whip and fillings.",
+      "language": "ar",
+      "lockIn": "No public evidence of an exclusive supplier",
+      "priority": "C",
+      "segment": "شركات عربية في تركيا",
+      "sources": [
+        "https://buildingmarkets.org/listings/karanfil-tatlilari/"
+      ],
+      "type": "Syrian sweets incl. cakes",
+      "website": ""
+    }
+  ],
+  "updatedAt": "2026-10-14T15:30:00Z"
+}
